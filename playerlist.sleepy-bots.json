@@ -1,0 +1,354 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "sleepy's us-west list; only marks bots as cheating.",
+		"title": "sleepylist-bots"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HAVE",
+				"time": 1668509449
+			},
+			"steamid": "[U:1:83393507]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "WHAT",
+				"time": 1668418690
+			},
+			"steamid": "[U:1:103113996]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668424038
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1072663621]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668250026
+			},
+			"steamid": "[U:1:1072798722]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668503544
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1072867041]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668414103
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1072938595]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668413544
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1072990226]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668413168
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1073231215]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668501418
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1077169571]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668412122
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1077172830]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Fuck Nemo #RIPV2",
+				"time": 1668412128
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1077173726]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Fuck Nemo #RIPV2",
+				"time": 1668413519
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1077202584]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668412525
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1077209612]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668505325
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1077222949]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Fuck Nemo #RIPV2",
+				"time": 1668411466
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1077298077]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PurpleFreezer",
+				"time": 1668413234
+			},
+			"steamid": "[U:1:1201491635]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rerun",
+				"time": 1668426295
+			},
+			"steamid": "[U:1:1201589642]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "libacity1939",
+				"time": 1667897998
+			},
+			"steamid": "[U:1:1201724866]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sega The Hedgehog",
+				"time": 1668425955
+			},
+			"steamid": "[U:1:1201813824]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LoboCujo",
+				"time": 1668414148
+			},
+			"steamid": "[U:1:1201819728]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GonGonBoi",
+				"time": 1668500378
+			},
+			"steamid": "[U:1:1201845415]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Welf",
+				"time": 1668414521
+			},
+			"steamid": "[U:1:1201926547]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SenseiTomato",
+				"time": 1668412955
+			},
+			"steamid": "[U:1:1201964104]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cornyhoneybadger",
+				"time": 1668500232
+			},
+			"steamid": "[U:1:1202025332]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dark_Slice",
+				"time": 1668413556
+			},
+			"steamid": "[U:1:1202075477]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)m4gic\u00e2\u0081\u00a3",
+				"time": 1668410860
+			},
+			"steamid": "[U:1:1202169483]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AngeL",
+				"time": 1668414479
+			},
+			"steamid": "[U:1:1202249806]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668512410
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1072867041]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668513945
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1077209895]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Princess Sleepyhead",
+				"time": 1668510812
+			},
+			"steamid": "[U:1:1201768657]"
+		}
+	]
+}

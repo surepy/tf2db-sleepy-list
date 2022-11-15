@@ -1,0 +1,56 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Vinesauce bots, sorry vinesauce! (u dont play tf2 anyway)",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Vinesauce"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "marks anything with 'Fuck Nemo' - who would reasonably use that username anyway?",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Fuck Nemo"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "marks anything with 'Dick Bigsby'",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "equal",
+					"patterns": [
+						"Dick Bigsby"
+					]
+				}
+			}
+		}
+	]
+}

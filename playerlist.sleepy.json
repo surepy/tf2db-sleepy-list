@@ -1,0 +1,260 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt. (will be marked suspicious instead)\nracist tag is used to tag chat trolling people.",
+		"title": "sleepylist"
+	},
+	"players": [
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "The White Man",
+				"time": 1667897998
+			},
+			"proof": [
+				"trolling as 'maga' supporter basically"
+			],
+			"steamid": "[U:1:7150928]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "boxvader",
+				"time": 1668426495
+			},
+			"proof": [
+				"blatantly cheating - heavy aimbot."
+			],
+			"steamid": "[U:1:81373431]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "jeebs",
+				"time": 1668426609
+			},
+			"proof": [
+				"blatantly cheating - antiaiming sniper.",
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:84507795]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "sex: yes",
+				"time": 1667624116
+			},
+			"proof": [
+				"[auto] automatically marked"
+			],
+			"steamid": "[U:1:119960759]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "disneyh8er",
+				"time": 1668254233
+			},
+			"proof": [
+				"crit key, perfect strafes and bhop as scout",
+				"nothing evident beyond reasonable doubt, however."
+			],
+			"steamid": "[U:1:135775763]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SpinosaurusStudios",
+				"time": 1667378160
+			},
+			"proof": [
+				"backed by fiona; blatantly cheating.",
+				"egotistical and attention-hungry, do not interact."
+			],
+			"steamid": "[U:1:198050187]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "hollandice",
+				"time": 1667550349
+			},
+			"proof": [
+				"most likely 95% cheating (see comment section); but i haven't seen it.",
+				"why the fuck are you watching that angle - insta headshot",
+				"can't seem to resolve cyoapda; shoots fakes"
+			],
+			"steamid": "[U:1:233812349]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Andromeda",
+				"time": 1667896099
+			},
+			"steamid": "[U:1:264524680]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Eobard Thawne",
+				"time": 1668426444
+			},
+			"proof": [
+				"blatantly cheating - 180fov aimbot.",
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:356045288]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[EGT] Happy Man",
+				"time": 1668508987
+			},
+			"proof": [
+				"antiaiming, backtracking, etc; fails to resolve CYOAPDA though"
+			],
+			"steamid": "[U:1:379878628]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Zeldek",
+				"time": 1667383528
+			},
+			"steamid": "[U:1:393992900]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Tlamachi",
+				"time": 1667635684
+			},
+			"steamid": "[U:1:420160631]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ZubZub",
+				"time": 1667567620
+			},
+			"proof": [
+				"Listening to game events impossible (DispatchUserMessage) with in-game console or legitmate play, autostrafing.",
+				"*DEAD* ZubZub :  [Other team vote]Definitely Not Racist voted N",
+				"*DEAD* ZubZub :  [Other team vote]Fist Man voted No."
+			],
+			"steamid": "[U:1:436771655]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "f2p egg",
+				"time": 1667646910
+			},
+			"proof": [
+				"agressive aimbot (direct hit soldier likely)"
+			],
+			"steamid": "[U:1:440543798]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mao Tse-Tung",
+				"time": 1667569759
+			},
+			"proof": [
+				"followbotting"
+			],
+			"steamid": "[U:1:919979527]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "StuffedCrust",
+				"time": 1667285808
+			},
+			"proof": [
+				"seen antiaiming beginning of the match on join, jittered spin."
+			],
+			"steamid": "[U:1:1000586700]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "six",
+				"time": 1668416391
+			},
+			"proof": [
+				"agressively backtracking."
+			],
+			"steamid": "[U:1:1088839774]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "horser",
+				"time": 1667896097
+			},
+			"proof": [
+				"everything that ticks the cheater box- he's got it."
+			],
+			"steamid": "[U:1:1089154933]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Election Phlog",
+				"time": 1667903930
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1114950034]"
+		}
+	]
+}
