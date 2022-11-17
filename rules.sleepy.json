@@ -7,7 +7,7 @@
 					"cheater"
 				]
 			},
-			"description": "Vinesauce bots, sorry vinesauce! (u dont play tf2 anyway)",
+			"description": "Vinesauce bots, sorry vinny! (u dont play tf2 anyway)",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -24,7 +24,7 @@
 					"cheater"
 				]
 			},
-			"description": "marks anything with 'Fuck Nemo' - who would reasonably use that username anyway?",
+			"description": "marks anything with 'Fuck Nemo' (unreasonable name anyway)",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,

@@ -156,6 +156,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668511027
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1426904963]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)Vinesauce",
 				"time": 1668500113
 			},
@@ -222,12 +235,12 @@
 			],
 			"last_seen": {
 				"player_name": "Vinesauce",
-				"time": 1668511027
+				"time": 1668511907
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater"
 			],
-			"steamid": "[U:1:1426904963]"
+			"steamid": "[U:1:1447697314]"
 		},
 		{
 			"attributes": [
@@ -235,12 +248,142 @@
 			],
 			"last_seen": {
 				"player_name": "Vinesauce",
-				"time": 1668511907
+				"time": 1668598584
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater"
 			],
-			"steamid": "[U:1:1447697314]"
+			"steamid": "[U:1:1426693147]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)Vinesauce",
+				"time": 1668600599
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1426873564]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Vinesauce",
+				"time": 1668597659
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1428137240]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Vinesauce",
+				"time": 1668596489
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1430657228]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668600599
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1119051277]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)Vinesauce",
+				"time": 1668600599
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1119130749]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668597484
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1128613266]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Vinesauce",
+				"time": 1668600599
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1128716117]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)Vinesauce",
+				"time": 1668600599
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1197815988]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668596615
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1197906926]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668599058
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1197992657]"
 		}
 	]
 }
