@@ -51,6 +51,40 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "'fembot' by pay2lose; new bot in town? not too much instances",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"youtube.com/@p2l"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "a good 98% of people with this tag are cheating, verify and unmark otherwise.",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"[VAC]"
+					]
+				}
+			}
 		}
 	]
 }

@@ -4,7 +4,7 @@
 		"authors": [
 			"surepy"
 		],
-		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt. (will be marked suspicious instead)\nracist tag is used to tag chat trolling people.",
+		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt. (will be marked suspicious instead)\nracist tag is either trolling or automatically marked.",
 		"title": "sleepylist"
 	},
 	"players": [
@@ -20,6 +20,19 @@
 				"trolling as 'maga' supporter basically"
 			],
 			"steamid": "[U:1:7150928]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Clientofwar",
+				"time": 1669097469
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:35842336]"
 		},
 		{
 			"attributes": [
@@ -71,7 +84,7 @@
 				"time": 1668254233
 			},
 			"proof": [
-				"crit key, perfect strafes and bhop as scout",
+				"crit key????? (maybe just unlucky), near perfect, REALLY GOOD strafes as scout",
 				"nothing evident beyond reasonable doubt, however."
 			],
 			"steamid": "[U:1:135775763]"
@@ -110,6 +123,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "batmanbananas19",
+				"time": 1668779833
+			},
+			"proof": [
+				"Edging people they have no intelligence on, aimbot, 'gg nn' after game",
+				"you just 'hvh'ed against a legit, great job."
+			],
+			"steamid": "[U:1:253656939]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Andromeda",
 				"time": 1667896099
 			},
@@ -129,6 +156,19 @@
 				"[auto] automatically marked: Racist"
 			],
 			"steamid": "[U:1:356045288]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Cream with no Sugar",
+				"time": 1669113347
+			},
+			"proof": [
+				"unknown, marked long time ago."
+			],
+			"steamid": "[U:1:359992308]"
 		},
 		{
 			"attributes": [
@@ -193,6 +233,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Padoru GF",
+				"time": 1668596577
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:899775788]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -216,6 +269,19 @@
 				"seen antiaiming beginning of the match on join, jittered spin."
 			],
 			"steamid": "[U:1:1000586700]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Shotgun Symphony",
+				"time": 1669906068
+			},
+			"proof": [
+				"180fov aimbot and noisemaker feature."
+			],
+			"steamid": "[U:1:1052030458]"
 		},
 		{
 			"attributes": [
@@ -258,16 +324,97 @@
 		},
 		{
 			"attributes": [
+				"cheater",
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "Padoru GF",
-				"time": 1668596577
+				"player_name": "3idonotknow",
+				"time": 1668859383
 			},
 			"proof": [
+				"scout crit key and autobhop, autocrouch, autostrafe.",
 				"[auto] automatically marked: Racist"
 			],
-			"steamid": "[U:1:899775788]"
+			"steamid": "[U:1:1168774973]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "STARSCREAM",
+				"time": 1668858596
+			},
+			"proof": [
+				"high fov aimbot, dumbass movement. dude's probably destroyed his crit key by now."
+			],
+			"steamid": "[U:1:1242173426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vince",
+				"time": 1668858596
+			},
+			"proof": [
+				"queueing with inviolatespark1 aka CatholicGod (in official list, [U:1:1114677105])"
+			],
+			"steamid": "[U:1:1259633016]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rainbow pony with a rifle",
+				"time": 1668779394
+			},
+			"proof": [
+				"queueing with [VAC] Fluttershy ([U:1:1302897130]) and [VAC] Twilight Sparkle ([U:1:1252546820])"
+			],
+			"steamid": "[U:1:1282513632]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Secret Scamton",
+				"time": 1668858596
+			},
+			"proof": [
+				"queueing with inviolatespark1 aka CatholicGod (in official list, [U:1:1114677105])"
+			],
+			"steamid": "[U:1:1391420415]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Real Barack Obama",
+				"time": 1669911275
+			},
+			"proof": [
+				"fakelag + ragehacking.",
+				"seemed genuinely angry when kick; please get a better mic."
+			],
+			"steamid": "[U:1:175684622]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "t.tv/thug",
+				"time": 1669909107
+			},
+			"proof": [
+				"ragehacking."
+			],
+			"steamid": "[U:1:1403064210]"
 		}
 	]
 }
