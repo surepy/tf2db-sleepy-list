@@ -10,6 +10,19 @@
 	"players": [
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Twitch.tv/PasteWare {LIVE!}",
+				"time": 1670326929
+			},
+			"proof": [
+				"bro's literally named pasteware."
+			],
+			"steamid": "[U:1:3355867]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -33,6 +46,32 @@
 				"[auto] automatically marked: Racist"
 			],
 			"steamid": "[U:1:35842336]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "YOLO'S PERSONAL MEDIC",
+				"time": 1670326056
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:40869780]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "imfriendlytotally",
+				"time": 1670320993
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:54262337]"
 		},
 		{
 			"attributes": [
@@ -64,6 +103,42 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Old Man Joseph Joestar",
+				"time": 1670323387
+			},
+			"proof": [
+				"aimbotting."
+			],
+			"steamid": "[U:1:86752337]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Armstrong The Giant",
+				"time": 1670387416
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:104802485]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "basil",
+				"time": 1670385609
+			},
+			"steamid": "[U:1:115492298]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -88,6 +163,33 @@
 				"nothing evident beyond reasonable doubt, however."
 			],
 			"steamid": "[U:1:135775763]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "American Hell Fairy",
+				"time": 1670026793
+			},
+			"proof": [
+				"unknown"
+			],
+			"steamid": "[U:1:156963854]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Real Barack Obama",
+				"time": 1669911275
+			},
+			"proof": [
+				"fakelag + ragehacking.",
+				"seemed genuinely angry when kick; please get a better mic."
+			],
+			"steamid": "[U:1:175684622]"
 		},
 		{
 			"attributes": [
@@ -144,6 +246,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Certified Racist",
+				"time": 1670377227
+			},
+			"steamid": "[U:1:340693976]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -195,6 +307,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Americanbrowolf",
+				"time": 1668771502
+			},
+			"proof": [
+				"I have absolutely no idea why this person is marked, moved from bots list."
+			],
+			"steamid": "[U:1:415178517]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -230,6 +355,37 @@
 				"agressive aimbot (direct hit soldier likely)"
 			],
 			"steamid": "[U:1:440543798]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "heilion",
+				"time": 1670134347
+			},
+			"proof": [
+				"heavy aimbot with crit key.",
+				"autodeflect, crit key, etc",
+				"queueing with timelessfootball42 ([U:1:844128111]), WANTED FUGITIVE ([U:1:1230294052])"
+			],
+			"steamid": "[U:1:482385112]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "timelessfootball42",
+				"time": 1670134577
+			},
+			"proof": [
+				"autodetonate.",
+				"queueing with heilion ([U:1:482385112]), WANTED FUGITIVE ([U:1:1230294052])",
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:844128111]"
 		},
 		{
 			"attributes": [
@@ -269,6 +425,19 @@
 				"seen antiaiming beginning of the match on join, jittered spin."
 			],
 			"steamid": "[U:1:1000586700]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "mob.",
+				"time": 1669981547
+			},
+			"proof": [
+				"gameplay is fine; but lv0 and by friendslist association."
+			],
+			"steamid": "[U:1:1051540313]"
 		},
 		{
 			"attributes": [
@@ -339,6 +508,35 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Noob64#9653",
+				"time": 1670138651
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1191993125]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "WANTED FUGITIVE",
+				"time": 1670134459
+			},
+			"proof": [
+				"autodeflect, crit key, etc",
+				"queueing with timelessfootball42 ([U:1:844128111]), heilion ([U:1:482385112])",
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1230294052]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -349,6 +547,19 @@
 				"high fov aimbot, dumbass movement. dude's probably destroyed his crit key by now."
 			],
 			"steamid": "[U:1:1242173426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W A T C H",
+				"time": 1670322069
+			},
+			"proof": [
+				"agressive fakelag."
+			],
+			"steamid": "[U:1:1258712561]"
 		},
 		{
 			"attributes": [
@@ -394,14 +605,36 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Real Barack Obama",
-				"time": 1669911275
+				"player_name": "Coke > Pepsi",
+				"time": 1670057326
 			},
 			"proof": [
-				"fakelag + ragehacking.",
-				"seemed genuinely angry when kick; please get a better mic."
+				"unknown"
 			],
-			"steamid": "[U:1:175684622]"
+			"steamid": "[U:1:1395702744]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Real Human",
+				"time": 1670328072
+			},
+			"steamid": "[U:1:1400985502]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Look Away",
+				"time": 1670328075
+			},
+			"proof": [
+				"ragehacking."
+			],
+			"steamid": "[U:1:1401246994]"
 		},
 		{
 			"attributes": [
@@ -415,6 +648,32 @@
 				"ragehacking."
 			],
 			"steamid": "[U:1:1403064210]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jerry {MYBALLSITCHCASES.NET}",
+				"time": 1670329508
+			},
+			"proof": [
+				"agressive aimbot."
+			],
+			"steamid": "[U:1:1425062581]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "visual studio code user",
+				"time": 1670328051
+			},
+			"proof": [
+				"agressive aimbot and fakelag."
+			],
+			"steamid": "[U:1:1425319355]"
 		}
 	]
 }
