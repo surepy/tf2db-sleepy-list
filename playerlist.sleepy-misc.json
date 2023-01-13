@@ -1,0 +1,222 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "sleepy's us-west misc list, these are mostly garbage data that doesn't really matter.",
+		"title": "sleepylist-misc"
+	},
+	"players": [
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Applesarefake",
+				"time": 1673598249
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:94692611]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "R1ghty",
+				"time": 1673322877
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1115982493]"
+		},
+
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Clientofwar",
+				"time": 1669097469
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:35842336]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "YOLO'S PERSONAL MEDIC",
+				"time": 1670326056
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:40869780]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "ted",
+				"time": 1671520300
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:54262337]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Yup",
+				"time": 1671520177
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:95780121]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Armstrong The Giant",
+				"time": 1670387416
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:104802485]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "CHINA2TAPS",
+				"time": 1670587071
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:118511356]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "sex: yes",
+				"time": 1667624116
+			},
+			"proof": [
+				"[auto] automatically marked"
+			],
+			"steamid": "[U:1:119960759]"
+		},
+        
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Peppy",
+				"time": 1671523142
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:211065642]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Chicken Strip",
+				"time": 1671475697
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:422088600]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "FantaReich",
+				"time": 1672216151
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:885423422]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Padoru GF",
+				"time": 1668596577
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:899775788]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Election Phlog",
+				"time": 1667903930
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1114950034]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Noob64#9653",
+				"time": 1670138651
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1191993125]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "\u2e38 \u26e7 NumB \u26e7 \u2e38",
+				"time": 1671484330
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1271627519]"
+		}
+    ]
+}

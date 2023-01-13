@@ -4,7 +4,7 @@
 		"authors": [
 			"surepy"
 		],
-		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt. (will be marked suspicious instead)\nracist tag is either trolling or automatically marked.",
+		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt. (will be marked suspicious instead)\nracist tag is given here if ur just pointlessly picking fights and being offensive.",
 		"title": "sleepylist"
 	},
 	"players": [
@@ -23,6 +23,59 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "krits me im a girl",
+				"time": 1672712726
+			},
+			"proof": [
+				"autobhop + proj aim."
+			],
+			"steamid": "[U:1:1489114747]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "micupi",
+				"time": 1673067422
+			},
+			"proof": [
+				"either my client was fucking up or was using legit aa (which was flicking)"
+			],
+			"steamid": "[U:1:1221429704]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Karl Marx",
+				"time": 1673516846
+			},
+			"proof": [
+				"esp + crit + etc"
+			],
+			"steamid": "[U:1:479516961]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Puppeteer",
+				"time": 1673600956
+			},
+			"proof": [
+				"180fov aimbot",
+				"https://cdn.discordapp.com/attachments/716525494861824042/1063391691970727966/pptr.mp4"
+			],
+			"steamid": "[U:1:199662380]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -33,45 +86,6 @@
 				"trolling as 'maga' supporter basically"
 			],
 			"steamid": "[U:1:7150928]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Clientofwar",
-				"time": 1669097469
-			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:35842336]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "YOLO'S PERSONAL MEDIC",
-				"time": 1670326056
-			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:40869780]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "imfriendlytotally",
-				"time": 1670320993
-			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:54262337]"
 		},
 		{
 			"attributes": [
@@ -116,19 +130,6 @@
 		},
 		{
 			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Armstrong The Giant",
-				"time": 1670387416
-			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:104802485]"
-		},
-		{
-			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -139,19 +140,6 @@
 		},
 		{
 			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "sex: yes",
-				"time": 1667624116
-			},
-			"proof": [
-				"[auto] automatically marked"
-			],
-			"steamid": "[U:1:119960759]"
-		},
-		{
-			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -159,7 +147,7 @@
 				"time": 1668254233
 			},
 			"proof": [
-				"crit key????? (maybe just unlucky), near perfect, REALLY GOOD strafes as scout",
+				"crit key????? (maybe i was just really unlucky that day); insane strafes",
 				"nothing evident beyond reasonable doubt, however."
 			],
 			"steamid": "[U:1:135775763]"
@@ -187,9 +175,19 @@
 			},
 			"proof": [
 				"fakelag + ragehacking.",
-				"seemed genuinely angry when kick; please get a better mic."
+				"seemed **genuinely** angry when kicked; please get a better mic."
 			],
 			"steamid": "[U:1:175684622]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "surlaw wodahs",
+				"time": 1671522354
+			},
+			"steamid": "[U:1:192725684]"
 		},
 		{
 			"attributes": [
@@ -200,21 +198,34 @@
 				"time": 1667378160
 			},
 			"proof": [
-				"backed by fiona; blatantly cheating.",
-				"egotistical and attention-hungry, do not interact."
+				"backed by fiona; **blatantly** cheating.",
+				"egotistical, attention-hungry, asshat. genuinely a terrible person. **do not interact!**"
 			],
 			"steamid": "[U:1:198050187]"
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sonic Pissing For 10 Hours",
+				"time": 1671519448
+			},
+			"proof": [
+				"antiaiming"
+			],
+			"steamid": "[U:1:208646662]"
+		},
+		{
+			"attributes": [
+				"cheater"
 			],
 			"last_seen": {
 				"player_name": "hollandice",
 				"time": 1667550349
 			},
 			"proof": [
-				"most likely 95% cheating (see comment section); but i haven't seen it.",
+				"havent seen it but most likely 95% cheating (see comment section)",
 				"why the fuck are you watching that angle - insta headshot",
 				"can't seem to resolve cyoapda; shoots fakes"
 			],
@@ -253,6 +264,32 @@
 				"time": 1670377227
 			},
 			"steamid": "[U:1:340693976]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Stop Crying",
+				"time": 1671589231
+			},
+			"proof": [
+				"weird aim, instant reaction; dogshit movement."
+			],
+			"steamid": "[U:1:341464988]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ACP-Dashie",
+				"time": 1670328051
+			},
+			"proof": [
+				"ACP-Dashie, famous cheater"
+			],
+			"steamid": "[U:1:352902349]"
 		},
 		{
 			"attributes": [
@@ -389,19 +426,6 @@
 		},
 		{
 			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Padoru GF",
-				"time": 1668596577
-			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:899775788]"
-		},
-		{
-			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -425,6 +449,19 @@
 				"seen antiaiming beginning of the match on join, jittered spin."
 			],
 			"steamid": "[U:1:1000586700]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pewdiepie (real)",
+				"time": 1672057086
+			},
+			"proof": [
+				"fake latency (691ms) and backtrack."
+			],
+			"steamid": "[U:1:1031789675]"
 		},
 		{
 			"attributes": [
@@ -474,22 +511,37 @@
 				"time": 1667896097
 			},
 			"proof": [
-				"everything that ticks the cheater box- he's got it."
+				"everything that ticks the cheater box- he's got it.",
+				"he turns on everything that isn't antiaim"
 			],
 			"steamid": "[U:1:1089154933]"
 		},
 		{
 			"attributes": [
-				"racist"
+				"suspicious"
 			],
 			"last_seen": {
-				"player_name": "Election Phlog",
-				"time": 1667903930
+				"player_name": "\u0e47",
+				"time": 1671961683
 			},
 			"proof": [
-				"[auto] automatically marked: Racist"
+				"just... odd."
 			],
-			"steamid": "[U:1:1114950034]"
+			"steamid": "[U:1:1128478849]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "whyG",
+				"time": 1671689703
+			},
+			"proof": [
+				"AGRESSIVE aimbot",
+				"https://streamable.com/4evhg0"
+			],
+			"steamid": "[U:1:1160842260]"
 		},
 		{
 			"attributes": [
@@ -505,19 +557,6 @@
 				"[auto] automatically marked: Racist"
 			],
 			"steamid": "[U:1:1168774973]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Noob64#9653",
-				"time": 1670138651
-			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:1191993125]"
 		},
 		{
 			"attributes": [
@@ -586,6 +625,16 @@
 				"queueing with [VAC] Fluttershy ([U:1:1302897130]) and [VAC] Twilight Sparkle ([U:1:1252546820])"
 			],
 			"steamid": "[U:1:1282513632]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sad\u2067\u2067ness",
+				"time": 1670838243
+			},
+			"steamid": "[U:1:1302671890]"
 		},
 		{
 			"attributes": [

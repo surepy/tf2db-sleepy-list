@@ -4,10 +4,113 @@
 		"authors": [
 			"surepy"
 		],
-		"description": "sleepy's us-west list; only marks bots as cheating.",
+		"description": "sleepy's us-west list; only marks bots as cheating- these are ALL bots.",
 		"title": "sleepylist-bots"
 	},
 	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Darken35085",
+				"time": 1673592966
+			},
+			"steamid": "[U:1:1201932956]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Little Loaf",
+				"time": 1673505042
+			},
+			"steamid": "[U:1:1201976864]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DC_CONG",
+				"time": 1673594448
+			},
+			"steamid": "[U:1:1201999973]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SwordManBG6",
+				"time": 1673322788
+			},
+			"steamid": "[U:1:1202004583]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "marleymike23",
+				"time": 1672714265
+			},
+			"steamid": "[U:1:1202143979]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vesper",
+				"time": 1673597435
+			},
+			"steamid": "[U:1:1202350989]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sadmiki1123",
+				"time": 1672714281
+			},
+			"steamid": "[U:1:1216577008]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "peyton.formigoni",
+				"time": 1673597787
+			},
+			"steamid": "[U:1:1201893583]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "INNOVATE.TF(DISCORD.GG/rkJ8qZP)",
+				"time": 1673484896
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1131988817]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Amarrion",
+				"time": 1672712065
+			},
+			"steamid": "[U:1:1484362552]"
+		},
 		{
 			"attributes": [
 				"cheater"
@@ -46,6 +149,19 @@
 				"time": 1669379930
 			},
 			"steamid": "[U:1:917384000]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Dewey For Prime Minister",
+				"time": 1671692777
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:998296990]"
 		},
 		{
 			"attributes": [
@@ -270,6 +386,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "INNOVATE.TF(DISCORD.GG/rkJ8qZP)",
+				"time": 1672059783
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1131988817]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "PurpleFreezer",
 				"time": 1668413234
 			},
@@ -357,10 +486,53 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "ElGero",
+				"time": 1672056788
+			},
+			"steamid": "[U:1:1201744457]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dick Bigsby",
+				"time": 1672056923
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater"
+			],
+			"steamid": "[U:1:1201762559]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Princess Sleepyhead",
 				"time": 1668510812
 			},
 			"steamid": "[U:1:1201768657]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "djylorias",
+				"time": 1672056185
+			},
+			"steamid": "[U:1:1201789746]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Impadop",
+				"time": 1672056203
+			},
+			"steamid": "[U:1:1201798629]"
 		},
 		{
 			"attributes": [
@@ -407,10 +579,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Overbaked potato",
+				"time": 1672056659
+			},
+			"steamid": "[U:1:1201831794]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "GonGonBoi",
 				"time": 1668500378
 			},
 			"steamid": "[U:1:1201845415]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AcMercury",
+				"time": 1672056674
+			},
+			"steamid": "[U:1:1201849484]"
 		},
 		{
 			"attributes": [
@@ -431,6 +623,26 @@
 				"time": 1668600690
 			},
 			"steamid": "[U:1:1201881705]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DaMoldyBread #savetf2",
+				"time": 1672056201
+			},
+			"steamid": "[U:1:1201883883]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NekoMini",
+				"time": 1672056187
+			},
+			"steamid": "[U:1:1201922643]"
 		},
 		{
 			"attributes": [
@@ -566,6 +778,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Lolindir1981",
+				"time": 1672056855
+			},
+			"steamid": "[U:1:1202081668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Exayo #savetf2",
 				"time": 1669618007
 			},
@@ -655,6 +877,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "NoirVoid",
+				"time": 1672056706
+			},
+			"steamid": "[U:1:1215201054]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Roy.",
 				"time": 1668600664
 			},
@@ -733,6 +965,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "unmaker",
+				"time": 1672056638
+			},
+			"steamid": "[U:1:1215918964]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Tokem",
 				"time": 1668600704
 			},
@@ -776,6 +1018,16 @@
 				"time": 1669618139
 			},
 			"steamid": "[U:1:1216313694]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "divinelichkingX",
+				"time": 1672056846
+			},
+			"steamid": "[U:1:1216350750]"
 		},
 		{
 			"attributes": [
@@ -865,6 +1117,16 @@
 				"time": 1669116197
 			},
 			"steamid": "[U:1:1429414923]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "A Normal Hot Dog",
+				"time": 1672140449
+			},
+			"steamid": "[U:1:1430091039]"
 		},
 		{
 			"attributes": [

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "sleepy's us-west list where i don't know if these players are bots are human cheater.",
+		"title": "sleepylist-no-proof"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Zhong Zina",
+				"time": 1672714303
+			},
+			"steamid": "[U:1:1217034986]"
+		}
+	]
+}
