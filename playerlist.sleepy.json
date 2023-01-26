@@ -4,10 +4,49 @@
 		"authors": [
 			"surepy"
 		],
-		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt. (will be marked suspicious instead)\nracist tag is given here if ur just pointlessly picking fights and being offensive.",
+		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt. (will be marked suspicious instead)\nracist tag is given here if ur just pointlessly picking fights and being offensive (ie trolling).",
 		"title": "sleepylist"
 	},
 	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "blabk",
+				"time": 1674553703
+			},
+			"proof": [
+				"seen hvhing in a casual match"
+			],
+			"steamid": "[U:1:259745805]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nuclear fusion(tryhard/police)",
+				"time": 1674609435
+			},
+			"proof": [
+				"dude hvh'ed against bots and lost"
+			],
+			"steamid": "[U:1:283697836]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "the winner",
+				"time": 1674543195
+			},
+			"proof": [
+				"fakelag"
+			],
+			"steamid": "[U:1:1105543]"
+		},
 		{
 			"attributes": [
 				"cheater"
@@ -20,59 +59,6 @@
 				"bro's literally named pasteware."
 			],
 			"steamid": "[U:1:3355867]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "krits me im a girl",
-				"time": 1672712726
-			},
-			"proof": [
-				"autobhop + proj aim."
-			],
-			"steamid": "[U:1:1489114747]"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "micupi",
-				"time": 1673067422
-			},
-			"proof": [
-				"either my client was fucking up or was using legit aa (which was flicking)"
-			],
-			"steamid": "[U:1:1221429704]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Karl Marx",
-				"time": 1673516846
-			},
-			"proof": [
-				"esp + crit + etc"
-			],
-			"steamid": "[U:1:479516961]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Puppeteer",
-				"time": 1673600956
-			},
-			"proof": [
-				"180fov aimbot",
-				"https://cdn.discordapp.com/attachments/716525494861824042/1063391691970727966/pptr.mp4"
-			],
-			"steamid": "[U:1:199662380]"
 		},
 		{
 			"attributes": [
@@ -130,6 +116,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ceryel",
+				"time": 1674532639
+			},
+			"proof": [
+				"aimbotting + rage stack with SunnyD-Pad ([U:1:207152741]), (utf8) [U:1:1450323428], st4rb0y^* ([U:1:377221535])"
+			],
+			"steamid": "[U:1:95556303]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -137,6 +136,19 @@
 				"time": 1670385609
 			},
 			"steamid": "[U:1:115492298]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "webitube-*****2",
+				"time": 1674368582
+			},
+			"proof": [
+				"aimbotting"
+			],
+			"steamid": "[U:1:134455574]"
 		},
 		{
 			"attributes": [
@@ -157,6 +169,19 @@
 				"suspicious"
 			],
 			"last_seen": {
+				"player_name": "my little pony fan",
+				"time": 1673694873
+			},
+			"proof": [
+				"possibly queued with Syn (U:1:1273939688)"
+			],
+			"steamid": "[U:1:144413961]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
 				"player_name": "American Hell Fairy",
 				"time": 1670026793
 			},
@@ -164,6 +189,20 @@
 				"unknown"
 			],
 			"steamid": "[U:1:156963854]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Kirby Elote Gaming S.A",
+				"time": 1673694876
+			},
+			"proof": [
+				"aimbot",
+				"possibly queued with Syn (U:1:1273939688)"
+			],
+			"steamid": "[U:1:166571801]"
 		},
 		{
 			"attributes": [
@@ -202,6 +241,33 @@
 				"egotistical, attention-hungry, asshat. genuinely a terrible person. **do not interact!**"
 			],
 			"steamid": "[U:1:198050187]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Puppeteer",
+				"time": 1673600956
+			},
+			"proof": [
+				"180fov aimbot",
+				"https://cdn.discordapp.com/attachments/716525494861824042/1063391691970727966/pptr.mp4"
+			],
+			"steamid": "[U:1:199662380]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SunnyD-Pad",
+				"time": 1674532682
+			},
+			"proof": [
+				"aimbotting + rage stack with ceryel ([U:1:95556303]), (utf8) [U:1:1450323428], st4rb0y^* ([U:1:377221535])"
+			],
+			"steamid": "[U:1:207152741]"
 		},
 		{
 			"attributes": [
@@ -324,6 +390,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "st4rb0y^*",
+				"time": 1674532697
+			},
+			"proof": [
+				"aimbotting + rage stack with SunnyD-Pad ([U:1:207152741]), (utf8) [U:1:1450323428], ceryel ([U:1:95556303])"
+			],
+			"steamid": "[U:1:377221535]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[EGT] Happy Man",
 				"time": 1668508987
 			},
@@ -392,6 +471,19 @@
 				"agressive aimbot (direct hit soldier likely)"
 			],
 			"steamid": "[U:1:440543798]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Karl Marx",
+				"time": 1673516846
+			},
+			"proof": [
+				"esp + crit + etc"
+			],
+			"steamid": "[U:1:479516961]"
 		},
 		{
 			"attributes": [
@@ -521,6 +613,33 @@
 				"suspicious"
 			],
 			"last_seen": {
+				"player_name": "chip",
+				"time": 1673694776
+			},
+			"proof": [
+				"autobhop and aim it seems, not too sure.",
+				"possibly queued with Syn (U:1:1273939688)"
+			],
+			"steamid": "[U:1:1114501056]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Task Master",
+				"time": 1673694666
+			},
+			"proof": [
+				"queued with Syn ([U:1:1273939688]), blatant aimbot"
+			],
+			"steamid": "[U:1:1125449248]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
 				"player_name": "\u0e47",
 				"time": 1671961683
 			},
@@ -557,6 +676,58 @@
 				"[auto] automatically marked: Racist"
 			],
 			"steamid": "[U:1:1168774973]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "azzy",
+				"time": 1674379179
+			},
+			"proof": [
+				"bro he's literally aimbotting in pyro"
+			],
+			"steamid": "[U:1:1179393337]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Syn",
+				"time": 1673694634
+			},
+			"proof": [
+				"blatant aimbot, '1', etc"
+			],
+			"steamid": "[U:1:1193698937]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MacbookPro2015WithSsd",
+				"time": 1674379655
+			},
+			"proof": [
+				"fakelag + fake latency"
+			],
+			"steamid": "[U:1:1213070897]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "micupi",
+				"time": 1673067422
+			},
+			"proof": [
+				"either my client was fucking up or was using legit aa (which was flicking)"
+			],
+			"steamid": "[U:1:1221429704]"
 		},
 		{
 			"attributes": [
@@ -612,6 +783,19 @@
 				"queueing with inviolatespark1 aka CatholicGod (in official list, [U:1:1114677105])"
 			],
 			"steamid": "[U:1:1259633016]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "winter",
+				"time": 1673694862
+			},
+			"proof": [
+				"likely queued with Syn ([U:1:1273939688])"
+			],
+			"steamid": "[U:1:1273939688]"
 		},
 		{
 			"attributes": [
@@ -723,6 +907,58 @@
 				"agressive aimbot and fakelag."
 			],
 			"steamid": "[U:1:1425319355]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gum",
+				"time": 1674536175
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:1427545129]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u04c1\u04c3\u04c5\u049c\u04da\u046c\u0466\u046e\u0470\u047c\u04fe\u0476\u04a8",
+				"time": 1674532686
+			},
+			"proof": [
+				"aimbotting + rage stack with ceryel ([U:1:95556303]), SunnyD-Pad ([U:1:207152741]), st4rb0y^* ([U:1:377221535])"
+			],
+			"steamid": "[U:1:1450323428]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "frOwOsty",
+				"time": 1670328072
+			},
+			"proof": [
+				"probably cheating, dude will not shut up."
+			],
+			"steamid": "[U:1:1474554828]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "krits me im a girl",
+				"time": 1672712726
+			},
+			"proof": [
+				"autobhop + proj aim."
+			],
+			"steamid": "[U:1:1489114747]"
 		}
 	]
 }

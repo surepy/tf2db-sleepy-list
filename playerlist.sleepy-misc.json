@@ -13,33 +13,6 @@
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "Applesarefake",
-				"time": 1673598249
-			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:94692611]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "R1ghty",
-				"time": 1673322877
-			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:1115982493]"
-		},
-
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
 				"player_name": "Clientofwar",
 				"time": 1669097469
 			},
@@ -73,6 +46,19 @@
 				"[auto] automatically marked: Racist"
 			],
 			"steamid": "[U:1:54262337]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Applesarefake",
+				"time": 1673598249
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:94692611]"
 		},
 		{
 			"attributes": [
@@ -126,7 +112,6 @@
 			],
 			"steamid": "[U:1:119960759]"
 		},
-        
 		{
 			"attributes": [
 				"racist"
@@ -184,6 +169,45 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Dewey For Prime Minister",
+				"time": 1671692777
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:998296990]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Master Batori",
+				"time": 1674540255
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1086764214]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "boo",
+				"time": 1674287090
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1106381207]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Election Phlog",
 				"time": 1667903930
 			},
@@ -191,6 +215,19 @@
 				"[auto] automatically marked: Racist"
 			],
 			"steamid": "[U:1:1114950034]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "R1ghty",
+				"time": 1673322877
+			},
+			"proof": [
+				"[auto] automatically marked: Racist"
+			],
+			"steamid": "[U:1:1115982493]"
 		},
 		{
 			"attributes": [
@@ -207,16 +244,13 @@
 		},
 		{
 			"attributes": [
-				"racist"
+				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Dewey For Prime Minister",
-				"time": 1671692777
+				"player_name": "ManicMike",
+				"time": 1674542249
 			},
-			"proof": [
-				"[auto] automatically marked: Racist"
-			],
-			"steamid": "[U:1:998296990]"
+			"steamid": "[U:1:1215921943]"
 		},
 		{
 			"attributes": [
@@ -231,5 +265,5 @@
 			],
 			"steamid": "[U:1:1271627519]"
 		}
-    ]
+	]
 }
