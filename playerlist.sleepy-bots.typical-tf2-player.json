@@ -1,0 +1,158 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "'typical tf2 player' bots only (use rules instead - 'bad characters').",
+		"title": "sleepylist-bots.typical-tf2-playter"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYP\u0e48ICAL TF2 PLA\u0e48YER",
+				"time": 1676544610
+			},
+			"steamid": "[U:1:20056154]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPICA\u0e48L TF\u0e482 PLAYER",
+				"time": 1676544701
+			},
+			"steamid": "[U:1:77514367]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPI\u0e48CAL TF2 PL\u0e48AYER",
+				"time": 1676544704
+			},
+			"steamid": "[U:1:88176912]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYP\u0e48ICAL TF2 PLA\u0e48YER",
+				"time": 1676544610
+			},
+			"steamid": "[U:1:20056154]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPICAL TF2 P\u0e48LAYER",
+				"time": 1676544903
+			},
+			"steamid": "[U:1:103622125]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPICAL TF\u0e482 PLAYER",
+				"time": 1676545015
+			},
+			"steamid": "[U:1:121242633]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1675754440
+			},
+			"steamid": "[U:1:121777829]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1675754426
+			},
+			"steamid": "[U:1:134973925]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1676111485
+			},
+			"steamid": "[U:1:135234258]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "T\u0e48YPICAL TF2 PLAYE\u0e48R",
+				"time": 1676544617
+			},
+			"steamid": "[U:1:151875232]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1675754446
+			},
+			"steamid": "[U:1:167931323]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPIC\u0e48AL TF2 P\u0e48LAYER",
+				"time": 1676544995
+			},
+			"steamid": "[U:1:170788442]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPICA\u0e48L TF2 PLAYER",
+				"time": 1676544612
+			},
+			"steamid": "[U:1:338827396]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPICAL TF\u0e482 PLAY\u0e48ER",
+				"time": 1676544762
+			},
+			"steamid": "[U:1:1181255741]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPICAL TF\u0e482 PLA\u0e48YER",
+				"time": 1676544764
+			},
+			"steamid": "[U:1:1181407158]"
+		}
+	]
+}

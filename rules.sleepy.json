@@ -85,6 +85,41 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "bad characters",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"\u0e48"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Innovate.tf new p2c it seems",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"INNOVATE.TF",
+						"DISCORD.GG/8QRW2ZF9"
+					]
+				}
+			}
 		}
 	]
 }

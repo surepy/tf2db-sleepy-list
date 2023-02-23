@@ -13,32 +13,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "blabk",
-				"time": 1674553703
-			},
-			"proof": [
-				"seen hvhing in a casual match"
-			],
-			"steamid": "[U:1:259745805]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Nuclear fusion(tryhard/police)",
-				"time": 1674609435
-			},
-			"proof": [
-				"dude hvh'ed against bots and lost"
-			],
-			"steamid": "[U:1:283697836]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "the winner",
 				"time": 1674543195
 			},
@@ -206,6 +180,20 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "hoax",
+				"time": 1667569759
+			},
+			"proof": [
+				"queued with Timing ([U:1:184360469])",
+				"https://cdn.discordapp.com/attachments/716525494861824042/1073162918604066836/cheter.mov"
+			],
+			"steamid": "[U:1:169791438]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -217,6 +205,34 @@
 				"seemed **genuinely** angry when kicked; please get a better mic."
 			],
 			"steamid": "[U:1:175684622]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Coldest Rage",
+				"time": 1674800579
+			},
+			"proof": [
+				"rage stacking w/ 580 ([U:1:1095741268])"
+			],
+			"steamid": "[U:1:177392371]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Timing",
+				"time": 1667569759
+			},
+			"proof": [
+				"aimbotting, doubletap, critkey",
+				"permabanned from skial and blackwonder",
+				"https://cdn.discordapp.com/attachments/716525494861824042/1073162918604066836/cheter.mov"
+			],
+			"steamid": "[U:1:184360469]"
 		},
 		{
 			"attributes": [
@@ -238,7 +254,8 @@
 			},
 			"proof": [
 				"backed by fiona; **blatantly** cheating.",
-				"egotistical, attention-hungry, asshat. genuinely a terrible person. **do not interact!**"
+				"egotistical, attention-hungry, asshat. genuinely a terrible person. **do not interact!**",
+				"tries to hvh a legit i guess"
 			],
 			"steamid": "[U:1:198050187]"
 		},
@@ -316,10 +333,59 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "blabk",
+				"time": 1674553703
+			},
+			"proof": [
+				"seen hvhing in a casual match"
+			],
+			"steamid": "[U:1:259745805]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Andromeda",
 				"time": 1667896099
 			},
 			"steamid": "[U:1:264524680]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nuclear fusion(tryhard/police)",
+				"time": 1674609435
+			},
+			"proof": [
+				"dude hvh'ed against bots and lost"
+			],
+			"steamid": "[U:1:283697836]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TY\u0e48PICAL TF2 PLAY\u0e48ER",
+				"time": 1676544614
+			},
+			"steamid": "[U:1:302855247]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Quest for Pepsi",
+				"time": 1676271061
+			},
+			"proof": [
+				"aimbot + backtrack"
+			],
+			"steamid": "[U:1:335779793]"
 		},
 		{
 			"attributes": [
@@ -426,13 +492,13 @@
 				"suspicious"
 			],
 			"last_seen": {
-				"player_name": "Americanbrowolf",
-				"time": 1668771502
+				"player_name": "Furrito insano",
+				"time": 1674978499
 			},
 			"proof": [
-				"I have absolutely no idea why this person is marked, moved from bots list."
+				"no evidence of cheating, but queued with Furrita insana ([U:1:1131890005])"
 			],
-			"steamid": "[U:1:415178517]"
+			"steamid": "[U:1:418573583]"
 		},
 		{
 			"attributes": [
@@ -544,6 +610,21 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "OYK",
+				"time": 1674795085
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"lil nigger\"",
+				"apparently crithacking, called out from like the entire enemy team."
+			],
+			"steamid": "[U:1:1011906129]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -610,6 +691,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "580",
+				"time": 1674800610
+			},
+			"proof": [
+				"rage stacking w/ Coldest Rage ([U:1:177392371])"
+			],
+			"steamid": "[U:1:1095741268]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -640,6 +734,19 @@
 				"suspicious"
 			],
 			"last_seen": {
+				"player_name": "Nilkrr",
+				"time": 1676271345
+			},
+			"proof": [
+				"likely queued with quest for pespsi (U:1:335779793)"
+			],
+			"steamid": "[U:1:1126302545]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
 				"player_name": "\u0e47",
 				"time": 1671961683
 			},
@@ -647,6 +754,19 @@
 				"just... odd."
 			],
 			"steamid": "[U:1:1128478849]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Furrita insana",
+				"time": 1674978465
+			},
+			"proof": [
+				"aimbot, queued with Furrito insano ([U:1:418573583])"
+			],
+			"steamid": "[U:1:1131890005]"
 		},
 		{
 			"attributes": [
@@ -789,6 +909,19 @@
 				"suspicious"
 			],
 			"last_seen": {
+				"player_name": "DoNotDisturb",
+				"time": 1675650453
+			},
+			"proof": [
+				"seems to never miss a pistol shot"
+			],
+			"steamid": "[U:1:1272664436]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
 				"player_name": "winter",
 				"time": 1673694862
 			},
@@ -809,6 +942,29 @@
 				"queueing with [VAC] Fluttershy ([U:1:1302897130]) and [VAC] Twilight Sparkle ([U:1:1252546820])"
 			],
 			"steamid": "[U:1:1282513632]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "CATastrophe",
+				"time": 1674802048
+			},
+			"proof": [
+				"esp and crit key"
+			],
+			"steamid": "[U:1:1282611083]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "calledbat455",
+				"time": 1674556594
+			},
+			"steamid": "[U:1:1298607016]"
 		},
 		{
 			"attributes": [
@@ -943,7 +1099,7 @@
 				"time": 1670328072
 			},
 			"proof": [
-				"probably cheating, dude will not shut up."
+				"probably cheating + queued with cheaters, dude will not shut up."
 			],
 			"steamid": "[U:1:1474554828]"
 		},
@@ -959,6 +1115,45 @@
 				"autobhop + proj aim."
 			],
 			"steamid": "[U:1:1489114747]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AppleJuiceMann",
+				"time": 1677066388
+			},
+			"proof": [
+				"doubletap"
+			],
+			"steamid": "[U:1:1479846314]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "George Fluigi",
+				"time": 1676807129
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:282069622]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ocluses",
+				"time": 1677063224
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:150442864]"
 		}
 	]
 }
