@@ -1,7 +1,9 @@
 # tf2db-sleepy-list
 sleepy's us-west tf2bd list, marked while playing the game.
 
-manually given "racist" tag is given to people that just waste time by pointlessly pick fights by being edgy.
+I mispelled tf2bd, lol
+
+manually given "racist" tag is given to "oooh look at me im so edgy" people.
 
 ## what do these files mean?
 

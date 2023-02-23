@@ -4,7 +4,7 @@
 		"authors": [
 			"surepy"
 		],
-		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt. (will be marked suspicious instead)\nracist tag is given here if ur just pointlessly picking fights and being offensive (ie trolling).",
+		"description": "sleepy's us-west list; only marks players. users are not marked cheater unless evident beyond a reasonable doubt (will be marked suspicious instead).",
 		"title": "sleepylist"
 	},
 	"players": [
@@ -33,19 +33,6 @@
 				"bro's literally named pasteware."
 			],
 			"steamid": "[U:1:3355867]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "The White Man",
-				"time": 1667897998
-			},
-			"proof": [
-				"trolling as 'maga' supporter basically"
-			],
-			"steamid": "[U:1:7150928]"
 		},
 		{
 			"attributes": [
@@ -499,16 +486,6 @@
 				"no evidence of cheating, but queued with Furrita insana ([U:1:1131890005])"
 			],
 			"steamid": "[U:1:418573583]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Tlamachi",
-				"time": 1667635684
-			},
-			"steamid": "[U:1:420160631]"
 		},
 		{
 			"attributes": [
