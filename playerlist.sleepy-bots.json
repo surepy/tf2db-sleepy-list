@@ -13,29 +13,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "ManicMike",
-				"time": 1677059137
-			},
-			"steamid": "[U:1:1215921943]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "61",
-				"time": 1676802926
-			},
-			"proof": [
-				"i remember it being a bot dont blame me if its a player"
-			],
-			"steamid": "[U:1:89842676]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "i have vac bans :DD",
 				"time": 1674803811
 			},
@@ -43,6 +20,63 @@
 				"bot"
 			],
 			"steamid": "[U:1:50344049]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Maxbox the guy who plays games",
+				"time": 1679990664
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1277487116]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Interceptor",
+				"time": 1680084048
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1251347117]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1679985279
+			},
+			"steamid": "[U:1:1457175510]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1679985281
+			},
+			"steamid": "[U:1:1523261964]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)KingpinKamii",
+				"time": 1679985262
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1523286531]"
 		},
 		{
 			"attributes": [
@@ -63,6 +97,19 @@
 				"time": 1676112418
 			},
 			"steamid": "[U:1:87179381]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "61",
+				"time": 1676802926
+			},
+			"proof": [
+				"i remember it being a bot dont blame me if its a player"
+			],
+			"steamid": "[U:1:89842676]"
 		},
 		{
 			"attributes": [
@@ -1431,6 +1478,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "ManicMike",
+				"time": 1677059137
+			},
+			"steamid": "[U:1:1215921943]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1674119204
 			},
 			"steamid": "[U:1:1215958955]"
@@ -1830,6 +1887,16 @@
 				"time": 1673938800
 			},
 			"steamid": "[U:1:1510616467]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I <3 TF2",
+				"time": 1678486956
+			},
+			"steamid": "[U:1:1524043752]"
 		}
 	]
 }

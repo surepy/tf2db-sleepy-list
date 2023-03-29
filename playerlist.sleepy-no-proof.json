@@ -10,6 +10,19 @@
 	"players": [
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Traveler-401",
+				"time": 1680079506
+			},
+			"proof": [
+				"seems like a bot, acted like a bot; could be a guy trolling and failing."
+			],
+			"steamid": "[U:1:891618310]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -17,6 +30,45 @@
 				"time": 1674287823
 			},
 			"steamid": "[U:1:1256189776]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kool",
+				"time": 1678476684
+			},
+			"proof": [
+				"lbox followbot; not sure if a person is behind it and was afk"
+			],
+			"steamid": "[U:1:1524451809]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Carrot",
+				"time": 1678602085
+			},
+			"proof": [
+				"[association] queued with carat"
+			],
+			"steamid": "[U:1:920391979]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "shitman69420",
+				"time": 1678476261
+			},
+			"proof": [
+				"aim/followbot"
+			],
+			"steamid": "[U:1:1324030309]"
 		}
 	]
 }
