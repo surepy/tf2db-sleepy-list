@@ -34,7 +34,7 @@ omegatronic bots are very common, so i seperated them into a different file.
 #### playerlist.sleepy-bots.sydney.json
 sydnious' bots.
 
-### playerlist.sleepy-bots.typical-tf2-player.json
+##$# playerlist.sleepy-bots.typical-tf2-player.json
 seen a "typical tf2 player" bots at one point.
 
 #### playerlist.sleepy-misc.json
