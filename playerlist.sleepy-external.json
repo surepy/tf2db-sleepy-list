@@ -1,0 +1,107 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "sleepy's us-west list by association and externally // curated externally (not in-game!), if i see them in-game and confident cheating, will merge to main sleepylist",
+		"title": "sleepylist-external"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AXDWT",
+				"time": 1681520458
+			},
+			"proof": [
+				"[association] friend of Sydenious",
+				"runs youtube channel https://www.youtube.com/@axdwt-tf with cheating content"
+			],
+			"steamid": "[U:1:1479372349]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Alex Finger",
+				"time": 1681520458
+			},
+			"proof": [
+				"[association] friend of Sydenious",
+				"url can be seen on rathook.cc website."
+			],
+			"steamid": "7657816534345543"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "qtchan",
+				"time": 1681520458
+			},
+			"proof": [
+				"[association] friend of Sydenious, AXDWT"
+			],
+			"steamid": "[U:1:1522451783]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Jesus Chirst Enjoyer!",
+				"time": 1681520458
+			},
+			"proof": [
+				"[association] friend of Sydenious"
+			],
+			"steamid": "769309201177104"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "NotTrollSEC",
+				"time": 1681520458
+			},
+			"proof": [
+				"[association] friend of Sydenious, Jesus Chirst Enjoyer!, qtchan"
+			],
+			"steamid": "76561199493980737"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.youtube.com/@Sanses64",
+				"time": 1681520458
+			},
+			"proof": [
+				"running a lbox youtube channel // https://www.youtube.com/@Sanses64",
+				"new account: 76561197960525454"
+			],
+			"steamid": "76561198037561462"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "¡ [VΛIVΣ] Sanses",
+				"time": 1681520458
+			},
+			"proof": [
+				"running a lbox youtube channel // https://www.youtube.com/@Sanses64",
+				"old account: 76561198037561462"
+			],
+			"steamid": "76561197960525454"
+		}
+	]
+}

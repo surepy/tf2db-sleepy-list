@@ -26,100 +26,10 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Maxbox the guy who plays games",
-				"time": 1679990664
-			},
-			"proof": [
-				"bot"
-			],
-			"steamid": "[U:1:1277487116]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Interceptor",
-				"time": 1680084048
-			},
-			"proof": [
-				"bot"
-			],
-			"steamid": "[U:1:1251347117]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"time": 1679985279
-			},
-			"steamid": "[U:1:1457175510]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"time": 1679985281
-			},
-			"steamid": "[U:1:1523261964]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "(1)KingpinKamii",
-				"time": 1679985262
-			},
-			"proof": [
-				"bot"
-			],
-			"steamid": "[U:1:1523286531]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "HAVE",
 				"time": 1668509449
 			},
 			"steamid": "[U:1:83393507]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "OM\u0e4aE\u0e4dGA\u0e34TR\u0e4eON\u0e4bI\u0e3aC",
-				"time": 1676112418
-			},
-			"steamid": "[U:1:87179381]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "61",
-				"time": 1676802926
-			},
-			"proof": [
-				"i remember it being a bot dont blame me if its a player"
-			],
-			"steamid": "[U:1:89842676]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "OM\u0e4dE\u0e34GA\u0e4eTR\u0e3aON\u0e4aI\u0e48C",
-				"time": 1676093382
-			},
-			"steamid": "[U:1:100685324]"
 		},
 		{
 			"attributes": [
@@ -136,20 +46,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "OM\u0e3aE\u0e4aGA\u0e34TR\u0e48ON\u0e4eI\u0e4dC",
-				"time": 1676097561
+				"player_name": "hotdog",
+				"time": 1680513327
 			},
-			"steamid": "[U:1:154942190]"
-		},
-		{
-			"attributes": [
-				"cheater"
+			"proof": [
+				"bot"
 			],
-			"last_seen": {
-				"player_name": "O\u0e3aME\u0e4eG\u0e4dATR\u0e4aON\u0e48IC",
-				"time": 1675754470
-			},
-			"steamid": "[U:1:164964043]"
+			"steamid": "[U:1:120480258]"
 		},
 		{
 			"attributes": [
@@ -186,16 +89,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "O\u0e4eME\u0e4aG\u0e48ATR\u0e4dON\u0e3aIC",
-				"time": 1676103506
-			},
-			"steamid": "[U:1:397795046]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "Christopher Scott Kyle",
 				"time": 1674554890
 			},
@@ -216,20 +109,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "O\u0e48ME\u0e4bG\u0e4aATR\u0e3aON\u0e4eIC",
-				"time": 1676111454
+				"player_name": "Revoked",
+				"time": 1680513330
 			},
-			"steamid": "[U:1:857161271]"
-		},
-		{
-			"attributes": [
-				"cheater"
+			"proof": [
+				"bot"
 			],
-			"last_seen": {
-				"player_name": "OM\u0e4eE\u0e49GA\u0e3aTR\u0e48ON\u0e4dI\u0e4aC",
-				"time": 1675754470
-			},
-			"steamid": "[U:1:870137052]"
+			"steamid": "[U:1:480096254]"
 		},
 		{
 			"attributes": [
@@ -470,16 +356,6 @@
 				"[auto] automatically marked: Cheater"
 			],
 			"steamid": "[U:1:1131988817]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "OM\u0e4bE\u0e3aGA\u0e48TR\u0e4dON\u0e4aI\u0e4eC",
-				"time": 1676111454
-			},
-			"steamid": "[U:1:1181461503]"
 		},
 		{
 			"attributes": [
@@ -1740,10 +1616,36 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Interceptor",
+				"time": 1680084048
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1251347117]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[VAC] Twilight Sparkle",
 				"time": 1668773489
 			},
 			"steamid": "[U:1:1252546820]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Maxbox the guy who plays games",
+				"time": 1679990664
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1277487116]"
 		},
 		{
 			"attributes": [
@@ -1863,6 +1765,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1679985279
+			},
+			"steamid": "[U:1:1457175510]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[VAC] Pinkie Pie",
 				"time": 1668773487
 			},
@@ -1887,6 +1798,28 @@
 				"time": 1673938800
 			},
 			"steamid": "[U:1:1510616467]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1679985281
+			},
+			"steamid": "[U:1:1523261964]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)KingpinKamii",
+				"time": 1679985262
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1523286531]"
 		},
 		{
 			"attributes": [

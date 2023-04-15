@@ -8,97 +8,45 @@
 		"title": "sleepylist"
 	},
 	"players": [
-		
 		{
 			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Carat",
-				"time": 1678602057
+				"player_name": "Sydenious",
+				"time": 1681031687
 			},
 			"proof": [
-				"fakelag"
+				"bot host of all the sydney bots."
 			],
-			"steamid": "[U:1:1254940713]"
+			"steamid": "[U:1:1520489906]"
 		},
 		{
 			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Hades",
-				"time": 1677200791
+				"player_name": "-={O.w.n.M}=-Bong Bong",
+				"time": 1681107344
 			},
 			"proof": [
-				"fakelag"
+				"admitted to cheating, is ragehacking"
 			],
-			"steamid": "[U:1:1055878664]"
+			"steamid": "[U:1:1479483018]"
 		},
 		{
 			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "SmellBourp",
-				"time": 1678607468
+				"player_name": "\\-RAZIER-/",
+				"time": 1681290255
 			},
 			"proof": [
-				"aim, kind of oblivious and lost."
+				"see livestream 4-11",
+				"aimbotting, antiaiming (legitAA)"
 			],
-			"steamid": "[U:1:475248804]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "wave",
-				"time": 1677214718
-			},
-			"proof": [
-				"doubletap, antiaim"
-			],
-			"steamid": "[U:1:1043207329]"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "Xambrosa",
-				"time": 1677493214
-			},
-			"proof": [
-				"'autobackstab'?"
-			],
-			"steamid": "[U:1:1509738889]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "\u2661 \uff49\uff56\uff59 \u2661",
-				"time": 1679475595
-			},
-			"proof": [
-				"ragehacking"
-			],
-			"steamid": "[U:1:1159869619]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "\u02d7\u02cf\u02cb \ua4b0 Alicorn \ua4b1 \u02ce\u02ca",
-				"time": 1679913833
-			},
-			"proof": [
-				"extreme aimbot"
-			],
-			"steamid": "[U:1:1276614771]"
+			"steamid": "[U:1:312553903]"
 		},
 		{
 			"attributes": [
@@ -185,6 +133,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "fool4love",
+				"time": 1680513321
+			},
+			"proof": [
+				"ragehacking"
+			],
+			"steamid": "[U:1:120834533]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "webitube-*****2",
 				"time": 1674368582
 			},
@@ -202,7 +163,7 @@
 				"time": 1673694873
 			},
 			"proof": [
-				"possibly queued with Syn (U:1:1273939688)"
+				"[Association Mark] possibly queued with Syn (U:1:1273939688)"
 			],
 			"steamid": "[U:1:144413961]"
 		},
@@ -216,7 +177,7 @@
 			},
 			"proof": [
 				"aimbot",
-				"possibly queued with Syn (U:1:1273939688)"
+				"[Association Mark] possibly queued with Syn (U:1:1273939688)"
 			],
 			"steamid": "[U:1:166571801]"
 		},
@@ -229,7 +190,7 @@
 				"time": 1667569759
 			},
 			"proof": [
-				"queued with Timing ([U:1:184360469])",
+				"[Association mark] queued with Timing ([U:1:184360469])",
 				"https://cdn.discordapp.com/attachments/716525494861824042/1073162918604066836/cheter.mov"
 			],
 			"steamid": "[U:1:169791438]"
@@ -518,7 +479,7 @@
 				"time": 1674978499
 			},
 			"proof": [
-				"no evidence of cheating, but queued with Furrita insana ([U:1:1131890005])"
+				"[Association mark] no evidence of cheating, but queued with Furrita insana ([U:1:1131890005])"
 			],
 			"steamid": "[U:1:418573583]"
 		},
@@ -555,6 +516,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "SmellBourp",
+				"time": 1678607468
+			},
+			"proof": [
+				"aim, kind of oblivious and lost."
+			],
+			"steamid": "[U:1:475248804]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Karl Marx",
 				"time": 1673516846
 			},
@@ -584,6 +558,21 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "John Pork Radio",
+				"time": 1681034786
+			},
+			"proof": [
+				"likely cheating",
+				"[auto] automatically marked: Racist | reason: \"START SPINNING NIGGERS\""
+			],
+			"steamid": "[U:1:486353064]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "timelessfootball42",
 				"time": 1670134577
 			},
@@ -599,6 +588,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Dead Game",
+				"time": 1681034735
+			},
+			"proof": [
+				"aimbot, LOST BY A LEGIT LMAOO"
+			],
+			"steamid": "[U:1:895523372]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Mao Tse-Tung",
 				"time": 1667569759
 			},
@@ -606,6 +608,20 @@
 				"followbotting"
 			],
 			"steamid": "[U:1:919979527]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nova The Protogen",
+				"time": 1680343997
+			},
+			"proof": [
+				"aimbot, walls, backtrack.",
+				"edge + vaccinator against a legit, ur trying so hard..."
+			],
+			"steamid": "[U:1:921831212]"
 		},
 		{
 			"attributes": [
@@ -653,6 +669,33 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Amy (Nova's Property)",
+				"time": 1680343972
+			},
+			"proof": [
+				"[Association Mark] queued with nova ([U:1:921831212]), likely cheating.",
+				"autovaccinator?"
+			],
+			"steamid": "[U:1:1035234122]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "wave",
+				"time": 1677214718
+			},
+			"proof": [
+				"doubletap, antiaim"
+			],
+			"steamid": "[U:1:1043207329]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Shotgun Symphony",
 				"time": 1669906068
 			},
@@ -660,6 +703,19 @@
 				"180fov aimbot and noisemaker feature."
 			],
 			"steamid": "[U:1:1052030458]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hades",
+				"time": 1677200791
+			},
+			"proof": [
+				"fakelag"
+			],
+			"steamid": "[U:1:1055878664]"
 		},
 		{
 			"attributes": [
@@ -711,7 +767,7 @@
 			},
 			"proof": [
 				"autobhop and aim it seems, not too sure.",
-				"possibly queued with Syn (U:1:1273939688)"
+				"[Association mark] possibly queued with Syn (U:1:1273939688)"
 			],
 			"steamid": "[U:1:1114501056]"
 		},
@@ -740,6 +796,19 @@
 				"aimbot, queued with Furrito insano ([U:1:418573583])"
 			],
 			"steamid": "[U:1:1131890005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u2661 \uff49\uff56\uff59 \u2661",
+				"time": 1679475595
+			},
+			"proof": [
+				"ragehacking"
+			],
+			"steamid": "[U:1:1159869619]"
 		},
 		{
 			"attributes": [
@@ -843,6 +912,32 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Carat",
+				"time": 1678602057
+			},
+			"proof": [
+				"fakelag"
+			],
+			"steamid": "[U:1:1254940713]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "willow (she/her)",
+				"time": 1681034735
+			},
+			"proof": [
+				"ragehacking; blatant"
+			],
+			"steamid": "[U:1:1255877820]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "W A T C H",
 				"time": 1670322069
 			},
@@ -889,6 +984,19 @@
 				"likely queued with Syn ([U:1:1273939688])"
 			],
 			"steamid": "[U:1:1273939688]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u02d7\u02cf\u02cb \ua4b0 Alicorn \ua4b1 \u02ce\u02ca",
+				"time": 1679913833
+			},
+			"proof": [
+				"extreme aimbot"
+			],
+			"steamid": "[U:1:1276614771]"
 		},
 		{
 			"attributes": [
@@ -1078,6 +1186,19 @@
 				"autobhop + proj aim."
 			],
 			"steamid": "[U:1:1489114747]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Xambrosa",
+				"time": 1677493214
+			},
+			"proof": [
+				"'autobackstab'?"
+			],
+			"steamid": "[U:1:1509738889]"
 		}
 	]
 }

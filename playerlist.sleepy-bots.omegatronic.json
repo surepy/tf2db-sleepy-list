@@ -1,4 +1,92 @@
 {
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
-	"players": []
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "sleepy's us-west bot list // omegatronic bots. // will get out of hand eventually",
+		"title": "sleepylist-bots.omegatronic"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4aE\u0e4dGA\u0e34TR\u0e4eON\u0e4bI\u0e3aC",
+				"time": 1676112418
+			},
+			"steamid": "[U:1:87179381]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4dE\u0e34GA\u0e4eTR\u0e3aON\u0e4aI\u0e48C",
+				"time": 1676093382
+			},
+			"steamid": "[U:1:100685324]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e3aE\u0e4aGA\u0e34TR\u0e48ON\u0e4eI\u0e4dC",
+				"time": 1676097561
+			},
+			"steamid": "[U:1:154942190]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e3aME\u0e4eG\u0e4dATR\u0e4aON\u0e48IC",
+				"time": 1675754470
+			},
+			"steamid": "[U:1:164964043]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e4eME\u0e4aG\u0e48ATR\u0e4dON\u0e3aIC",
+				"time": 1676103506
+			},
+			"steamid": "[U:1:397795046]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e48ME\u0e4bG\u0e4aATR\u0e3aON\u0e4eIC",
+				"time": 1676111454
+			},
+			"steamid": "[U:1:857161271]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4eE\u0e49GA\u0e3aTR\u0e48ON\u0e4dI\u0e4aC",
+				"time": 1675754470
+			},
+			"steamid": "[U:1:870137052]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4bE\u0e3aGA\u0e48TR\u0e4dON\u0e4aI\u0e4eC",
+				"time": 1676111454
+			},
+			"steamid": "[U:1:1181461503]"
+		},
+	]
 }
