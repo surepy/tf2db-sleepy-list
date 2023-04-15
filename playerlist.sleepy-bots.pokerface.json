@@ -1,0 +1,898 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "sleepy's bot list // 'pokerface' bots aka 'tf2 destroyers' group // KR bots // ripped from: https://steamcommunity.com/gid/103582791473328100/memberslistxml/?xml=1&page=1",
+		"title": "sleepylist-bots.pokerface"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199468483815"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "0x0000001a",
+				"time": 1681031687
+			},
+            "proof": [
+                "main bot host, see sleepylist for more info"
+            ],
+			"steamid": "76561199234205416"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Natr0",
+				"time": 1681031687
+			},
+            "proof": [
+                "secondary main bot host"
+            ],
+			"steamid": "76561199074766784"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199438951271"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199467492107"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199467637955"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199468037718"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199471700588"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199472758008"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489476185"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489603383"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489718460"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489848329"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489913599"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199490061697"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491722913"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199492415920"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199495251655"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199486866264"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199486873541"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199486890414"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199486941469"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487033537"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487099522"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487204812"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487290673"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487334359"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487383346"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487923489"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488006100"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488087921"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488567614"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199493752992"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199495580576"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199483053879"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199483345365"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199483489442"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199483677493"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199483793391"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199483995240"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199485786595"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487466874"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487605179"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487641453"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487747647"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199487772976"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488252265"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488535857"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488653329"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488977016"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489080281"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489107828"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489241575"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199489943477"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199490111051"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491116717"
+		},r
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491147128"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491230609"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491294718"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491544999"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491546451"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491617818"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199492033553"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199492256084"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199492360864"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199492625965"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199492825275"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494163790"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494264420"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494346191"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494367667"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494522469"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494666789"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494702512"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494702850"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494746382"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494798898"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494801247"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494854002"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199494933011"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199495090745"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199495256152"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199495548707"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488273482"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488572639"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199488977581"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491138562"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"steamid": "76561199491482361"
+		}
+	]
+}

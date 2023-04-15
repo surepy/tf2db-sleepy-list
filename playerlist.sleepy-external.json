@@ -102,6 +102,89 @@
 				"old account: 76561198037561462"
 			],
 			"steamid": "76561197960525454"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "deFY",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group"
+			],
+			"steamid": "76561198373317264"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ")",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group",
+				"admitted in comments."
+			],
+			"steamid": "76561199229255315"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "In The Skull",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group"
+			],
+			"steamid": "76561199401563301"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "KRAKENUKRAINE",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group"
+			],
+			"steamid": "76561199074878135"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[KOR]석박사",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group",
+				"get good get lmaobox - profile",
+				"see comments (korean)"
+			],
+			"steamid": "76561199072177307"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group",
+				"Multiple VAC bans on record | 8 day(s) since last ban",
+				"see comments (korean)"
+			],
+			"steamid": "76561199349245874"
 		}
 	]
 }
