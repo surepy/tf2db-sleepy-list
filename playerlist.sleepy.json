@@ -974,14 +974,21 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
 				"player_name": "winter",
 				"time": 1673694862
 			},
 			"proof": [
-				"likely queued with Syn ([U:1:1273939688])"
+				"likely queued with Syn ([U:1:1273939688])",
+				"known as 'pokerface' // bot host",
+				"**AVOID INTERACTING AT ALL COSTS**",
+				"can be commonly seen in DCinside with ip address 122.153 | 포커 페이크⁷⁷⁷(122.153): 커뮤섭에서 쳐박혀서 봇 두려워하는거 불쌍합니다",
+				"https://gall.dcinside.com/board/view/?id=teamfortress2&no=599008",
+				"포커 페이크⁷⁷⁷(122.153): 헨리 오랜만이네 친삭당해서 뭐하는지 몰랐는데 여전히 어선돌리나보네",
+				"ㅇㅇ(115.22): 윗새낀 존나 핵 네임드임",
+				"https://gall.dcinside.com/board/view/?id=teamfortress2&no=598195"
 			],
 			"steamid": "[U:1:1273939688]"
 		},
