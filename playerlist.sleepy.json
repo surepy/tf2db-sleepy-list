@@ -13,46 +13,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydenious",
-				"time": 1681031687
-			},
-			"proof": [
-				"bot host of all the sydney bots."
-			],
-			"steamid": "[U:1:1520489906]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "-={O.w.n.M}=-Bong Bong",
-				"time": 1681107344
-			},
-			"proof": [
-				"admitted to cheating, is ragehacking"
-			],
-			"steamid": "[U:1:1479483018]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "\\-RAZIER-/",
-				"time": 1681290255
-			},
-			"proof": [
-				"see livestream 4-11",
-				"aimbotting, antiaiming (legitAA)"
-			],
-			"steamid": "[U:1:312553903]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "the winner",
 				"time": 1674543195
 			},
@@ -379,6 +339,20 @@
 				"dude hvh'ed against bots and lost"
 			],
 			"steamid": "[U:1:283697836]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\\-RAZIER-/",
+				"time": 1681290255
+			},
+			"proof": [
+				"see livestream 4-11",
+				"aimbotting, antiaiming (legitAA)"
+			],
+			"steamid": "[U:1:312553903]"
 		},
 		{
 			"attributes": [
@@ -984,10 +958,10 @@
 				"likely queued with Syn ([U:1:1273939688])",
 				"known as 'pokerface' // bot host",
 				"**AVOID INTERACTING AT ALL COSTS**",
-				"can be commonly seen in DCinside with ip address 122.153 | 포커 페이크⁷⁷⁷(122.153): 커뮤섭에서 쳐박혀서 봇 두려워하는거 불쌍합니다",
+				"can be commonly seen in DCinside with ip address 122.153 | \ud3ec\ucee4 \ud398\uc774\ud06c\u2077\u2077\u2077(122.153): \ucee4\ubba4\uc12d\uc5d0\uc11c \uccd0\ubc15\ud600\uc11c \ubd07 \ub450\ub824\uc6cc\ud558\ub294\uac70 \ubd88\uc30d\ud569\ub2c8\ub2e4",
 				"https://gall.dcinside.com/board/view/?id=teamfortress2&no=599008",
-				"포커 페이크⁷⁷⁷(122.153): 헨리 오랜만이네 친삭당해서 뭐하는지 몰랐는데 여전히 어선돌리나보네",
-				"ㅇㅇ(115.22): 윗새낀 존나 핵 네임드임",
+				"\ud3ec\ucee4 \ud398\uc774\ud06c\u2077\u2077\u2077(122.153): \ud5e8\ub9ac \uc624\ub79c\ub9cc\uc774\ub124 \uce5c\uc0ad\ub2f9\ud574\uc11c \ubb50\ud558\ub294\uc9c0 \ubab0\ub790\ub294\ub370 \uc5ec\uc804\ud788 \uc5b4\uc120\ub3cc\ub9ac\ub098\ubcf4\ub124",
+				"\u3147\u3147(115.22): \uc717\uc0c8\ub080 \uc874\ub098 \ud575 \ub124\uc784\ub4dc\uc784",
 				"https://gall.dcinside.com/board/view/?id=teamfortress2&no=598195"
 			],
 			"steamid": "[U:1:1273939688]"
@@ -1173,6 +1147,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "-={O.w.n.M}=-Bong Bong",
+				"time": 1681107344
+			},
+			"proof": [
+				"admitted to cheating, is ragehacking"
+			],
+			"steamid": "[U:1:1479483018]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "AppleJuiceMann",
 				"time": 1677066388
 			},
@@ -1206,6 +1193,19 @@
 				"'autobackstab'?"
 			],
 			"steamid": "[U:1:1509738889]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sydenious",
+				"time": 1681031687
+			},
+			"proof": [
+				"bot host of all the sydney bots."
+			],
+			"steamid": "[U:1:1520489906]"
 		}
 	]
 }

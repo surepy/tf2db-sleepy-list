@@ -10,17 +10,16 @@
 	"players": [
 		{
 			"attributes": [
-				"cheater"
+				"suspicious"
 			],
 			"last_seen": {
-				"player_name": "AXDWT",
+				"player_name": "Jesus Chirst Enjoyer!",
 				"time": 1681520458
 			},
 			"proof": [
-				"[association] friend of Sydenious",
-				"runs youtube channel https://www.youtube.com/@axdwt-tf with cheating content"
+				"[association] friend of Sydenious"
 			],
-			"steamid": "[U:1:1479372349]"
+			"steamid": "[I:0:0]"
 		},
 		{
 			"attributes": [
@@ -34,7 +33,132 @@
 				"[association] friend of Sydenious",
 				"url can be seen on rathook.cc website."
 			],
-			"steamid": "7657816534345543"
+			"steamid": "[U:0:1514727239]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u00a1 [V\u039bIV\u03a3] Sanses",
+				"time": 1681520458
+			},
+			"proof": [
+				"running a lbox youtube channel // https://www.youtube.com/@Sanses64",
+				"old account: 76561198037561462"
+			],
+			"steamid": "[U:1:259726]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.youtube.com/@Sanses64",
+				"time": 1681520458
+			},
+			"proof": [
+				"running a lbox youtube channel // https://www.youtube.com/@Sanses64",
+				"new account: 76561197960525454"
+			],
+			"steamid": "[U:1:77295734]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "deFY",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group"
+			],
+			"steamid": "[U:1:413051536]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[KOR]\uc11d\ubc15\uc0ac",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group",
+				"get good get lmaobox - profile",
+				"see comments (korean)"
+			],
+			"steamid": "[U:1:1111911579]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "KRAKENUKRAINE",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group"
+			],
+			"steamid": "[U:1:1114612407]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ")",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group",
+				"admitted in comments."
+			],
+			"steamid": "[U:1:1268989587]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PokerFace",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group",
+				"Multiple VAC bans on record | 8 day(s) since last ban",
+				"see comments (korean)"
+			],
+			"steamid": "[U:1:1388980146]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "In The Skull",
+				"time": 1681031687
+			},
+			"proof": [
+				"in the pokerface group"
+			],
+			"steamid": "[U:1:1441297573]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AXDWT",
+				"time": 1681520458
+			},
+			"proof": [
+				"[association] friend of Sydenious",
+				"runs youtube channel https://www.youtube.com/@axdwt-tf with cheating content"
+			],
+			"steamid": "[U:1:1479372349]"
 		},
 		{
 			"attributes": [
@@ -54,137 +178,13 @@
 				"suspicious"
 			],
 			"last_seen": {
-				"player_name": "Jesus Chirst Enjoyer!",
-				"time": 1681520458
-			},
-			"proof": [
-				"[association] friend of Sydenious"
-			],
-			"steamid": "769309201177104"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
 				"player_name": "NotTrollSEC",
 				"time": 1681520458
 			},
 			"proof": [
 				"[association] friend of Sydenious, Jesus Chirst Enjoyer!, qtchan"
 			],
-			"steamid": "76561199493980737"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "www.youtube.com/@Sanses64",
-				"time": 1681520458
-			},
-			"proof": [
-				"running a lbox youtube channel // https://www.youtube.com/@Sanses64",
-				"new account: 76561197960525454"
-			],
-			"steamid": "76561198037561462"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "¡ [VΛIVΣ] Sanses",
-				"time": 1681520458
-			},
-			"proof": [
-				"running a lbox youtube channel // https://www.youtube.com/@Sanses64",
-				"old account: 76561198037561462"
-			],
-			"steamid": "76561197960525454"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "deFY",
-				"time": 1681031687
-			},
-			"proof": [
-				"in the pokerface group"
-			],
-			"steamid": "76561198373317264"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": ")",
-				"time": 1681031687
-			},
-			"proof": [
-				"in the pokerface group",
-				"admitted in comments."
-			],
-			"steamid": "76561199229255315"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "In The Skull",
-				"time": 1681031687
-			},
-			"proof": [
-				"in the pokerface group"
-			],
-			"steamid": "76561199401563301"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "KRAKENUKRAINE",
-				"time": 1681031687
-			},
-			"proof": [
-				"in the pokerface group"
-			],
-			"steamid": "76561199074878135"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "[KOR]석박사",
-				"time": 1681031687
-			},
-			"proof": [
-				"in the pokerface group",
-				"get good get lmaobox - profile",
-				"see comments (korean)"
-			],
-			"steamid": "76561199072177307"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
-			},
-			"proof": [
-				"in the pokerface group",
-				"Multiple VAC bans on record | 8 day(s) since last ban",
-				"see comments (korean)"
-			],
-			"steamid": "76561199349245874"
+			"steamid": "[U:1:1533715009]"
 		}
 	]
 }
