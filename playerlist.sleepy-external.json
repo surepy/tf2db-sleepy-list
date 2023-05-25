@@ -10,26 +10,16 @@
 	"players": [
 		{
 			"attributes": [
-				"cheater",
-				"exploiter",
-				"racist"
+				"suspicious"
 			],
 			"last_seen": {
-				"player_name": "lispy",
+				"player_name": "Jesus Chirst Enjoyer",
 				"time": 1681520458
 			},
 			"proof": [
-				"lmaobox user and various server bans",
-				"FirePowered.org - Asking for despicable sfms.",
-				"Backpack.tf - Threatening to doxx for not going through a trade.",
-				"Scrap.tf - Site ban.",
-				"Panda-community.com - PermaMute - racism.",
-				"Lazypurples server - Racism." ,
-				"cheating screenshot: lbox | https://steamcommunity.com/sharedfiles/filedetails/?id=2949546006",
-				"https://youtu.be/IUBiEAuNFWo",
-				"https://www.reddit.com/r/tf2/comments/12k0a7p/i_dont_think_this_is_allowed_to_be_posted_here/"
+				"[association] friend of Sydenious"
 			],
-			"steamid": "[U:1:277072248]"
+			"steamid": "[I:0:0]"
 		},
 		{
 			"attributes": [
@@ -72,6 +62,29 @@
 				"new account: 76561197960525454"
 			],
 			"steamid": "[U:1:77295734]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"exploiter",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "lispy",
+				"time": 1681520458
+			},
+			"proof": [
+				"lmaobox user and various server bans",
+				"FirePowered.org - Asking for despicable sfms.",
+				"Backpack.tf - Threatening to doxx for not going through a trade.",
+				"Scrap.tf - Site ban.",
+				"Panda-community.com - PermaMute - racism.",
+				"Lazypurples server - Racism.",
+				"cheating screenshot: lbox | https://steamcommunity.com/sharedfiles/filedetails/?id=2949546006",
+				"https://youtu.be/IUBiEAuNFWo",
+				"https://www.reddit.com/r/tf2/comments/12k0a7p/i_dont_think_this_is_allowed_to_be_posted_here/"
+			],
+			"steamid": "[U:1:277072248]"
 		},
 		{
 			"attributes": [
@@ -172,14 +185,15 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
 				"player_name": "qtchan",
 				"time": 1681520458
 			},
 			"proof": [
-				"[association] friend of Sydenious, AXDWT"
+				"[association] friend of Sydenious, AXDWT",
+				"says: (TF2 legits R stoopid)"
 			],
 			"steamid": "[U:1:1522451783]"
 		},

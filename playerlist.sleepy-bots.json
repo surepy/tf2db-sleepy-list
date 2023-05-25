@@ -1830,6 +1830,32 @@
 				"time": 1678486956
 			},
 			"steamid": "[U:1:1524043752]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HEXATRONIC",
+				"time": 1684489323
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1532136117]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HEXATRONIC",
+				"time": 1683890496
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1540816823]"
 		}
 	]
 }

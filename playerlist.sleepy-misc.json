@@ -4,7 +4,7 @@
 		"authors": [
 			"surepy"
 		],
-		"description": "sleepy's us-west misc list, mostly automatic marks for racism (and proof of their chat)",
+		"description": "sleepy's us-west misc list, these are mostly garbage data in my opinion.",
 		"title": "sleepylist-misc"
 	},
 	"players": [
@@ -55,10 +55,10 @@
 			],
 			"last_seen": {
 				"player_name": "YOLO'S PERSONAL MEDIC",
-				"time": 1677664583
+				"time": 1682330728
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"hacking nigger\""
+				"[auto] automatically marked: Racist | reason: \"fuck this nigger shit\""
 			],
 			"steamid": "[U:1:40869780]"
 		},
@@ -172,6 +172,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Bob",
+				"time": 1682329386
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"ATTENTION: I just got killed by a NIGGER!\""
+			],
+			"steamid": "[U:1:143761067]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Kwush",
 				"time": 1675763335
 			},
@@ -179,6 +192,33 @@
 				"[auto] automatically marked: Racist | reason: \"niggers\""
 			],
 			"steamid": "[U:1:148813958]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Hoppip",
+				"time": 1681633102
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"NIGGER DOWN\""
+			],
+			"steamid": "[U:1:164500106]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Doe",
+				"time": 1683709027
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"it reminds of the nigger in america\"",
+				"[auto] automatically marked: Racist | reason: \"spiderman called me a nigger\""
+			],
+			"steamid": "[U:1:203576405]"
 		},
 		{
 			"attributes": [
@@ -221,6 +261,19 @@
 				"[auto] automatically marked: Racist | reason: \"dirty nigger\""
 			],
 			"steamid": "[U:1:210633183]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "SHruts",
+				"time": 1681628213
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger moment\""
+			],
+			"steamid": "[U:1:223905619]"
 		},
 		{
 			"attributes": [
@@ -272,6 +325,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "tuna",
+				"time": 1681628634
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"Bussy Sakka : you dumb niggers arent even pushing the cart\""
+			],
+			"steamid": "[U:1:298954261]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "76561198272466221",
 				"time": 1680048026
 			},
@@ -279,6 +345,19 @@
 				"[auto] automatically marked: Racist | reason: \"Pyro is for Disabled Niggers\""
 			],
 			"steamid": "[U:1:312200493]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+				"time": 1682666874
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"NO FUCK FAGGOT NIGGER TRANNY NIGGER NIGGER NIGGER\""
+			],
+			"steamid": "[U:1:321314714]"
 		},
 		{
 			"attributes": [
@@ -311,6 +390,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "New Player",
+				"time": 1683286513
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\""
+			],
+			"steamid": "[U:1:450669611]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Kat.",
 				"time": 1676110965
 			},
@@ -318,6 +410,32 @@
 				"[auto] automatically marked: Racist | reason: \"kys nigger\""
 			],
 			"steamid": "[U:1:463500724]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Meowdy",
+				"time": 1683703925
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"gtfo spy nigger\""
+			],
+			"steamid": "[U:1:897923281]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Licinius_Scapula",
+				"time": 1683628495
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger is also pretty funny\""
+			],
+			"steamid": "[U:1:968613637]"
 		},
 		{
 			"attributes": [
@@ -427,6 +545,19 @@
 				"[auto] automatically marked: Racist | reason: \"i hate niggers\""
 			],
 			"steamid": "[U:1:1207289237]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "sandwich",
+				"time": 1684033890
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"i have killed 57 niggers try me\""
+			],
+			"steamid": "[U:1:1208616638]"
 		}
 	]
 }

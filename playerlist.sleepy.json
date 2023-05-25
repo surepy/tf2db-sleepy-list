@@ -39,6 +39,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "abomination",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:36951102]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fatgineer",
+				"time": 1683708316
+			},
+			"steamid": "[U:1:77699411]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "boxvader",
 				"time": 1668426495
 			},
@@ -93,6 +117,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Creek",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:116591561]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "fool4love",
 				"time": 1680513321
 			},
@@ -100,6 +138,20 @@
 				"ragehacking"
 			],
 			"steamid": "[U:1:120834533]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "anubliss",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:122798250]"
 		},
 		{
 			"attributes": [
@@ -216,7 +268,7 @@
 				"time": 1667378160
 			},
 			"proof": [
-				"backed by fiona; **blatantly** cheating.",
+				"backed by fiona + 3 others; **blatantly** cheating.",
 				"egotistical, attention-hungry, asshat. genuinely a terrible person. **do not interact!**",
 				"tries to hvh a legit i guess",
 				"VAC banned (probably tf2)"
@@ -277,6 +329,34 @@
 				"can't seem to resolve cyoapda; shoots fakes"
 			],
 			"steamid": "[U:1:233812349]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rich model sex",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:235261883]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "north east",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:245648585]"
 		},
 		{
 			"attributes": [
@@ -373,6 +453,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "ambasing!!! >//w//<",
+				"time": 1683278188
+			},
+			"steamid": "[U:1:313157011]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "planet",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:316685826]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Quest for Pepsi",
 				"time": 1676271061
 			},
@@ -403,6 +507,20 @@
 				"weird aim, instant reaction; dogshit movement."
 			],
 			"steamid": "[U:1:341464988]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Coopyy",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:350130096]"
 		},
 		{
 			"attributes": [
@@ -460,6 +578,38 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "deer dancing",
+				"time": 1682677035
+			},
+			"proof": [
+				"edging (aimbot), legitAA",
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"deerdance.gay : /fourms (404) /showcase (404) /tos (404) | 'as seen on UC!', 'sponsored by pawhook', 'mfw no backtrack'",
+				"vvxNY2h4HR (guild id 979371875719344178) <- discord invite link, report later",
+				"https://github.com/lykanfox/deer_dance",
+				"https://www.unknowncheats.me/forum/team-fortress-2-a/318116-deer_dance-project.html",
+				"<https://www.unknowncheats.me/forum/team-fortress-2-a/310795-cheat.html> SHA256: 9830e13cdd474735cd021d85d3cb5ffa41f69ea0b69fc8293c382927d2015c38 - DeerDance_[unknowncheats.me]_.dll"
+			],
+			"steamid": "[U:1:393992900]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Wild Rider",
+				"time": 1683971733
+			},
+			"proof": [
+				"fakelag"
+			],
+			"steamid": "[U:1:405881531]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -470,6 +620,33 @@
 				"[Association mark] no evidence of cheating, but queued with Furrita insana ([U:1:1131890005])"
 			],
 			"steamid": "[U:1:418573583]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "M-FeD",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:428240589]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "notaokey",
+				"time": 1682937899
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:430363671]"
 		},
 		{
 			"attributes": [
@@ -539,6 +716,21 @@
 				"queueing with timelessfootball42 ([U:1:844128111]), WANTED FUGITIVE ([U:1:1230294052])"
 			],
 			"steamid": "[U:1:482385112]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "the greatest :3 to ever :3",
+				"time": 1682677035
+			},
+			"proof": [
+				"realname: silly.cx -> hvh.lol",
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"see [U:1:393992900] mark for more detail about deerdance"
+			],
+			"steamid": "[U:1:485050100]"
 		},
 		{
 			"attributes": [
@@ -616,6 +808,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "furrboy",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:937712268]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "StuffedCrust",
 				"time": 1667285808
 			},
@@ -623,6 +829,20 @@
 				"seen antiaiming beginning of the match on join, jittered spin."
 			],
 			"steamid": "[U:1:1000586700]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SpinosaurusStudios2",
+				"time": 1667378160
+			},
+			"proof": [
+				"see SpinosaurusStudios ([U:1:198050187])",
+				"Spino's new account after VAC ban."
+			],
+			"steamid": "[U:1:1010429522]"
 		},
 		{
 			"attributes": [
@@ -723,6 +943,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "spread manipulation scout",
+				"time": 1682940579
+			},
+			"proof": [
+				"followbot medic"
+			],
+			"steamid": "[U:1:1088896035]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "horser",
 				"time": 1667896097
 			},
@@ -747,6 +980,34 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "-hop",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1098676470]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xom",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1099175933]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -758,6 +1019,19 @@
 				"[Association mark] possibly queued with Syn (U:1:1273939688)"
 			],
 			"steamid": "[U:1:1114501056]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "trailer park boys #SAVETF2",
+				"time": 1683035676
+			},
+			"proof": [
+				"ragehacking"
+			],
+			"steamid": "[U:1:1120062382]"
 		},
 		{
 			"attributes": [
@@ -777,6 +1051,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Cuh",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1127954326]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Furrita insana",
 				"time": 1674978465
 			},
@@ -784,6 +1072,20 @@
 				"aimbot, queued with Furrito insano ([U:1:418573583])"
 			],
 			"steamid": "[U:1:1131890005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "chris",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1156070845]"
 		},
 		{
 			"attributes": [
@@ -845,6 +1147,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "shy gal gamin",
+				"time": 1683372151
+			},
+			"proof": [
+				"autobhop + proj aim"
+			],
+			"steamid": "[U:1:1182041127]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Syn",
 				"time": 1673694634
 			},
@@ -852,6 +1167,20 @@
 				"blatant aimbot, '1', etc"
 			],
 			"steamid": "[U:1:1193698937]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "uullee",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1201643559]"
 		},
 		{
 			"attributes": [
@@ -881,6 +1210,20 @@
 				"[auto] automatically marked: Racist"
 			],
 			"steamid": "[U:1:1230294052]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hopar!c56",
+				"time": 1682749931
+			},
+			"proof": [
+				"[GROUP BAN] deer_dance (103582791473056449)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1232583575]"
 		},
 		{
 			"attributes": [
@@ -949,6 +1292,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PUTOSIsgay",
+				"time": 1683037027
+			},
+			"proof": [
+				"ragehacking"
+			],
+			"steamid": "[U:1:1266530014]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -979,6 +1335,16 @@
 				"https://gall.dcinside.com/board/view/?id=teamfortress2&no=598195"
 			],
 			"steamid": "[U:1:1273939688]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199236695838",
+				"time": 1682672173
+			},
+			"steamid": "[U:1:1276430110]"
 		},
 		{
 			"attributes": [
@@ -1220,6 +1586,35 @@
 				"bot host of all the sydney bots."
 			],
 			"steamid": "[U:1:1520489906]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e38",
+				"time": 1683537768
+			},
+			"steamid": "[U:1:1537428366]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1683265584
+			},
+			"steamid": "[U:1:1537500124]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OneTF2 #TheFemboyGang",
+				"time": 1683269938
+			},
+			"steamid": "[U:1:1539600326]"
 		}
 	]
 }
