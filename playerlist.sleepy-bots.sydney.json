@@ -4,7 +4,7 @@
 		"authors": [
 			"surepy"
 		],
-		"description": "sleepy's us-west bot list // sydneious' bots.",
+		"description": "sleepy's us-west bot list // sydneious' bots // lazily generated and manually added",
 		"title": "sleepylist-bots.sydney"
 	},
 	"players": [
@@ -47,7 +47,8 @@
 				"time": 1681031687
 			},
 			"proof": [
-				"not a bot, but is the host of all these bots."
+				"not a bot, but is the host of all these bots.",
+				"[GROUP BAN] SydneyTF2 (103582791473488935)"
 			],
 			"steamid": "[U:1:1520489906]"
 		},
@@ -57,8 +58,12 @@
 			],
 			"last_seen": {
 				"player_name": "Sydney",
-				"time": 1681031687
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1521605836]"
 		},
 		{
@@ -66,9 +71,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "Sydney [F]",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1522139055]"
 		},
 		{
@@ -96,9 +105,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "S\u0e4eydney",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1526286455]"
 		},
 		{
@@ -106,11 +119,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031691
+				"player_name": "Sy\u0e4adney [F]",
+				"time": 1685270883
 			},
 			"proof": [
-				"76561199486570897"
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1526305169]"
 		},
@@ -163,10 +177,11 @@
 			],
 			"last_seen": {
 				"player_name": "Sydney",
-				"time": 1681031682
+				"time": 1685270883
 			},
 			"proof": [
-				"76561199489451102"
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1529185374]"
 		},
@@ -175,8 +190,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1682498564
+				"player_name": "Sy\u0e4ad\u0e3an\u0e3aey",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1531734642]"
 		},
 		{
@@ -184,9 +204,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "S\u0e4ay\u0e4ad\u0e4an\u0e4aey",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1531802991]"
 		},
 		{
@@ -194,9 +218,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "S\u0e4ay\u0e4ad\u0e4aney",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1531998975]"
 		},
 		{
@@ -204,9 +232,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "S\u0e4ay\u0e4ad\u0e4an\u0e4ae\u0e4ay",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532082598]"
 		},
 		{
@@ -214,9 +246,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "Syd\u0e3ane\u0e3ay",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532088385]"
 		},
 		{
@@ -224,9 +260,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "Syd\u0e4aney\u0e3a",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532128635]"
 		},
 		{
@@ -234,9 +274,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "S\u0e4ay\u0e4adney",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532174331]"
 		},
 		{
@@ -244,9 +288,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "Syd\u0e3ane\u0e4ay",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532189182]"
 		},
 		{
@@ -254,9 +302,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "Sydney\u0e4a",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532199970]"
 		},
 		{
@@ -264,9 +316,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "Sydne\u0e4ay",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532218411]"
 		},
 		{
@@ -274,8 +330,27 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1682498565
+				"player_name": "Syd\u0e4aney",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1532317604]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3ayd\u0e3ane\u0e3ay\u0e4a",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532420327]"
 		},
 		{
@@ -283,9 +358,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sydney",
-				"time": 1681031687
+				"player_name": "S\u0e4a\u0e4ay\u0e4ad\u0e4an\u0e4ae\u0e4ay\u0e4a",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532525172]"
 		},
 		{
@@ -293,8 +372,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1682498566
+				"player_name": "Sydn\u0e4aey",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1532759031]"
 		},
 		{
@@ -302,8 +386,83 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1682498562
+				"player_name": "Syd\u0e4aney [F]",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1536903793]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3ay\u0e3adney",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1536974628]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sydney",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1537068632]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3ay\u0e4ad\u0e4an\u0e4ae\u0e4ay\u0e3a",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1537429073]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3ay\u0e3ad\u0e3an\u0e3ae\u0e3ay",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1537500124]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3ay\u0e3ad\u0e3an\u0e3aey",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1537655216]"
 		},
 		{
@@ -311,9 +470,140 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1682498573
+				"player_name": "S\u0e4ay\u0e3adney",
+				"time": 1685270883
 			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1537657802]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3aydney",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1537708640]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3ay\u0e3ad\u0e3aney",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1537763375]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3ay\u0e3ad\u0e3an\u0e3ae\u0e3ay\u0e3a",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
 			"steamid": "[U:1:1537806730]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3ay\u0e4adney",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1537855965]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sydney",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540903325]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e4aydn\u0e4aey",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1546500276]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e4a\u0e4ayd\u0e4ane\u0e4ay",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1547089999]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e4aS\u0e4ay\u0e4ad\u0e4ane\u0e4ay\u0e4a",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1547244701]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Skinny",
+				"time": 1685270883
+			},
+			"proof": [
+				"[GROUP BAN] SydneyTF2 (103582791473488935)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1547325170]"
 		}
 	]
 }

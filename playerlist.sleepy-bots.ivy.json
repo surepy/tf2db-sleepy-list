@@ -1,0 +1,150 @@
+{
+    "$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+    "file_info": {
+        "authors": [],
+        "description": "ivy's bots // auto-generated file marking all members of 1vya, (whitelist: [])",
+        "title": "sleepylist-bots.ivy"
+    },
+    "players": [
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uff49\uff56\uff59\uff41",
+				"time": 1685348662
+			},
+			"steamid": "[U:1:1116723389]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud83d\udc9e \u3010\uff4f\uff56\uff41\u3011 \ud83d\udc9e",
+				"time": 1685348660
+			},
+			"steamid": "[U:1:1147895982]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)\uff49\uff56\uff59\uff41",
+				"time": 1685348658
+			},
+			"steamid": "[U:1:1236852944]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)\uff49\uff56\uff59\uff41",
+				"time": 1685348656
+			},
+			"steamid": "[U:1:1520143545]"
+		},
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\uff49\uff56\uff59\uff41",
+                "time": 1685362066
+            },
+            "proof": [
+                "[GROUP BAN] \ud83d\udc9e \u3010\ufeff\uff49\uff56\uff59\uff41\u3011 \ud83d\udc9e (103582791473686803)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "76561199197118672"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ivya",
+                "time": 1685362066
+            },
+            "proof": [
+                "[GROUP BAN] \ud83d\udc9e \u3010\ufeff\uff49\uff56\uff59\uff41\u3011 \ud83d\udc9e (103582791473686803)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "76561199494944869"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\ud83d\udc9e \u3010\ufeff\uff4f\uff56\uff41\u3011 \ud83d\udc9e",
+                "time": 1685362066
+            },
+            "proof": [
+                "host's alt",
+                "[GROUP BAN] \ud83d\udc9e \u3010\ufeff\uff49\uff56\uff59\uff41\u3011 \ud83d\udc9e (103582791473686803)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "76561199108161710"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\ud83d\udc9e \u3010\ufeff\uff49\uff56\uff59\u3011 \ud83d\udc9e",
+                "time": 1685362066
+            },
+            "proof": [
+                "bot host",
+                "[GROUP BAN] \ud83d\udc9e \u3010\ufeff\uff49\uff56\uff59\uff41\u3011 \ud83d\udc9e (103582791473686803)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "76561199120135347"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ivya",
+                "time": 1685362066
+            },
+            "proof": [
+                "[GROUP BAN] \ud83d\udc9e \u3010\ufeff\uff49\uff56\uff59\uff41\u3011 \ud83d\udc9e (103582791473686803)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "76561199191940442"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\uff49\uff56\uff59\uff41",
+                "time": 1685362066
+            },
+            "proof": [
+                "[GROUP BAN] \ud83d\udc9e \u3010\ufeff\uff49\uff56\uff59\uff41\u3011 \ud83d\udc9e (103582791473686803)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "76561199076989117"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\uff49\uff56\uff59\uff41",
+                "time": 1685362066
+            },
+            "proof": [
+                "[GROUP BAN] \ud83d\udc9e \u3010\ufeff\uff49\uff56\uff59\uff41\u3011 \ud83d\udc9e (103582791473686803)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "76561199480409273"
+        }
+    ]
+}

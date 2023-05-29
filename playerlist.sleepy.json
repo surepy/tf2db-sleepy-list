@@ -390,9 +390,93 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "SPell",
+				"time": 1685356552
+			},
+			"proof": [
+				"edge-aiming / rijin user"
+			],
+			"steamid": "[U:1:296401296]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "unnamed",
+				"time": 1685098857
+			},
+			"proof": [
+				"my party is calling him out, maybe esp? idk."
+			],
+			"steamid": "[U:1:913561808]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Toast19",
+				"time": 1685344337
+			},
+			"proof": [
+				"fakelag + aimbot"
+			],
+			"steamid": "[U:1:1234456292]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Miles \u5c1a\u5fd7",
+				"time": 1685356741
+			},
+			"proof": [
+				"party vouch, dh aim",
+				"[auto] automatically marked: Racist | reason: \"dumb fucking nigger\""
+			],
+			"steamid": "[U:1:1350058873]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Tonight!",
+				"time": 1685274505
+			},
+			"proof": [
+				"server crasher "
+			],
+			"steamid": "[U:1:1529887343]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "[VAC] Dashie",
+				"time": 1683895304
+			},
+			"proof": [
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with '[VAC]' tag are cheating, verify and unmark otherwise.",
+				"[auto] automatically marked: Suspicious | reason: \"https://steamcommunity.com/profiles/76561199242779360/\""
+			],
+			"steamid": "[U:1:1535889947]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
 				"player_name": "Andromeda",
 				"time": 1667896099
 			},
+			"proof": [
+				"marked as cheater previously and don't know why; investigate later"
+			],
 			"steamid": "[U:1:264524680]"
 		},
 		{
