@@ -13,13 +13,55 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "rosne gaming",
-				"time": 1685352668
+				"player_name": "Gene Autry",
+				"time": 1686140236
 			},
 			"proof": [
-				"ragehacking or bot"
+				"rage/bot?",
+				"afk in spawn antiaiming"
 			],
-			"steamid": "[U:1:1528859786]"
+			"steamid": "[U:1:422044]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Carmen",
+				"time": 1686615030
+			},
+			"proof": [
+				"bot??"
+			],
+			"steamid": "[U:1:7492699]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Van McCoy",
+				"time": 1686140532
+			},
+			"proof": [
+				"rage/bot?",
+				"afk in spawn antiaiming"
+			],
+			"steamid": "[U:1:18063081]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bobby Caldwell",
+				"time": 1686140244
+			},
+			"proof": [
+				"rage/bot?",
+				"afk in spawn antiaiming"
+			],
+			"steamid": "[U:1:19507507]"
 		},
 		{
 			"attributes": [
@@ -33,6 +75,34 @@
 				"i remember it being a bot dont blame me if its a player"
 			],
 			"steamid": "[U:1:89842676]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lynyrd Skynyrd",
+				"time": 1686140239
+			},
+			"proof": [
+				"rage/bot?",
+				"afk in spawn antiaiming"
+			],
+			"steamid": "[U:1:127644507]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tiny Tim",
+				"time": 1686140527
+			},
+			"proof": [
+				"rage/bot?",
+				"afk in spawn antiaiming"
+			],
+			"steamid": "[U:1:910893060]"
 		},
 		{
 			"attributes": [
@@ -77,6 +147,18 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1686826865
+			},
+			"proof": [
+				"bot?"
+			],
+			"steamid": "[U:1:1206525625]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -97,6 +179,33 @@
 				"aim/followbot"
 			],
 			"steamid": "[U:1:1324030309]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "btw",
+				"time": 1686140536
+			},
+			"proof": [
+				"movement is pretty human, but why are you staying in this server?"
+			],
+			"steamid": "[U:1:1447012934]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Paul Williams",
+				"time": 1686140530
+			},
+			"proof": [
+				"rage/bot?",
+				"afk in spawn antiaiming"
+			],
+			"steamid": "[U:1:1484125171]"
 		},
 		{
 			"attributes": [

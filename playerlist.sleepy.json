@@ -101,6 +101,22 @@
 		},
 		{
 			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "76561198048051125",
+				"time": 1686616066
+			},
+			"proof": [
+				"**9** sourcebans, 4 of which are cheating related",
+				"previously known as 'chadchad'",
+				"[auto] automatically marked: Racist | reason: \"boil every single nigger in oil\""
+			],
+			"steamid": "[U:1:87785397]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -346,6 +362,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Peiko",
+				"time": 1685958989
+			},
+			"proof": [
+				"queued with crit bucket "
+			],
+			"steamid": "[U:1:240936303]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -387,87 +416,6 @@
 		},
 		{
 			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "SPell",
-				"time": 1685356552
-			},
-			"proof": [
-				"edge-aiming / rijin user"
-			],
-			"steamid": "[U:1:296401296]"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "unnamed",
-				"time": 1685098857
-			},
-			"proof": [
-				"my party is calling him out, maybe esp? idk."
-			],
-			"steamid": "[U:1:913561808]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Toast19",
-				"time": 1685344337
-			},
-			"proof": [
-				"fakelag + aimbot"
-			],
-			"steamid": "[U:1:1234456292]"
-		},
-		{
-			"attributes": [
-				"cheater",
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Miles \u5c1a\u5fd7",
-				"time": 1685356741
-			},
-			"proof": [
-				"party vouch, dh aim",
-				"[auto] automatically marked: Racist | reason: \"dumb fucking nigger\""
-			],
-			"steamid": "[U:1:1350058873]"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "Tonight!",
-				"time": 1685274505
-			},
-			"proof": [
-				"server crasher "
-			],
-			"steamid": "[U:1:1529887343]"
-		},
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "[VAC] Dashie",
-				"time": 1683895304
-			},
-			"proof": [
-				"[auto] automatically marked: Suspicious | reason: a good 98% of people with '[VAC]' tag are cheating, verify and unmark otherwise.",
-				"[auto] automatically marked: Suspicious | reason: \"https://steamcommunity.com/profiles/76561199242779360/\""
-			],
-			"steamid": "[U:1:1535889947]"
-		},
-		{
-			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -504,6 +452,33 @@
 				"dude hvh'ed against bots and lost"
 			],
 			"steamid": "[U:1:283697836]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SPell",
+				"time": 1685356552
+			},
+			"proof": [
+				"edge-aiming / lbox user",
+				"https://www.youtube.com/channel/UCdSOyGkvc5IEGWEGbL8Xy-A"
+			],
+			"steamid": "[U:1:296401296]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "deaths aproach",
+				"time": 1686826153
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:298023464]"
 		},
 		{
 			"attributes": [
@@ -659,6 +634,26 @@
 				"antiaiming, backtracking, etc; fails to resolve CYOAPDA though"
 			],
 			"steamid": "[U:1:379878628]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "wowzers",
+				"time": 1686614706
+			},
+			"proof": [
+				"aim, blatant // also known as Octovender",
+				"**rgl main player** - possibly impossible to kick.",
+				"[17:04:41] <76561198048051125> 76561198048051125 : wowzers u toggled rn?",
+				"[17:04:54] <76561198347284926> wowzers : i am ya",
+				"[17:04:57] <76561198347284926> wowzers : in my gamer chair",
+				"https://media.discordapp.net/attachments/716525494861824042/1117974473296072755/2023-06-12_17-26-08.mp4",
+				"https://media.discordapp.net/attachments/716525494861824042/1117974474655027210/2023-06-12_17-26-08-1.mp4",
+				"https://demos.tf/996013 tick 30842 & 45333"
+			],
+			"steamid": "[U:1:387019198]"
 		},
 		{
 			"attributes": [
@@ -865,6 +860,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "unnamed",
+				"time": 1685098857
+			},
+			"proof": [
+				"blatant aim"
+			],
+			"steamid": "[U:1:913561808]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Mao Tse-Tung",
 				"time": 1667569759
 			},
@@ -1008,6 +1016,19 @@
 				"fakelag"
 			],
 			"steamid": "[U:1:1055878664]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud83d\udd39\ufe0fLobby\ud83d\udd39",
+				"time": 1686140751
+			},
+			"proof": [
+				"\"legit\"hacking, low fov"
+			],
+			"steamid": "[U:1:1080344200]"
 		},
 		{
 			"attributes": [
@@ -1314,6 +1335,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Toast19",
+				"time": 1685344337
+			},
+			"proof": [
+				"fakelag + aimbot"
+			],
+			"steamid": "[U:1:1234456292]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "STARSCREAM",
 				"time": 1668858596
 			},
@@ -1327,6 +1361,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "NoX the Cheetah",
+				"time": 1685427923
+			},
+			"proof": [
+				"autovaccinator",
+				"queued with [U:1:1533732950], [U:1:1255177545]"
+			],
+			"steamid": "[U:1:1253994171]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Carat",
 				"time": 1678602057
 			},
@@ -1334,6 +1382,20 @@
 				"fakelag"
 			],
 			"steamid": "[U:1:1254940713]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Warped_Phoenix",
+				"time": 1685427930
+			},
+			"proof": [
+				"ragehacking (antiaim)",
+				"queued with [U:1:1533732950], [U:1:1253994171]"
+			],
+			"steamid": "[U:1:1255177545]"
 		},
 		{
 			"attributes": [
@@ -1481,6 +1543,21 @@
 		},
 		{
 			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Miles \u5c1a\u5fd7",
+				"time": 1685356741
+			},
+			"proof": [
+				"party vouch, dh aim",
+				"[auto] automatically marked: Racist | reason: \"dumb fucking nigger\""
+			],
+			"steamid": "[U:1:1350058873]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1540,6 +1617,19 @@
 				"ragehacking."
 			],
 			"steamid": "[U:1:1403064210]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Crit Bucket",
+				"time": 1685958979
+			},
+			"proof": [
+				"likely cheating, low fov"
+			],
+			"steamid": "[U:1:1409744894]"
 		},
 		{
 			"attributes": [
@@ -1673,6 +1763,47 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Tonight!",
+				"time": 1685274505
+			},
+			"proof": [
+				"server crasher "
+			],
+			"steamid": "[U:1:1529887343]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "look at this cat",
+				"time": 1685427923
+			},
+			"proof": [
+				"ragehacking",
+				"queued with [U:1:1253994171], [U:1:1255177545]"
+			],
+			"steamid": "[U:1:1533732950]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "[VAC] Dashie",
+				"time": 1683895304
+			},
+			"proof": [
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with '[VAC]' tag are cheating, verify and unmark otherwise.",
+				"[auto] automatically marked: Suspicious | reason: \"https://steamcommunity.com/profiles/76561199242779360/\""
+			],
+			"steamid": "[U:1:1535889947]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1699,6 +1830,19 @@
 				"time": 1683269938
 			},
 			"steamid": "[U:1:1539600326]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Goth",
+				"time": 1686652721
+			},
+			"proof": [
+				"blatant aim"
+			],
+			"steamid": "[U:1:1543431386]"
 		}
 	]
 }
