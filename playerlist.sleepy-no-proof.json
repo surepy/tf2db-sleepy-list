@@ -65,6 +65,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Foop",
+				"time": 1687852833
+			},
+			"proof": [
+				"[association mark]"
+			],
+			"steamid": "[U:1:82288877]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {

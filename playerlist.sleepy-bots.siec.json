@@ -1,0 +1,137 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "seic's bots // miku miku oo ee oo",
+		"title": "sleepylist-bots.seic"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec #freetayk",
+				"time": 1687911473
+			},
+			"proof": [
+				"bot host"
+			],
+			"steamid": "[U:1:1529711287]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687911342
+			},
+			"proof": [
+				"[GROUP BAN] bigboobsthecat (103582791473785379) - filtered",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1559183095]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687911342
+			},
+			"proof": [
+				"[GROUP BAN] bigboobsthecat (103582791473785379) - filtered",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1559569231]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687911342
+			},
+			"proof": [
+				"[GROUP BAN] bigboobsthecat (103582791473785379) - filtered",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1559569662]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687911342
+			},
+			"proof": [
+				"[GROUP BAN] bigboobsthecat (103582791473785379) - filtered",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1559840573]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687911342
+			},
+			"proof": [
+				"[GROUP BAN] bigboobsthecat (103582791473785379) - filtered",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1559869643]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687911342
+			},
+			"proof": [
+				"[GROUP BAN] bigboobsthecat (103582791473785379) - filtered",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1559871367]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687911342
+			},
+			"proof": [
+				"[GROUP BAN] bigboobsthecat (103582791473785379) - filtered",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1560104179]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687911342
+			},
+			"proof": [
+				"[GROUP BAN] bigboobsthecat (103582791473785379) - filtered",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1560194491]"
+		}
+	]
+}

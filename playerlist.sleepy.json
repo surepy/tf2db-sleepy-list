@@ -336,6 +336,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "$crim",
+				"time": 1687861148
+			},
+			"proof": [
+				"antiaim"
+			],
+			"steamid": "[U:1:209973866]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "hollandice",
 				"time": 1667550349
 			},
@@ -679,6 +692,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "nuclearcornonthecob365",
+				"time": 1687828820
+			},
+			"proof": [
+				"general cheating"
+			],
+			"steamid": "[U:1:399239913]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Wild Rider",
 				"time": 1683971733
 			},
@@ -741,6 +767,19 @@
 				"*DEAD* ZubZub :  [Other team vote]Fist Man voted No."
 			],
 			"steamid": "[U:1:436771655]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Plaguedoctor27",
+				"time": 1687479356
+			},
+			"proof": [
+				"aim, terrible gamesense "
+			],
+			"steamid": "[U:1:439834930]"
 		},
 		{
 			"attributes": [
@@ -867,6 +906,19 @@
 				"blatant aim"
 			],
 			"steamid": "[U:1:913561808]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "K4L1",
+				"time": 1687862187
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:914877709]"
 		},
 		{
 			"attributes": [
@@ -1299,6 +1351,19 @@
 				"fakelag + fake latency"
 			],
 			"steamid": "[U:1:1213070897]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fzb",
+				"time": 1687852806
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:1219221495]"
 		},
 		{
 			"attributes": [

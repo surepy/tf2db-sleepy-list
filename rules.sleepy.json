@@ -7,57 +7,6 @@
 					"cheater"
 				]
 			},
-			"description": "Vinesauce bots, sorry vinny! (u dont play tf2 anyway)",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"Vinesauce"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "marks anything with 'Fuck Nemo' (unreasonable name anyway)",
-			"triggers": {
-				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"Fuck Nemo"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "marks anything with 'Dick Bigsby'",
-			"triggers": {
-				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "equal",
-					"patterns": [
-						"Dick Bigsby"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
 			"description": "'fembot' by pay2lose; new bot in town? not too much instances",
 			"triggers": {
 				"personaname_text_match": {
@@ -117,6 +66,40 @@
 					"patterns": [
 						"INNOVATE.TF",
 						"DISCORD.GG/8QRW2ZF9"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "skynet bot's discord invite id",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"WRgscGnCGe"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "'qt' bot's discord invite id",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"FB6YuUvQQA"
 					]
 				}
 			}

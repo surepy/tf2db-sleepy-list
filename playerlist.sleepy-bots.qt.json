@@ -1,0 +1,361 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "queecore's bots, Sewerslvt based tbh",
+		"title": "sleepylist-bots.qt"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "M7MD3BD0",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1112485041]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1513160827]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1513268594]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1513389968]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1513461221]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1513500531]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1513596190]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1513896866]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1513965466]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067 discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1515492079]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067 discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1515618093]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1517819482]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1517888658]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1519681515]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"qt bot"
+			],
+			"steamid": "[U:1:1520002425]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"qt bot"
+			],
+			"steamid": "[U:1:1520269665]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1520543590]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1520624186]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1520734020]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u266b queecore \u2665",
+				"time": 1687910100
+			},
+			"proof": [
+				"bot host of qt bots",
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1522451783]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1526603447]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1526993913]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1527387163]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TotallyNotTrollSEC",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1536964642]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xxprotrickstabprogame2015",
+				"time": 1687910100
+			},
+			"proof": [
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1547614082]"
+		}
+	]
+}

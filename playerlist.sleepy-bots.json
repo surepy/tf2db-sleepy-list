@@ -299,6 +299,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "SkyNet - Discord.gg/WRgscGnCGe",
+				"time": 1687861792
+			},
+			"steamid": "[U:1:405773298]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "A pile of bones",
 				"time": 1685351214
 			},
@@ -2336,6 +2346,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Carmen",
+				"time": 1687304157
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1548769331]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1686137066
 			},
 			"proof": [
@@ -2354,6 +2377,42 @@
 				"bot"
 			],
 			"steamid": "[U:1:1550701314]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SkyNet - Discord.gg/WRgscGnCGe",
+				"time": 1687861792
+			},
+			"steamid": "[U:1:1550982080]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Carmen",
+				"time": 1687828815
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1558211192]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Siec",
+				"time": 1687862202
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1559869643]"
 		}
 	]
 }
