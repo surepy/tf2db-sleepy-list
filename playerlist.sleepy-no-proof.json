@@ -108,6 +108,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "average hood black guy",
+				"time": 1688100225
+			},
+			"proof": [
+				"bot/rage"
+			],
+			"steamid": "[U:1:398872956]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Tiny Tim",
 				"time": 1686140527
 			},
@@ -232,6 +245,19 @@
 				"lbox followbot; not sure if a person is behind it and was afk"
 			],
 			"steamid": "[U:1:1524451809]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Miguel O'Hara",
+				"time": 1688100220
+			},
+			"proof": [
+				"bot/rage"
+			],
+			"steamid": "[U:1:1543334143]"
 		}
 	]
 }

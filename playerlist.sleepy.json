@@ -26,49 +26,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Alii",
-				"time": 1688044196
-			},
-			"proof": [
-				"url is 'id/nullcorecc'"
-			],
-			"steamid": "[U:1:871567414]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "VirtualQueefs",
-				"time": 1688042420
-			},
-			"proof": [
-				"he seems lost, using ~90fov aim"
-			],
-			"steamid": "[U:1:1561199362]"
-		},
-		{
-			"attributes": [
-				"cheater",
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Mr. Imbleblehblah",
-				"time": 1688038184
-			},
-			"proof": [
-				"[auto] automatically marked: Racist | reason: \"Attention all gay/faggots/niggers/trannyfaggots are pedophiles please report them to steam so they can get community banned\"",
-				"[04:00:50] <76561198412808893> mizuki oshi : antiaim or ur gay",
-				"[04:00:57] <76561199404441254> Mr. Imbleblehblah : aignt ill antiaim",
-				"lmao he actually started antiaiming"
-			],
-			"steamid": "[U:1:1444175526]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "Twitch.tv/PasteWare {LIVE!}",
 				"time": 1670326929
 			},
@@ -929,6 +886,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Alii",
+				"time": 1688044196
+			},
+			"proof": [
+				"url is 'id/nullcorecc'"
+			],
+			"steamid": "[U:1:871567414]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Dead Game",
 				"time": 1681034735
 			},
@@ -1780,6 +1750,23 @@
 		},
 		{
 			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Mr. Imbleblehblah",
+				"time": 1688038184
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"Attention all gay/faggots/niggers/trannyfaggots are pedophiles please report them to steam so they can get community banned\"",
+				"[04:00:50] <76561198412808893> mizuki oshi : antiaim or ur gay",
+				"[04:00:57] <76561199404441254> Mr. Imbleblehblah : aignt ill antiaim",
+				"lmao he actually started antiaiming"
+			],
+			"steamid": "[U:1:1444175526]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1898,17 +1885,18 @@
 		},
 		{
 			"attributes": [
+				"racist",
 				"suspicious"
 			],
 			"last_seen": {
-				"player_name": "[VAC] Dashie",
-				"time": 1683895304
+				"player_name": "airy",
+				"time": 1688728079
 			},
 			"proof": [
-				"[auto] automatically marked: Suspicious | reason: a good 98% of people with '[VAC]' tag are cheating, verify and unmark otherwise.",
-				"[auto] automatically marked: Suspicious | reason: \"https://steamcommunity.com/profiles/76561199242779360/\""
+				"[association] possibly queued with Pinkie (76561199242779360)",
+				"[auto] automatically marked: Racist | reason: \"kick that nigger\""
 			],
-			"steamid": "[U:1:1535889947]"
+			"steamid": "[U:1:1270230767]"
 		},
 		{
 			"attributes": [
@@ -1951,6 +1939,32 @@
 				"blatant aim"
 			],
 			"steamid": "[U:1:1543431386]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Legend",
+				"time": 1688647588
+			},
+			"proof": [
+				"ragehacking"
+			],
+			"steamid": "[U:1:1546951280]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "VirtualQueefs",
+				"time": 1688042420
+			},
+			"proof": [
+				"he seems lost, using ~90fov aim"
+			],
+			"steamid": "[U:1:1561199362]"
 		}
 	]
 }

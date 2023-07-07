@@ -1927,23 +1927,23 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "infatuation",
-				"time": 1673935629
+				"player_name": "Bill Withers",
+				"time": 1688691337
 			},
-			"steamid": "[U:1:1229699738]"
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1222285178]"
 		},
 		{
 			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Mr. Guy",
-				"time": 1685354782
+				"player_name": "infatuation",
+				"time": 1673935629
 			},
-			"proof": [
-				"bot"
-			],
-			"steamid": "[U:1:1235784446]"
+			"steamid": "[U:1:1229699738]"
 		},
 		{
 			"attributes": [
@@ -2393,6 +2393,45 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Fatboy Slim",
+				"time": 1688691333
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1556684489]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Derrick May",
+				"time": 1688691347
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1557526568]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "David Dundas",
+				"time": 1688691329
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1557612435]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Carmen",
 				"time": 1687828815
 			},
@@ -2413,6 +2452,136 @@
 				"bot"
 			],
 			"steamid": "[U:1:1559869643]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dispassionatekristy",
+				"time": 1688647338
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1561413446]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kevintheheaven",
+				"time": 1688647474
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1561614269]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bullneckedcharlie",
+				"time": 1688647291
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1561769426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "IamSue",
+				"time": 1688647330
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1561852654]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "michaelthecycle",
+				"time": 1688647464
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1561869830]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "batwing_norman",
+				"time": 1688647278
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1561870066]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "abominablemelvin",
+				"time": 1688647537
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1562081855]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "attractiveryana",
+				"time": 1688645360
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1562120761]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "catlikejoe",
+				"time": 1688645344
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1562200688]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gonnashawna",
+				"time": 1688645367
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1562212398]"
 		}
 	]
 }

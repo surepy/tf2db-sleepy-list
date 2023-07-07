@@ -604,6 +604,63 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1547325170]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1688727944
+			},
+			"steamid": "[U:1:1548528735]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1688725820
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1548783434]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1688725812
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1548893762]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1688725823
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1549135350]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1688725816
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1549183518]"
 		}
 	]
 }
