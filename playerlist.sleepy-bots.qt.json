@@ -13,20 +13,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "M7MD3BD0",
-				"time": 1687910100
-			},
-			"proof": [
-				"[GROUP BAN] qt TF2 (103582791473302265)",
-				"generated from group_bans.py"
-			],
-			"steamid": "[U:1:1112485041]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "qt \u2067discord.gg/FB6YuUvQQA",
 				"time": 1687910100
 			},
@@ -328,34 +314,6 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1527387163]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "TotallyNotTrollSEC",
-				"time": 1687910100
-			},
-			"proof": [
-				"[GROUP BAN] qt TF2 (103582791473302265)",
-				"generated from group_bans.py"
-			],
-			"steamid": "[U:1:1536964642]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "xxprotrickstabprogame2015",
-				"time": 1687910100
-			},
-			"proof": [
-				"[GROUP BAN] qt TF2 (103582791473302265)",
-				"generated from group_bans.py"
-			],
-			"steamid": "[U:1:1547614082]"
 		}
 	]
 }

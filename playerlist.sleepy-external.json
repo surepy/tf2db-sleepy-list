@@ -209,6 +209,36 @@
 				"[association] friend of Sydenious, Jesus Chirst Enjoyer!, qtchan"
 			],
 			"steamid": "[U:1:1533715009]"
+		},
+				{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TotallyNotTrollSEC",
+				"time": 1687910100
+			},
+			"proof": [
+				"same guy who got tapped by github",
+				"see also: 1533715009",
+				"[GROUP BAN] qt TF2 (103582791473302265)"
+			],
+			"steamid": "[U:1:1536964642]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "xxprotrickstabprogame2015",
+				"time": 1687910100
+			},
+			"proof": [
+				"lv0 in qt group",
+				"[GROUP BAN] qt TF2 (103582791473302265)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1547614082]"
 		}
 	]
 }
