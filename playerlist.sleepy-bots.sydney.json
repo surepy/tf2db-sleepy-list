@@ -610,6 +610,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "S\u0e3ay\u0e3a\u0e3a\u0e3adn\u0e3a\u0e3aey\u0e3a",
+				"time": 1690006130
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1548490799]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1688727944
 			},
 			"steamid": "[U:1:1548528735]"
@@ -625,6 +638,18 @@
 				"bot"
 			],
 			"steamid": "[U:1:1548783434]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1690185328
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1548835988]"
 		},
 		{
 			"attributes": [
@@ -661,6 +686,110 @@
 				"bot"
 			],
 			"steamid": "[U:1:1549183518]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sydney",
+				"time": 1690256655
+			},
+			"proof": [
+				"syd"
+			],
+			"steamid": "[U:1:1562030677]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e4a\u0e4ayd\u0e4a\u0e4a\u0e4ane\u0e4ay\u0e4a",
+				"time": 1690264043
+			},
+			"proof": [
+				"sydney"
+			],
+			"steamid": "[U:1:1562105140]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e4a\u0e4aS\u0e4a\u0e4ayd\u0e4an\u0e4ae\u0e4a\u0e4ay",
+				"time": 1690264043
+			},
+			"proof": [
+				"sydney"
+			],
+			"steamid": "[U:1:1562238152]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e4aS\u0e4a\u0e4a\u0e4ay\u0e4ad\u0e4an\u0e4aey\u0e4a",
+				"time": 1690257080
+			},
+			"proof": [
+				"sydney"
+			],
+			"steamid": "[U:1:1562388105]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e4aS\u0e4ay\u0e4ad\u0e4a\u0e4ane\u0e4a\u0e4ay",
+				"time": 1690264043
+			},
+			"proof": [
+				"sydney"
+			],
+			"steamid": "[U:1:1562444402]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e3a\u0e3a\u0e3a\u0e3aSy\u0e3a\u0e3adn\u0e3ae\u0e3ay",
+				"time": 1690200756
+			},
+			"proof": [
+				"sydney"
+			],
+			"steamid": "[U:1:1562603432]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S\u0e3a\u0e3a\u0e3ayd\u0e3an\u0e3a\u0e3ae\u0e3a\u0e3ay",
+				"time": 1690262826
+			},
+			"proof": [
+				"sydney"
+			],
+			"steamid": "[U:1:1562641214]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e3a\u0e3aSy\u0e3a\u0e3ad\u0e3a\u0e3an\u0e3ae\u0e3ay",
+				"time": 1690264043
+			},
+			"proof": [
+				"sydney"
+			],
+			"steamid": "[U:1:1562820162]"
 		}
 	]
 }

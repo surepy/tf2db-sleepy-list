@@ -2582,6 +2582,45 @@
 				"bot"
 			],
 			"steamid": "[U:1:1562212398]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HELLHOUND666",
+				"time": 1690185348
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1567210527]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "CrazedEmulator 2",
+				"time": 1690185323
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1567868231]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "IronMAN77",
+				"time": 1690268305
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1567993912]"
 		}
 	]
 }
