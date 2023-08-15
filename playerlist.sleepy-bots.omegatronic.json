@@ -87,6 +87,45 @@
 				"time": 1676111454
 			},
 			"steamid": "[U:1:1181461503]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OME\u0e35GATRONIC",
+				"time": 1691396480
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1551005199]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e3aMEGATRONIC",
+				"time": 1691396502
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+			],
+			"steamid": "[U:1:1567007259]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATR\u0e3aONIC",
+				"time": 1691396586
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+			],
+			"steamid": "[U:1:1567363211]"
 		}
 	]
 }

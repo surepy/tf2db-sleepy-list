@@ -39,6 +39,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "_",
+				"time": 1690457274
+			},
+			"proof": [
+				"doubletap"
+			],
+			"steamid": "[U:1:29918879]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "abomination",
 				"time": 1682749931
 			},
@@ -98,6 +111,19 @@
 				"aimbotting."
 			],
 			"steamid": "[U:1:86752337]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "me",
+				"time": 1690947725
+			},
+			"proof": [
+				"prefiring people he has no intel on"
+			],
+			"steamid": "[U:1:87349601]"
 		},
 		{
 			"attributes": [
@@ -174,6 +200,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "SweetCider",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:123274903]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "webitube-*****2",
 				"time": 1674368582
 			},
@@ -181,6 +221,20 @@
 				"aimbotting"
 			],
 			"steamid": "[U:1:134455574]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u2665Tempest\u2665 (Owned By Snowy)",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:138485688]"
 		},
 		{
 			"attributes": [
@@ -375,6 +429,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Terenx",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:222077667]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "hollandice",
 				"time": 1667550349
 			},
@@ -412,6 +480,20 @@
 				"queued with [U:1:425082517]"
 			],
 			"steamid": "[U:1:237244122]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Project-X",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:240354711]"
 		},
 		{
 			"attributes": [
@@ -525,6 +607,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "czartraktheprotogen",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:297904184]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "deaths aproach",
 				"time": 1686826153
 			},
@@ -532,6 +628,34 @@
 				"aim"
 			],
 			"steamid": "[U:1:298023464]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "steve_blowjobs",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:307065380]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Battle Buddy",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:307419121]"
 		},
 		{
 			"attributes": [
@@ -661,6 +785,20 @@
 				"[auto] automatically marked: Racist"
 			],
 			"steamid": "[U:1:356045288]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "H\u00f6llenfeuer",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:374424246]"
 		},
 		{
 			"attributes": [
@@ -940,6 +1078,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Voltaren",
+				"time": 1691395545
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:850373602]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Alii",
 				"time": 1688044196
 			},
@@ -947,6 +1098,20 @@
 				"url is 'id/nullcorecc'"
 			],
 			"steamid": "[U:1:871567414]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dorian's Egirl",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:886659700]"
 		},
 		{
 			"attributes": [
@@ -966,6 +1131,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "orangeboi",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:911391443]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "unnamed",
 				"time": 1685098857
 			},
@@ -973,6 +1152,20 @@
 				"blatant aim"
 			],
 			"steamid": "[U:1:913561808]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "oculus",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:914489390]"
 		},
 		{
 			"attributes": [
@@ -1005,14 +1198,42 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Nova The Protogen",
-				"time": 1680343997
+				"player_name": "~Nova Winters~",
+				"time": 1690545193
 			},
 			"proof": [
-				"aimbot, walls, backtrack.",
-				"edge + vaccinator against a legit, ur trying so hard..."
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:921831212]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Proto-R500",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:922543725]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bud The Bun",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:924433672]"
 		},
 		{
 			"attributes": [
@@ -1059,6 +1280,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "BloodHunter676",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1008429696]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "SpinosaurusStudios2",
 				"time": 1667378160
 			},
@@ -1088,6 +1323,34 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "VAC BYPASS!!)))) #savetf2",
+				"time": 1691840533
+			},
+			"proof": [
+				"alias: 'PichuHVH'",
+				"ragehacking"
+			],
+			"steamid": "[U:1:1013460419]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bee",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1021647384]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "pewdiepie (real)",
 				"time": 1672057086
 			},
@@ -1101,14 +1364,27 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Amy (Nova's Property)",
-				"time": 1680343972
+				"player_name": "\u2764Verosika\u2764 (Nova's Slut)",
+				"time": 1690545193
 			},
 			"proof": [
-				"[Association Mark] queued with nova ([U:1:921831212]), likely cheating.",
-				"autovaccinator?"
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1035234122]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "P00P3R",
+				"time": 1690540536
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:1040696257]"
 		},
 		{
 			"attributes": [
@@ -1135,6 +1411,20 @@
 				"180fov aimbot and noisemaker feature."
 			],
 			"steamid": "[U:1:1052030458]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "them",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1054022654]"
 		},
 		{
 			"attributes": [
@@ -1207,6 +1497,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u2764 Frosty Winter \u2764",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1095360724]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "580",
 				"time": 1674800610
 			},
@@ -1214,6 +1518,19 @@
 				"rage stacking w/ Coldest Rage ([U:1:177392371])"
 			],
 			"steamid": "[U:1:1095741268]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kenny\u2665",
+				"time": 1690540571
+			},
+			"proof": [
+				"[association] queued with poop3r"
+			],
+			"steamid": "[U:1:1096745077]"
 		},
 		{
 			"attributes": [
@@ -1395,6 +1712,21 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "ZaFe Yeezy",
+				"time": 1691836063
+			},
+			"proof": [
+				"lmaobox user, noname",
+				"'[TF2 / LMAOBOX] 2Fort Trolldiers' - yt/XF1tuUdgXcA",
+				"https://www.youtube.com/channel/UCL828qdCAeYy9TJNNXkxu8A"
+			],
+			"steamid": "[U:1:1162988647]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -1501,6 +1833,21 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "ZaFe Rax00n",
+				"time": 1691836054
+			},
+			"proof": [
+				"lmaobox user, noname",
+				"[ LMAOBox / TF2 ] CLIP - DUMP 2 - yt/E-AYs2Qadj8",
+				"https://www.youtube.com/@raxxoon"
+			],
+			"steamid": "[U:1:1228915053]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -1528,6 +1875,20 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1232583575]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Onii-Chan",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1232901348]"
 		},
 		{
 			"attributes": [
@@ -1783,6 +2144,20 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hamburg",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1312446550]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -1984,6 +2359,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "badatgame42069",
+				"time": 1690422532
+			},
+			"proof": [
+				"aim, garbage gamesense"
+			],
+			"steamid": "[U:1:1484798567]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "krits me im a girl",
 				"time": 1672712726
 			},
@@ -1991,6 +2379,19 @@
 				"autobhop + proj aim."
 			],
 			"steamid": "[U:1:1489114747]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "We don't like furries",
+				"time": 1691395477
+			},
+			"proof": [
+				"autovac + autobhop"
+			],
+			"steamid": "[U:1:1507891427]"
 		},
 		{
 			"attributes": [
@@ -2010,6 +2411,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "ZaFe SiGMA",
+				"time": 1691836021
+			},
+			"proof": [
+				"[association] queued with other cheaters ([U:1:1228915053], [U:1:1162988647])"
+			],
+			"steamid": "[U:1:1511826918]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Sydenious",
 				"time": 1681031687
 			},
@@ -2017,6 +2431,20 @@
 				"bot host of all the sydney bots."
 			],
 			"steamid": "[U:1:1520489906]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ua52b Futa Furry \ua52b",
+				"time": 1690545193
+			},
+			"proof": [
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1526605262]"
 		},
 		{
 			"attributes": [
@@ -2044,6 +2472,19 @@
 				"queued with [U:1:1253994171], [U:1:1255177545]"
 			],
 			"steamid": "[U:1:1533732950]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "IAmZeCarrot",
+				"time": 1691395505
+			},
+			"proof": [
+				"autobhop"
+			],
+			"steamid": "[U:1:1536069798]"
 		},
 		{
 			"attributes": [
@@ -2105,6 +2546,31 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1691834540
+			},
+			"proof": [
+				"nullc0re's alt, see nullc0re list."
+			],
+			"steamid": "[U:1:1547051873]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "E N S L X V X R",
+				"time": 1691576190
+			},
+			"proof": [
+				"backtrack"
+			],
+			"steamid": "[U:1:1549228032]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "VirtualQueefs",
 				"time": 1688042420
 			},
@@ -2112,6 +2578,19 @@
 				"he seems lost, using ~90fov aim"
 			],
 			"steamid": "[U:1:1561199362]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "im fucking cheating",
+				"time": 1691574661
+			},
+			"proof": [
+				"ragehacking"
+			],
+			"steamid": "[U:1:1563846535]"
 		},
 		{
 			"attributes": [

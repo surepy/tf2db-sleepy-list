@@ -1,0 +1,1706 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "auto-generated file marking all members of nullc0re, (whitelist: [])",
+		"title": "group ban: nullc0re"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Meatwad",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:928530244]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "boykisser",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1013460419]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Carl",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1231380145]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199204476067",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1244210339]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Chef",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1336827809]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ARGGGGGGGGGGGGGGGGGGGG",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1372704367]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "i love cpruin",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1398667701]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199418560979",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1458295251]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GGEZ FAG",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1458488232]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199418793287",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1458527559]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rock Your Body Rock",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1458607395]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Im 1 cm",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1458619820]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PWNED",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1458664957]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "D:",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1458764993]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MOEWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1526871674]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "But heres my number",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1527492275]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cpruin",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1527578496]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dancing Is Forbidden",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1527677811]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u6211\u5728\u4f5c\u5f0a\uff0c\u4f46\u4f60\u770b\u4e0d\u51fa",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1527815229]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pichu",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1527842253]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cpruin",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1527896677]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bottom",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1527935273]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pichu",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1528056683]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Olivia",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1528179899]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "https://ibb.co/bzp4szC",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1528226477]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PS3HEN",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1538716557]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Boy Cow",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1538807606]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HomosexualRetard",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1538954973]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Boy Milk",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1538958233]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ARGGGGGGG",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1538999771]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Virtual Insanity",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539039548]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pichub0t\u2122",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539055695]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cause we are the aqua teens",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539063192]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr. Blue Sky",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539240421]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I have to many *******s",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539248551]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Moto E6",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539260815]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Femboy",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539293047]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Program Files",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539309061]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dont Stop Me Moew!",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539327578]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I have the best boyfriend",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539330877]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Frylock",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539468045]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Put the blame on me",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539476823]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yt/@PichuHVH",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539566812]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bender",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539575647]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jabdah",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539613887]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":3",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539629397]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "New *****ID from banned IP",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539669813]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pizza",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539715792]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u24c9\u24bd\u24b6\u24c3\u24c0\u24c8 \u24bf\u24c4\u24ba\u24ce",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539735701]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dark Matter",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539762062]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "001100 010010 011110 100001",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539762149]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cease salt. Get better",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539765860]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "La La La La La kys",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539789514]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Im being ran on a Raspberry Pi 3",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539800457]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fembot 1",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539821026]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Manjaro Linux",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539830822]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Baby Got Back",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539837129]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOM HEADSHOT!",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539842110]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "01000110 01100001 01100111",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539868995]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Futurama",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539890749]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "It was a good day",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539965645]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rocket Ship",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539970023]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Program Files (x86)",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539982308]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Who understands those rap guys?",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539982593]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Indian Scammer",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1539983601]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "groups/nullc0re",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540004329]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Your not like me Son!",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540053709]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Shake that healthy butt",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540134596]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bruh",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540139300]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Under Voltage Detected",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540168005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Princess Pichu",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540174181]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Viber 1",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540234289]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Miku",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540281667]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ssh pi@192.168.0.546",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540306003]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "It starts with one thing,",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540336354]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Welcome to the world of tomorrow",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540338278]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "He wont hit you",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540383752]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lutris",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540404423]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Stand By Pwning is happening!",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540405254]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nick Nelson",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540438895]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "1-31-07 Never Forget",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540474298]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "L'Amour Toujors",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540507747]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Euro Monkey",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540627834]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pasted Tazer Man",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540704387]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MSN Instant Messenger",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540747176]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":pleading_face:",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540820414]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Charlie Spring",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540849628]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Proton For Linux",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1540897112]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Aimware.pl User",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1541010341]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Charlie X Nick",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1541145288]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "https://sage.leodev.xyz",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1541278671]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Please see the FAQ",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1541325683]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr.Frog",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1541538485]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "La Samba De St. Germain",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1542083415]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Femboy Skirts",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1542150395]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Haha!!!",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1542350245]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I Love You Baby!",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1542622778]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jamiroquai",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1542706837]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Astolfo",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1542709338]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Can't take my eyes off of you",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1542758097]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199503270888",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543005160]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Profit",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543285583]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Big business man with a real job",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543301398]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "/V\\|? \u00df[_\u00b5\u20ac \u00a7X`/",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543333392]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199503621150",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543355422]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199503730538",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543464810]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199503812273",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543546545]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Boner Biting Bastard",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543610071]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199503917637",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543651909]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pichu",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543698961]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GAWDDAMN.JPG",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1544218803]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pichu The Catboy",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1544741284]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Check It Out Yall!",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1545021381]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Boy Meets Boy",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1545040344]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Michael MJD",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1545040434]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "meatwadfan420",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1545069833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gift Cards",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1545173998]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Zoidberg",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1545183847]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Epic Games Launcher",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1545901238]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Half ass job",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1546524734]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pichu On Top Baby!",
+				"time": 1691840533
+			},
+			"proof": [
+				"[GROUP BAN] DoesithaveVAC (103582791472589750)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1546807257]"
+		}
+	]
+}
