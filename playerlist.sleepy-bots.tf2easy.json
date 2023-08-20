@@ -1,0 +1,202 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "tf2easy bots, not affilated with the gambling site.",
+		"title": "sleepylist-bots.tf2easy"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513380473]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513003794]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513843494]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513795789]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513463067]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513296279]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513325207]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1483288874]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513505832]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513984914]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1458263357]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513719513]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1529975176]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513281793]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513153158]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1458020670]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1530146931]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1513746991]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "<name> tf2easy.com",
+				"time": 1692332840
+			},
+			"steamid": "[U:1:1482848652]"
+		}
+	]
+}

@@ -251,6 +251,32 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Eluvar",
+				"time": 1692338329
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:146031894]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u2727Dom Kench\u2727",
+				"time": 1692092407
+			},
+			"proof": [
+				"pocketing fakelag spy (investigate)"
+			],
+			"steamid": "[U:1:158644763]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -749,6 +775,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "76561198310251786",
+				"time": 1692334557
+			},
+			"proof": [
+				"ragestack"
+			],
+			"steamid": "[U:1:349986058]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Coopyy",
 				"time": 1682749931
 			},
@@ -1088,6 +1127,21 @@
 		},
 		{
 			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Nice Guy",
+				"time": 1692083410
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\"",
+				"aim, force crit, backtrack"
+			],
+			"steamid": "[U:1:870302893]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1198,12 +1252,27 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Revedas",
+				"time": 1692330051
+			},
+			"proof": [
+				"edge aim backtrack",
+				"stack with [U:1:1261315039]"
+			],
+			"steamid": "[U:1:920440198]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "~Nova Winters~",
 				"time": 1690545193
 			},
 			"proof": [
-				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
-				"generated from group_bans.py"
+				"aimbot, walls, backtrack.",
+				"edge + vaccinator against a legit, ur trying so hard...",
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)"
 			],
 			"steamid": "[U:1:921831212]"
 		},
@@ -1337,6 +1406,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "player",
+				"time": 1692443817
+			},
+			"proof": [
+				"esp"
+			],
+			"steamid": "[U:1:1015656465]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Bee",
 				"time": 1690545193
 			},
@@ -1368,8 +1450,9 @@
 				"time": 1690545193
 			},
 			"proof": [
-				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)",
-				"generated from group_bans.py"
+				"[Association Mark] queued with nova ([U:1:921831212]), likely cheating.",
+				"autovaccinator?",
+				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)"
 			],
 			"steamid": "[U:1:1035234122]"
 		},
@@ -1438,6 +1521,19 @@
 				"fakelag"
 			],
 			"steamid": "[U:1:1055878664]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "stimming",
+				"time": 1692093260
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:1075941227]"
 		},
 		{
 			"attributes": [
@@ -2001,6 +2097,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Walton",
+				"time": 1692334552
+			},
+			"proof": [
+				"ragestack"
+			],
+			"steamid": "[U:1:1258945650]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Vince",
 				"time": 1668858596
 			},
@@ -2008,6 +2117,19 @@
 				"queueing with inviolatespark1 aka CatholicGod (in official list, [U:1:1114677105])"
 			],
 			"steamid": "[U:1:1259633016]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pinkie Pie",
+				"time": 1692330063
+			},
+			"proof": [
+				"edge aim backtrack w/ revedas ([U:1:1261315039])"
+			],
+			"steamid": "[U:1:1261315039]"
 		},
 		{
 			"attributes": [
@@ -2170,6 +2292,32 @@
 				"[auto] automatically marked: Racist | reason: \"dumb fucking nigger\""
 			],
 			"steamid": "[U:1:1350058873]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MorbCentral",
+				"time": 1692530869
+			},
+			"proof": [
+				"aim esp fakelag force crit"
+			],
+			"steamid": "[U:1:1378057990]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Inspector Gadget",
+				"time": 1692444087
+			},
+			"proof": [
+				"aim, bhop"
+			],
+			"steamid": "[U:1:1390604449]"
 		},
 		{
 			"attributes": [
