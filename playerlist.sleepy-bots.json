@@ -1999,6 +1999,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Valkyrie",
+				"time": 1692667117
+			},
+			"proof": [
+				"Valkyrie bot"
+			],
+			"steamid": "[U:1:1294560448]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1686137061
 			},
 			"proof": [
@@ -2015,6 +2028,34 @@
 				"time": 1668773491
 			},
 			"steamid": "[U:1:1302897130]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Valkyrie",
+				"time": 1692681403
+			},
+			"proof": [
+				"[GROUP BAN] The NU0LL Group (103582791473472618)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1352212709]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Valkyrie",
+				"time": 1692681403
+			},
+			"proof": [
+				"[GROUP BAN] The NU0LL Group (103582791473472618)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1390614363]"
 		},
 		{
 			"attributes": [
@@ -2118,6 +2159,19 @@
 				"time": 1668600570
 			},
 			"steamid": "[U:1:1441144031]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Valkyrie",
+				"time": 1692667117
+			},
+			"proof": [
+				"Valkyrie bot"
+			],
+			"steamid": "[U:1:1443343671]"
 		},
 		{
 			"attributes": [
@@ -2282,6 +2336,20 @@
 				"bot"
 			],
 			"steamid": "[U:1:1532136117]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Valkyrie",
+				"time": 1692681403
+			},
+			"proof": [
+				"[GROUP BAN] The NU0LL Group (103582791473472618)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1535376407]"
 		},
 		{
 			"attributes": [
@@ -2595,6 +2663,19 @@
 				"bot"
 			],
 			"steamid": "[U:1:1562212398]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Valkyrie",
+				"time": 1692667100
+			},
+			"proof": [
+				"Valkyrie bot"
+			],
+			"steamid": "[U:1:1567037803]"
 		},
 		{
 			"attributes": [

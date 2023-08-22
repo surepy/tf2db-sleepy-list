@@ -2435,6 +2435,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ValkyrienessShit",
+				"time": 1692681403
+			},
+			"proof": [
+				"Valkyrie bot host"
+			],
+			"steamid": "[U:1:1443336194]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
