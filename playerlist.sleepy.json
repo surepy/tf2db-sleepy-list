@@ -264,19 +264,6 @@
 		},
 		{
 			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "\u2727Dom Kench\u2727",
-				"time": 1692092407
-			},
-			"proof": [
-				"pocketing fakelag spy (investigate)"
-			],
-			"steamid": "[U:1:158644763]"
-		},
-		{
-			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -370,6 +357,19 @@
 				"https://cdn.discordapp.com/attachments/716525494861824042/1073162918604066836/cheter.mov"
 			],
 			"steamid": "[U:1:184360469]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "the crazy days, city lights",
+				"time": 1693298715
+			},
+			"proof": [
+				"backtrack, aim"
+			],
+			"steamid": "[U:1:191997385]"
 		},
 		{
 			"attributes": [
@@ -830,6 +830,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "EzKawen_",
+				"time": 1693384013
+			},
+			"proof": [
+				"autobhop, aim"
+			],
+			"steamid": "[U:1:362295560]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "H\u00f6llenfeuer",
 				"time": 1690545193
 			},
@@ -1152,6 +1165,19 @@
 				"url is 'id/nullcorecc'"
 			],
 			"steamid": "[U:1:871567414]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ernest Meets The Fuhrer",
+				"time": 1692844548
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:878292735]"
 		},
 		{
 			"attributes": [
@@ -1770,6 +1796,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "AsunaVCT",
+				"time": 1693372500
+			},
+			"proof": [
+				"aim/esp"
+			],
+			"steamid": "[U:1:1150749724]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "chris",
 				"time": 1682749931
 			},
@@ -2253,6 +2292,19 @@
 				"[association] pocketmedding rage, possibly cheating"
 			],
 			"steamid": "[U:1:1289810939]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The father",
+				"time": 1693382191
+			},
+			"proof": [
+				"autobhop/aim"
+			],
+			"steamid": "[U:1:1298607016]"
 		},
 		{
 			"attributes": [
@@ -2752,6 +2804,19 @@
 				"ragehacking"
 			],
 			"steamid": "[U:1:1563846535]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sydney",
+				"time": 1692847526
+			},
+			"proof": [
+				"sydney new main?"
+			],
+			"steamid": "[U:1:1563879029]"
 		},
 		{
 			"attributes": [

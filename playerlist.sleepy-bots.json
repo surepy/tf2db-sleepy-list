@@ -2715,6 +2715,132 @@
 				"bot"
 			],
 			"steamid": "[U:1:1567993912]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1584688446]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1584774400]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(5)[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1584778447]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(6)[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1585124760]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1585135279]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(7)[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1585589195]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(8)[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1585784234]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1586197768]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)[VAC] OneTrick",
+				"time": 1693479348
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+			],
+			"steamid": "[U:1:1586389432]"
 		}
 	]
 }
