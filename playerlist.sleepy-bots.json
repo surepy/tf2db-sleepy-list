@@ -312,9 +312,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "SkyNet - Discord.gg/WRgscGnCGe",
-				"time": 1687861792
+				"player_name": "shoppy.gg/product/a8mJIFW",
+				"time": 1694001727
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'learn how to' shoppy.gg link bot",
+				"[auto] automatically marked: Cheater | reason: \"Learn how to run catbots for only 1 cent! *BTC ONLY* shoppy.gg/product/a8mJIFW\""
+			],
 			"steamid": "[U:1:405773298]"
 		},
 		{
@@ -2721,6 +2725,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "shoppy.gg/product/a8mJIFW",
+				"time": 1694220164
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'learn how to' shoppy.gg link bot",
+				"[auto] automatically marked: Cheater | reason: \"Learn how to run catbots for only 1 cent! *BTC ONLY* shoppy.gg/product/a8mJIFW\""
+			],
+			"steamid": "[U:1:1584273227]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(4)[VAC] OneTrick",
 				"time": 1693479348
 			},
@@ -2841,6 +2859,20 @@
 				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
 			],
 			"steamid": "[U:1:1586389432]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoppy.gg/product/a8mJIFW",
+				"time": 1694001786
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'learn how to' shoppy.gg link bot",
+				"[auto] automatically marked: Cheater | reason: \"Learn how to run catbots for only 1 cent! *BTC ONLY* shoppy.gg/product/a8mJIFW\""
+			],
+			"steamid": "[U:1:1586391470]"
 		}
 	]
 }

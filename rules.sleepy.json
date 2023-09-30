@@ -1,5 +1,12 @@
 {
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "sleepy's effective but lazy rules for semi-automatic bot marking, please verify all automatic markings.",
+		"title": "sleepy-rules"
+	},
 	"rules": [
 		{
 			"actions": {
@@ -7,13 +14,30 @@
 					"cheater"
 				]
 			},
-			"description": "'fembot' by pay2lose; new bot in town? not too much instances",
+			"description": "'fembot' by pay2lose",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
 						"youtube.com/@p2l"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "'learn how to' shoppy.gg link bot",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"a8mJIFW"
 					]
 				}
 			}
@@ -37,17 +61,19 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
-			"description": "bad characters",
+			"description": "bad characters (REALLY LAZY, VERIFY ALWAYS)",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"\u0e48"
+						"\u0e48",
+						"\u0e3a",
+						"\u0e4a"
 					]
 				}
 			}
@@ -58,7 +84,7 @@
 					"cheater"
 				]
 			},
-			"description": "Innovate.tf new p2c it seems",
+			"description": "Innovate.tf (dead?)",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -100,6 +126,217 @@
 					"mode": "contains",
 					"patterns": [
 						"FB6YuUvQQA"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "'qt' bot's discord invite id",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"FB6YuUvQQA"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "'the ridge inn' discord (bots)",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"RMZGaWh7j2"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (urls)",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"/@OMEGATRONIC",
+						"/OmegatronicAI"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (general)",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"OMEGATRONIC",
+						"O M E G A T R O N I C",
+						"OMEGAPOCALYPSE"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (type 1 / FF00FF / magenta)",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "a664350bb9af76cb1310ad4f3f93b26af24461f5"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (type 2 / FFFFFF / white)",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "0203917ce43a3217384977a4ec4e550c91f09eab"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (type 3 / FFFF00 / yellow)",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "c1c897017628124f382fe4e523989e1ec692233c"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (type 4 / none)",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "09ff93c373743e6186d4f27e479decfbe9551417"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (type 5 / 000000 / black)",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "59e78f0795d35f40f7c1103881951e55801938dd"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (type 6 / FF0000 / red)",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "242dace5d39b2ef91d6c54da674709b9e9b695a7"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "omegatronic (type 7 / FF7F00 (255, (int)127.5, 0) / orange)",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "59e78f0795d35f40f7c1103881951e55801938dd"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "sydney/sydneious (general)",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "c7a705c73b3e3b502849f486c2ae2d1bb32217c3"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "url to cathook (and it's forks)",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"nullworks/cathook",
+						"RosneBurgerworks/cathook",
+						"explowz/cathook",
+						"rosne-gamingyt/cathook"
 					]
 				}
 			}

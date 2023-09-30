@@ -455,6 +455,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "OG MUDBONE",
+				"time": 1695980896
+			},
+			"proof": [
+				"backtrack, 500 ping.",
+				"queued with blaq ([U:1:1261242898])"
+			],
+			"steamid": "[U:1:215042361]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Terenx",
 				"time": 1690545193
 			},
@@ -1753,6 +1767,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "cool ass cat with shades",
+				"time": 1696026300
+			},
+			"proof": [
+				"[association] queued with xoxo ([U:1:1211941128])"
+			],
+			"steamid": "[U:1:1126005748]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1927,6 +1954,19 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1201643559]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xoxo_bad_azz_mommy8_xoxo",
+				"time": 1696026235
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:1211941128]"
 		},
 		{
 			"attributes": [
@@ -2156,6 +2196,20 @@
 				"queueing with inviolatespark1 aka CatholicGod (in official list, [U:1:1114677105])"
 			],
 			"steamid": "[U:1:1259633016]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "blaq",
+				"time": 1695980353
+			},
+			"proof": [
+				"backtrack, 500 ping",
+				"queued with OG MUDBONE ([U:1:215042361])"
+			],
+			"steamid": "[U:1:1261242898]"
 		},
 		{
 			"attributes": [
@@ -2791,6 +2845,20 @@
 				"he seems lost, using ~90fov aim"
 			],
 			"steamid": "[U:1:1561199362]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sent to hell",
+				"time": 1694000215
+			},
+			"proof": [
+				"[04:36:26] <76561199521890985> Sent to hell : https://www.youtube.com/@gothic-cc",
+				"rare nitro user"
+			],
+			"steamid": "[U:1:1561625257]"
 		},
 		{
 			"attributes": [
