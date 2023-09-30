@@ -10,10 +10,8 @@ for filename in os.listdir():
 
     print(f"merging ${filename}");
     data = json.load(open(filename, 'r'))
-
+    merged_file_count += 1
     merged_players = merged_players + data["players"]
-
-print(merged_players)
 
 all_players_json = {
     "$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",

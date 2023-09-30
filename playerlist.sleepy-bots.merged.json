@@ -4,7 +4,7 @@
         "authors": [
             "surepy"
         ],
-        "description": "sleepy's merged bot list, 0 files and 535 bots marked.",
+        "description": "sleepy's merged bot list, 10 files and 660 bots marked.",
         "title": "sleepy-bots.merged"
     },
     "players": [
@@ -1128,10 +1128,13 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
+                "player_name": "Zinedine Zidane TF2EASY.COM",
+                "time": 1692666818
             },
-            "steamid": "[U:1:1513380473]"
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1458020670]"
         },
         {
             "attributes": [
@@ -1141,6 +1144,107 @@
                 "player_name": "<name> tf2easy.com",
                 "time": 1692332840
             },
+            "steamid": "[U:1:1458263357]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Zer0kson tf2easy.com",
+                "time": 1692667376
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1482848652]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Tickle Me Elmo tf2easy.com",
+                "time": 1692667141
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1483147935]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\ud83d\udc9aA\u05dfmLio\ud83d\udc9a TF2EASY.COM",
+                "time": 1692667060
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1483210521]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "<name> tf2easy.com",
+                "time": 1692332840
+            },
+            "steamid": "[U:1:1483288874]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "GastlexYt tf2easy.com",
+                "time": 1692621791
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1483379764]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "TF2 Heavy tf2easy.com",
+                "time": 1692622606
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1512948304]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "haha yes TF2EASY.com",
+                "time": 1692667523
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1513002542]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Anfixsin tf2easy.com",
+                "time": 1692667971
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
             "steamid": "[U:1:1513003794]"
         },
         {
@@ -1148,10 +1252,26 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
+                "player_name": "KingBmC TF2EASY.COM",
+                "time": 1692670273
             },
-            "steamid": "[U:1:1513843494]"
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1513153158]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": ".sike tf2easy.com",
+                "time": 1692666780
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1513153856]"
         },
         {
             "attributes": [
@@ -1161,7 +1281,43 @@
                 "player_name": "<name> tf2easy.com",
                 "time": 1692332840
             },
-            "steamid": "[U:1:1513795789]"
+            "steamid": "[U:1:1513281793]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "JOKO TF2EASY.COM",
+                "time": 1692667234
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1513296279]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "<name> tf2easy.com",
+                "time": 1692332840
+            },
+            "steamid": "[U:1:1513325207]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OverTakerHD tf2easy.com",
+                "time": 1692666818
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1513380473]"
         },
         {
             "attributes": [
@@ -1181,36 +1337,6 @@
                 "player_name": "<name> tf2easy.com",
                 "time": 1692332840
             },
-            "steamid": "[U:1:1513296279]"
-        },
-        {
-            "attributes": [
-                "cheater"
-            ],
-            "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
-            },
-            "steamid": "[U:1:1513325207]"
-        },
-        {
-            "attributes": [
-                "cheater"
-            ],
-            "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
-            },
-            "steamid": "[U:1:1483288874]"
-        },
-        {
-            "attributes": [
-                "cheater"
-            ],
-            "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
-            },
             "steamid": "[U:1:1513505832]"
         },
         {
@@ -1218,20 +1344,13 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
+                "player_name": "k\u0159e\u0161ek TF2EASY.COM",
+                "time": 1692622729
             },
-            "steamid": "[U:1:1513984914]"
-        },
-        {
-            "attributes": [
-                "cheater"
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
             ],
-            "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
-            },
-            "steamid": "[U:1:1458263357]"
+            "steamid": "[U:1:1513562156]"
         },
         {
             "attributes": [
@@ -1251,37 +1370,66 @@
                 "player_name": "<name> tf2easy.com",
                 "time": 1692332840
             },
+            "steamid": "[U:1:1513746991]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "<name> tf2easy.com",
+                "time": 1692332840
+            },
+            "steamid": "[U:1:1513795789]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "SultanMan tf2easy.com",
+                "time": 1692664534
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1513843494]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Human tf2easy.com",
+                "time": 1692666818
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1513959422]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Pancake CC tf2easy.com",
+                "time": 1692669925
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1513984914]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "<name> tf2easy.com",
+                "time": 1692332840
+            },
             "steamid": "[U:1:1529975176]"
-        },
-        {
-            "attributes": [
-                "cheater"
-            ],
-            "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
-            },
-            "steamid": "[U:1:1513281793]"
-        },
-        {
-            "attributes": [
-                "cheater"
-            ],
-            "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
-            },
-            "steamid": "[U:1:1513153158]"
-        },
-        {
-            "attributes": [
-                "cheater"
-            ],
-            "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
-            },
-            "steamid": "[U:1:1458020670]"
         },
         {
             "attributes": [
@@ -1298,20 +1446,481 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
+                "player_name": "Totally TF2EASY.COM",
+                "time": 1692621791
             },
-            "steamid": "[U:1:1513746991]"
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1530380307]"
         },
         {
             "attributes": [
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "<name> tf2easy.com",
-                "time": 1692332840
+                "player_name": "Valkyrie",
+                "time": 1692667105
             },
-            "steamid": "[U:1:1482848652]"
+            "proof": [
+                "bot"
+            ],
+            "steamid": "[U:1:1535376407]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "enderemeralddino TF2EASY.COM",
+                "time": 1692622759
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1535771013]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "alec tf2easy.com",
+                "time": 1692667400
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1535842124]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "CCNikova TF2EASY.COM",
+                "time": 1692621948
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1535879348]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Leeat tf2easy.com",
+                "time": 1692621942
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1536074434]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "TheNightOwl tf2easy.com",
+                "time": 1692669723
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1536177819]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "GuiSuper2018 TF2EASY.COM",
+                "time": 1692622668
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1536262710]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "vfccapple76 TF2EASY.COM",
+                "time": 1692666818
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1536342469]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Atomic tf2easy.com",
+                "time": 1692621906
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1536446338]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Gameboy_07 TF2EASY.COM",
+                "time": 1692670273
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1536579940]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "headofbruce TF2EASY.COM",
+                "time": 1692621791
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1536837909]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "bolsopix tf2easy.com",
+                "time": 1692621813
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1536880097]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "FoxyHr tf2easy.com",
+                "time": 1692621791
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537054901]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "H_Fyler tf2easy.com",
+                "time": 1692622253
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537124783]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Henchman 24 tf2easy.com",
+                "time": 1692670193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537231199]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "True TF2EASY.COM",
+                "time": 1692667060
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537386043]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Dascar tf2easy.com",
+                "time": 1692666780
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537407002]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Hunter Lyre TF2EASY.COM",
+                "time": 1692664811
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537411486]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Hachik\u014d TF2EASY.COM",
+                "time": 1692666904
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537588895]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "wolves_and_owls tf2easy.com",
+                "time": 1692622515
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537818230]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Birdbrain:) TF2EASY.COM",
+                "time": 1692666818
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537825695]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "gen tf2easy.com",
+                "time": 1692664628
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537859455]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "new username tf2easy.com",
+                "time": 1692666780
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537881411]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Chainster tf2easy.com",
+                "time": 1692666780
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1537884671]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Cap'n Cavity Search tf2easy.com",
+                "time": 1692667554
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1539549247]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Brodah TF2EASY.COM",
+                "time": 1692622484
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1539688555]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Toast TF2EASY.COM",
+                "time": 1692666818
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1539829341]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Hyer Womba TF2EASY.COM",
+                "time": 1692666780
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1539894254]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Snezzy TF2EASY.COM",
+                "time": 1692666781
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1539983259]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sauce090 no. III TF2EASY.COM",
+                "time": 1692664665
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1540006959]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "planned crit tf2easy.com",
+                "time": 1692666818
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1540589944]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Oniko TF2EASY.COM",
+                "time": 1692669663
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1547872699]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "welp TF2EASY.COM",
+                "time": 1692667597
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1548914595]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "spartinwill tf2easy.com",
+                "time": 1692621791
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1549490054]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Bloody_Demoman tf2easy.com",
+                "time": 1692621906
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1549791044]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Eray tf2easy.com",
+                "time": 1692669821
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
+            ],
+            "steamid": "[U:1:1549911196]"
         },
         {
             "attributes": [
@@ -1398,6 +2007,176 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "OMEGATRONIC REAL MAN",
+                "time": 1695984078
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+                "[auto] automatically marked: Cheater | reason: \"Did you miss me?\"",
+                "[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\""
+            ],
+            "steamid": "[U:1:1255273931]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGAPOCALYPSE NOW",
+                "time": 1695984124
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+                "[auto] automatically marked: Cheater | reason: \"I do not sleep, you know?\"",
+                "[auto] automatically marked: Cheater | reason: \"B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+                "[auto] automatically marked: Cheater | reason: \"Whoever starts a vote on me is black.\"",
+                "[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\""
+            ],
+            "steamid": "[U:1:1255297981]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695981746
+            },
+            "steamid": "[U:1:1255364742]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRONIC SAVING TF2",
+                "time": 1695983830
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+                "[auto] automatically marked: Cheater | reason: \"Did you miss me?\"",
+                "[auto] automatically marked: Cheater | reason: \"B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\""
+            ],
+            "steamid": "[U:1:1255365678]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "O M E G A T R O N I C",
+                "time": 1695984109
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: \"B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+                "[auto] automatically marked: Cheater | reason: \"I came.\"",
+                "[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+            ],
+            "steamid": "[U:1:1255415477]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "SAVI\u0418G TF2 WITH OMEGATRONIC",
+                "time": 1695984108
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: \"B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+                "[auto] automatically marked: Cheater | reason: \"Greetings, fellow humans!\"",
+                "[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+                "[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+                "[auto] automatically marked: Cheater | reason: \"I do not sleep, you know?\""
+            ],
+            "steamid": "[U:1:1255432472]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "FOLLOW OMEGATRONIC ON X",
+                "time": 1696027529
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: omegatronic (type 3 / none)",
+                "[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+            ],
+            "steamid": "[U:1:1255456087]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)OMEGATRONIC #SaveTF2",
+                "time": 1695983903
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+                "[auto] automatically marked: Cheater | reason: \"I came.\"",
+                "[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+            ],
+            "steamid": "[U:1:1255578706]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRONIC (not the bot)",
+                "time": 1695984028
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+                "[auto] automatically marked: Cheater | reason: \"Hello tf2osers, I am OMEGATRONIC and this server is getting saved by me.\"",
+                "[auto] automatically marked: Cheater | reason: \"Try trying better next time, r\u0e4eetard.\"",
+                "[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+            ],
+            "steamid": "[U:1:1255682941]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATR\u03a9NIC SAVES TF2",
+                "time": 1695984069
+            },
+            "steamid": "[U:1:1255761445]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "NOW OMEGAPOCALYPSE",
+                "time": 1695984102
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+                "[auto] automatically marked: Cheater | reason: \"Greetings, fellow humans!\"",
+                "[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+                "[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+                "[auto] automatically marked: Cheater | reason: \"B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+                "[auto] automatically marked: Cheater | reason: \"An update just dropped, restart your game.\""
+            ],
+            "steamid": "[U:1:1255800334]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "OME\u0e35GATRONIC",
                 "time": 1691396480
             },
@@ -1405,6 +2184,238 @@
                 "bot"
             ],
             "steamid": "[U:1:1551005199]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4b",
+                "time": 1696027470
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (type 1 / FF00FF / magenta)"
+            ],
+            "steamid": "[U:1:1562195986]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e3a",
+                "time": 1695984141
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1562264990]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRON\u0e39IC",
+                "time": 1695981668
+            },
+            "steamid": "[U:1:1562356007]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATR\u0e39ONIC",
+                "time": 1696027369
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (type 3 / FFFF00 / yellow)"
+            ],
+            "steamid": "[U:1:1562373824]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/OMEGATRONI\u0e48C",
+                "time": 1695985190
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1562389861]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRO\u0418IC REAL MAN",
+                "time": 1695981843
+            },
+            "steamid": "[U:1:1562485915]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695984188
+            },
+            "steamid": "[U:1:1562555780]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695984231
+            },
+            "steamid": "[U:1:1562734280]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGA\u0e39TRONIC",
+                "time": 1695984061
+            },
+            "steamid": "[U:1:1562788223]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATR\u03a9NIC REAL MAN",
+                "time": 1695981778
+            },
+            "steamid": "[U:1:1562822296]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Image of a human",
+                "time": 1695984002
+            },
+            "steamid": "[U:1:1562845802]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e48\u0e4d",
+                "time": 1695981925
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1562885778]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "O\u0e39MEGATRONIC",
+                "time": 1695983921
+            },
+            "steamid": "[U:1:1562907493]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695985160
+            },
+            "steamid": "[U:1:1562995208]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "awesOMEGAmer",
+                "time": 1695985184
+            },
+            "steamid": "[U:1:1562997510]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695985158
+            },
+            "steamid": "[U:1:1563023617]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4d",
+                "time": 1695985180
+            },
+            "steamid": "[U:1:1563107504]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695984201
+            },
+            "steamid": "[U:1:1563252511]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695983928
+            },
+            "steamid": "[U:1:1563359520]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRONI\u0e39C",
+                "time": 1695984064
+            },
+            "steamid": "[U:1:1563372393]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATR0NIC REAL MAN",
+                "time": 1695985187
+            },
+            "steamid": "[U:1:1563441019]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "twitter.com/Omeg\u0e3aatronicAI",
+                "time": 1695984141
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1563777080]"
         },
         {
             "attributes": [
@@ -1424,6 +2435,60 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "OMEGATR0NIC SAVES TF2",
+                "time": 1695981681
+            },
+            "steamid": "[U:1:1567297634]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695981830
+            },
+            "steamid": "[U:1:1567326815]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u03a9MEGATR\u03a9NIC",
+                "time": 1695983912
+            },
+            "steamid": "[U:1:1567328516]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695981832
+            },
+            "proof": [
+                "omegatronic, red"
+            ],
+            "steamid": "[U:1:1567328539]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Confused Middle-Aged Man",
+                "time": 1695984102
+            },
+            "proof": [
+                "omegatronic, white"
+            ],
+            "steamid": "[U:1:1567358986]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "OMEGATR\u0e3aONIC",
                 "time": 1691396586
             },
@@ -1431,6 +2496,259 @@
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
             ],
             "steamid": "[U:1:1567363211]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "SAVING TF2 WITH OMEGATRONIC",
+                "time": 1695981840
+            },
+            "steamid": "[U:1:1567433221]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRONIC SAVES TF2",
+                "time": 1695984141
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)"
+            ],
+            "steamid": "[U:1:1567434008]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Omega (not a bot) Tronic",
+                "time": 1695983925
+            },
+            "steamid": "[U:1:1567444352]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGAPOCALYPSE NOW!",
+                "time": 1696027400
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)",
+                "[auto] automatically marked: Cheater | reason: omegatronic (type 5 / FF0000 / red)"
+            ],
+            "steamid": "[U:1:1567481067]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "O.T.",
+                "time": 1695981675
+            },
+            "steamid": "[U:1:1567493598]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRONIC SAVI\u0418G TF2",
+                "time": 1695984078
+            },
+            "steamid": "[U:1:1567599551]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "0MEGATR0NIC",
+                "time": 1695981673
+            },
+            "steamid": "[U:1:1567703950]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGA (not a bort) TRONIC",
+                "time": 1695981677
+            },
+            "steamid": "[U:1:1567802475]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695984157
+            },
+            "steamid": "[U:1:1567835723]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695981834
+            },
+            "steamid": "[U:1:1567849707]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGAPOCALYPSE TOTAL",
+                "time": 1695981670
+            },
+            "steamid": "[U:1:1568006018]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695981882
+            },
+            "steamid": "[U:1:1568021894]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGAPOCALYPSE NOW !",
+                "time": 1695981685
+            },
+            "steamid": "[U:1:1568048413]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRONIC #savetf2",
+                "time": 1695984128
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)"
+            ],
+            "steamid": "[U:1:1568162923]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695984207
+            },
+            "steamid": "[U:1:1568170605]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1695984282
+            },
+            "steamid": "[U:1:1568362796]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRONIC TF2 SAVIOR",
+                "time": 1695985189
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: omegatronic (general)"
+            ],
+            "steamid": "[U:1:1568484486]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OMEGATRONIC #SavingTF2",
+                "time": 1695981693
+            },
+            "steamid": "[U:1:1568571548]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/OMEGAT\u0e48RONIC",
+                "time": 1695983928
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1582897364]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/OM\u0e48EGATRONIC",
+                "time": 1695981926
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1583145141]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4e",
+                "time": 1695981683
+            },
+            "proof": [
+                "Omegatronic, green?"
+            ],
+            "steamid": "[U:1:1583231394]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "BUY MY BOT IMMUNITY",
+                "time": 1695984194
+            },
+            "proof": [
+                "Omegatronic, green?"
+            ],
+            "steamid": "[U:1:1583930802]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "twitter.com/Omegat\u0e48ronicAI",
+                "time": 1695981925
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1583962767]"
         },
         {
             "attributes": [
@@ -1736,9 +3054,13 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "SkyNet - Discord.gg/WRgscGnCGe",
-                "time": 1687861792
+                "player_name": "shoppy.gg/product/a8mJIFW",
+                "time": 1694001727
             },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'learn how to' shoppy.gg link bot",
+                "[auto] automatically marked: Cheater | reason: \"Learn how to run catbots for only 1 cent! *BTC ONLY* shoppy.gg/product/a8mJIFW\""
+            ],
             "steamid": "[U:1:405773298]"
         },
         {
@@ -3423,6 +4745,19 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "Valkyrie",
+                "time": 1692667117
+            },
+            "proof": [
+                "Valkyrie bot"
+            ],
+            "steamid": "[U:1:1294560448]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "time": 1686137061
             },
             "proof": [
@@ -3439,6 +4774,34 @@
                 "time": 1668773491
             },
             "steamid": "[U:1:1302897130]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Valkyrie",
+                "time": 1692681403
+            },
+            "proof": [
+                "[GROUP BAN] The NU0LL Group (103582791473472618)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "[U:1:1352212709]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Valkyrie",
+                "time": 1692681403
+            },
+            "proof": [
+                "[GROUP BAN] The NU0LL Group (103582791473472618)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "[U:1:1390614363]"
         },
         {
             "attributes": [
@@ -3542,6 +4905,19 @@
                 "time": 1668600570
             },
             "steamid": "[U:1:1441144031]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Valkyrie",
+                "time": 1692667117
+            },
+            "proof": [
+                "Valkyrie bot"
+            ],
+            "steamid": "[U:1:1443343671]"
         },
         {
             "attributes": [
@@ -3706,6 +5082,20 @@
                 "bot"
             ],
             "steamid": "[U:1:1532136117]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Valkyrie",
+                "time": 1692681403
+            },
+            "proof": [
+                "[GROUP BAN] The NU0LL Group (103582791473472618)",
+                "generated from group_bans.py"
+            ],
+            "steamid": "[U:1:1535376407]"
         },
         {
             "attributes": [
@@ -4025,6 +5415,19 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "Valkyrie",
+                "time": 1692667100
+            },
+            "proof": [
+                "Valkyrie bot"
+            ],
+            "steamid": "[U:1:1567037803]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "HELLHOUND666",
                 "time": 1690185348
             },
@@ -4058,6 +5461,160 @@
                 "bot"
             ],
             "steamid": "[U:1:1567993912]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "shoppy.gg/product/a8mJIFW",
+                "time": 1694220164
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'learn how to' shoppy.gg link bot",
+                "[auto] automatically marked: Cheater | reason: \"Learn how to run catbots for only 1 cent! *BTC ONLY* shoppy.gg/product/a8mJIFW\""
+            ],
+            "steamid": "[U:1:1584273227]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(4)[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1584688446]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(2)[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1584774400]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(5)[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1584778447]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(6)[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1585124760]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1585135279]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(7)[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1585589195]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(8)[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1585784234]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1586197768]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(3)[VAC] OneTrick",
+                "time": 1693479348
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
+                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+            ],
+            "steamid": "[U:1:1586389432]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "shoppy.gg/product/a8mJIFW",
+                "time": 1694001786
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'learn how to' shoppy.gg link bot",
+                "[auto] automatically marked: Cheater | reason: \"Learn how to run catbots for only 1 cent! *BTC ONLY* shoppy.gg/product/a8mJIFW\""
+            ],
+            "steamid": "[U:1:1586391470]"
         },
         {
             "attributes": [
@@ -4907,6 +6464,19 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "\u0e4a\u0e4aS\u0e4ay\u0e4a\u0e4adn\u0e4ae\u0e4ay\u0e4a",
+                "time": 1695694357
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1562254731]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "\u0e4aS\u0e4a\u0e4a\u0e4ay\u0e4ad\u0e4an\u0e4aey\u0e4a",
                 "time": 1690257080
             },
@@ -4927,6 +6497,19 @@
                 "sydney"
             ],
             "steamid": "[U:1:1562444402]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4a\u0e4aS\u0e4aydn\u0e4ae\u0e4ay\u0e4a\u0e4a\u0e4a",
+                "time": 1695694414
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY)"
+            ],
+            "steamid": "[U:1:1562537416]"
         },
         {
             "attributes": [
