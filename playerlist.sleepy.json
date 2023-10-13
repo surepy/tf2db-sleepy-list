@@ -114,14 +114,15 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
-				"player_name": "me",
+				"player_name": "Ninjaneer",
 				"time": 1690947725
 			},
 			"proof": [
-				"prefiring people he has no intel on"
+				"prefiring people he has no intel on",
+				"seen HvHing in mm."
 			],
 			"steamid": "[U:1:87349601]"
 		},
@@ -153,6 +154,19 @@
 				"aimbotting + rage stack with SunnyD-Pad ([U:1:207152741]), (utf8) [U:1:1450323428], st4rb0y^* ([U:1:377221535])"
 			],
 			"steamid": "[U:1:95556303]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Medic who laughed",
+				"time": 1697025060
+			},
+			"proof": [
+				"agressive aimbot"
+			],
+			"steamid": "[U:1:98110360]"
 		},
 		{
 			"attributes": [
@@ -261,6 +275,28 @@
 				"aim"
 			],
 			"steamid": "[U:1:146031894]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Favored One",
+				"time": 1696469787
+			},
+			"proof": [
+				"backtrack"
+			],
+			"steamid": "[U:1:164295139]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1696420287
+			},
+			"steamid": "[U:1:165227828]"
 		},
 		{
 			"attributes": [
@@ -638,7 +674,7 @@
 			},
 			"proof": [
 				"edge-aiming / lbox user",
-				"https://www.youtube.com/channel/UCdSOyGkvc5IEGWEGbL8Xy-A"
+				"https://www.youtube.com/channel/UCdSOyGkvc5IEGWEGbL8Xy-A (videos taken down)"
 			],
 			"steamid": "[U:1:296401296]"
 		},
@@ -1154,6 +1190,20 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Jeff Rosenstock",
+				"time": 1696150241
+			},
+			"proof": [
+				"extremely rare SEOwned user if true. (self-admitted)",
+				"extra note: very low-key if true, I dismissed as a lot as 'eh, could happen' but apparently cheating?"
+			],
+			"steamid": "[U:1:851494952]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -1400,7 +1450,8 @@
 		},
 		{
 			"attributes": [
-				"cheater"
+				"cheater",
+				"racist"
 			],
 			"last_seen": {
 				"player_name": "SpinosaurusStudios2",
@@ -1408,7 +1459,8 @@
 			},
 			"proof": [
 				"see SpinosaurusStudios ([U:1:198050187])",
-				"Spino's new account after VAC ban."
+				"Spino's new account after VAC ban.",
+				"[auto] automatically marked: Racist | reason: \"NIGGER NIGGER NIGGER!\""
 			],
 			"steamid": "[U:1:1010429522]"
 		},
@@ -1698,6 +1750,21 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fried popcorn sales associate",
+				"time": 1668255400
+			},
+			"proof": [
+				"general cheating",
+				"PERSONAL NOTE: seems to have a personal grudge on me or smth cuz he seems to recognize me all the time",
+				"will try to instantly kick me (and will succeed cuz tf2), just instantly requeue to waste less time."
+			],
+			"steamid": "[U:1:1104364399]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -1957,6 +2024,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Lyabb",
+				"time": 1696150241
+			},
+			"proof": [
+				"probably backtracking and aim"
+			],
+			"steamid": "[U:1:1201906751]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2016,8 +2096,8 @@
 			},
 			"proof": [
 				"lmaobox user, noname",
-				"[ LMAOBox / TF2 ] CLIP - DUMP 2 - yt/E-AYs2Qadj8",
-				"https://www.youtube.com/@raxxoon"
+				"[ LMAOBox / TF2 ] CLIP - DUMP 2 - yt/E-AYs2Qadj8 (PRIVATE)",
+				"https://www.youtube.com/@raxxoon (404)"
 			],
 			"steamid": "[U:1:1228915053]"
 		},
@@ -2704,6 +2784,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "LynxFaded",
+				"time": 1696411118
+			},
+			"proof": [
+				"agressive aimbot"
+			],
+			"steamid": "[U:1:1522955981]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "\ua52b Futa Furry \ua52b",
 				"time": 1690545193
 			},
@@ -2825,6 +2918,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1696420285
+			},
+			"steamid": "[U:1:1548197833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "E N S L X V X R",
 				"time": 1691576190
 			},
@@ -2898,6 +3000,19 @@
 				"doubletap"
 			],
 			"steamid": "[U:1:1569726395]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199545130476",
+				"time": 1697082053
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:1584864748]"
 		}
 	]
 }

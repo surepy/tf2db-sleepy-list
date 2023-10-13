@@ -642,6 +642,20 @@
 		},
 		{
 			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "land",
+				"time": 1697065755
+			},
+			"proof": [
+				"toxic",
+				"association with [U:1:368719020], [U:1:422779547]"
+			],
+			"steamid": "[U:1:326443247]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -668,6 +682,20 @@
 		},
 		{
 			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "poley",
+				"time": 1697065767
+			},
+			"proof": [
+				"toxic",
+				"association with [U:1:326443247], [U:1:326443247]"
+			],
+			"steamid": "[U:1:368719020]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -678,6 +706,22 @@
 				"[auto] automatically marked: Racist | reason: \"SCORCH SPAM NIGGER KILL YOURSELF | SCORCH SPAM NIGGER KILL YOURSELF | SCORCH SPAM NIGGER KILL YOURSELF | SCORCH SPAM NIGGER KIL\""
 			],
 			"steamid": "[U:1:381696088]"
+		},
+		{
+			"attributes": [
+				"exploiter",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Ploopy",
+				"time": 1697065775
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\"",
+				"[auto] automatically marked: Racist | reason: \"shut up nigger soup\"",
+				"association with [U:1:368719020], [U:1:326443247]"
+			],
+			"steamid": "[U:1:422779547]"
 		},
 		{
 			"attributes": [
@@ -1002,6 +1046,19 @@
 				"[auto] automatically marked: Racist | reason: \"use your medigun nigger\""
 			],
 			"steamid": "[U:1:1486302252]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "LEET",
+				"time": 1696418398
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"jew\""
+			],
+			"steamid": "[U:1:1583814145]"
 		}
 	]
 }
