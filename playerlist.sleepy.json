@@ -1052,6 +1052,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1696420284
+			},
+			"proof": [
+				"profile id is literally 'autoairblast', aim."
+			],
+			"steamid": "[U:1:433574440]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "ZubZub",
 				"time": 1667567620
 			},
@@ -1626,6 +1638,15 @@
 				"aim"
 			],
 			"steamid": "[U:1:1075941227]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1696420282
+			},
+			"steamid": "[U:1:1078129233]"
 		},
 		{
 			"attributes": [
