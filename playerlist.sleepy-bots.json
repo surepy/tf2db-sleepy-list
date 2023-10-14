@@ -1970,10 +1970,58 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1697191731
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: stallman (general)"
+			],
+			"steamid": "[U:1:1229060299]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "infatuation",
 				"time": 1673935629
 			},
 			"steamid": "[U:1:1229699738]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1697191723
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: stallman (general)"
+			],
+			"steamid": "[U:1:1241197898]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1697191728
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: stallman (general)"
+			],
+			"steamid": "[U:1:1241419613]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1697191733
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: stallman (general)"
+			],
+			"steamid": "[U:1:1247958596]"
 		},
 		{
 			"attributes": [
@@ -1997,6 +2045,42 @@
 				"time": 1668773489
 			},
 			"steamid": "[U:1:1252546820]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1697191722
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: stallman (general)"
+			],
+			"steamid": "[U:1:1253509872]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1697191725
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: stallman (general)"
+			],
+			"steamid": "[U:1:1253673665]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1697191665
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: stallman (general)"
+			],
+			"steamid": "[U:1:1253739158]"
 		},
 		{
 			"attributes": [
@@ -2808,8 +2892,11 @@
 			],
 			"last_seen": {
 				"player_name": "f\u0e47r\u0e47ank",
-				"time": 1696331531
+				"time": 1697195180
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
 			"steamid": "[U:1:1584983505]"
 		},
 		{
@@ -2818,8 +2905,11 @@
 			],
 			"last_seen": {
 				"player_name": "fr\u0e47a\u0e47nk",
-				"time": 1696331481
+				"time": 1697195180
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
 			"steamid": "[U:1:1584986706]"
 		},
 		{
@@ -2828,9 +2918,10 @@
 			],
 			"last_seen": {
 				"player_name": "fr\u0e47ank\u0e47",
-				"time": 1696331484
+				"time": 1697195180
 			},
 			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
 				"[auto] automatically marked: Cheater | reason: frank (type 1)"
 			],
 			"steamid": "[U:1:1585025945]"
@@ -2906,8 +2997,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1696145275
+				"player_name": "fra\u0e47nk",
+				"time": 1697195514
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+				"[auto] automatically marked: Cheater | reason: frank (type 3)"
+			],
 			"steamid": "[U:1:1586118330]"
 		},
 		{
@@ -2958,8 +3054,11 @@
 			],
 			"last_seen": {
 				"player_name": "frank\u0e47",
-				"time": 1696331483
+				"time": 1697195180
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
 			"steamid": "[U:1:1586819636]"
 		},
 		{
@@ -2981,8 +3080,11 @@
 			],
 			"last_seen": {
 				"player_name": "fr\u0e47ank",
-				"time": 1696331485
+				"time": 1697195180
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
 			"steamid": "[U:1:1586883026]"
 		},
 		{
@@ -3034,9 +3136,25 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "fr\u0e47an\u0e47k",
-				"time": 1696331532
+				"player_name": "Hey Guys",
+				"time": 1697195261
 			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1597770462]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fr\u0e47an\u0e47k",
+				"time": 1697195514
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
 			"steamid": "[U:1:1597793256]"
 		},
 		{
@@ -3071,6 +3189,132 @@
 				"bot"
 			],
 			"steamid": "[U:1:1598610310]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waf\u0e47fle-SS",
+				"time": 1697195180
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1600029089]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Wa\u0e47ffle-SS",
+				"time": 1697195517
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1600258868]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waff\u0e47le-SS",
+				"time": 1697195180
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1600270530]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1697192109
+			},
+			"steamid": "[U:1:1600423769]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffle\u0e47-SS",
+				"time": 1697195514
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1600478799]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffl\u0e47e-SS",
+				"time": 1697195514
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1600642554]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u0e47affle-SS",
+				"time": 1697195180
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1600868228]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffle-\u0e47SS",
+				"time": 1697195514
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1601317432]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u0e47a\u0e47ffle-SS",
+				"time": 1697195180
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1601322266]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffle-SS\u0e47",
+				"time": 1697195180
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1601608154]"
 		}
 	]
 }
