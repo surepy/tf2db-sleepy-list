@@ -8,7 +8,7 @@ for filename in os.listdir():
     if not filename.startswith('playerlist.sleepy-bots') or filename == "playerlist.sleepy-bots.merged.json":
         continue
 
-    print(f"merging ${filename}");
+    print(f"merging {filename}");
     data = json.load(open(filename, 'r'))
     merged_file_count += 1
     merged_players = merged_players + data["players"]
