@@ -1022,6 +1022,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Night",
+				"time": 1698229072
+			},
+			"proof": [
+				"[association] edating lucy aka pokerface ([U:1:1273939688]), or something"
+			],
+			"steamid": "[U:1:427894071]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2109,6 +2122,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Christus-Religiotarianist",
+				"time": 1697862023
+			},
+			"proof": [
+				"backtrack (815ms)"
+			],
+			"steamid": "[U:1:1227020024]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -2375,10 +2401,9 @@
 				"time": 1673694862
 			},
 			"proof": [
-				"likely queued with Syn ([U:1:1273939688])",
-				"known as 'pokerface' // bot host",
+				"known as LUCY/pokerface/pokerfake // bot host",
 				"**AVOID INTERACTING AT ALL COSTS**",
-				"can be commonly seen in DCinside with ip address 122.153 | \ud3ec\ucee4 \ud398\uc774\ud06c\u2077\u2077\u2077(122.153): \ucee4\ubba4\uc12d\uc5d0\uc11c \uccd0\ubc15\ud600\uc11c \ubd07 \ub450\ub824\uc6cc\ud558\ub294\uac70 \ubd88\uc30d\ud569\ub2c8\ub2e4",
+				"can be commonly seen in DCinside | \ud3ec\ucee4 \ud398\uc774\ud06c\u2077\u2077\u2077(122.153): \ucee4\ubba4\uc12d\uc5d0\uc11c \uccd0\ubc15\ud600\uc11c \ubd07 \ub450\ub824\uc6cc\ud558\ub294\uac70 \ubd88\uc30d\ud569\ub2c8\ub2e4",
 				"https://gall.dcinside.com/board/view/?id=teamfortress2&no=599008",
 				"\ud3ec\ucee4 \ud398\uc774\ud06c\u2077\u2077\u2077(122.153): \ud5e8\ub9ac \uc624\ub79c\ub9cc\uc774\ub124 \uce5c\uc0ad\ub2f9\ud574\uc11c \ubb50\ud558\ub294\uc9c0 \ubab0\ub790\ub294\ub370 \uc5ec\uc804\ud788 \uc5b4\uc120\ub3cc\ub9ac\ub098\ubcf4\ub124",
 				"\u3147\u3147(115.22): \uc717\uc0c8\ub080 \uc874\ub098 \ud575 \ub124\uc784\ub4dc\uc784",

@@ -1,0 +1,194 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "megascatterbomb impersonation series",
+		"title": "sleepylist-bots.msb-impers"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(5)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602062267]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(11)MegaAnti-CheatSecurityServi",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602284581]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602329439]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MegaAnti-CheatSecurityServices",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602364074]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602394550]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(12)MegaAnti-CheatSecurityServi",
+				"time": 1698226091
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602445455]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(9)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602449691]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(7)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602485980]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602558063]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(6)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1602564509]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(8)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1604129969]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)MegaAnti-CheatSecurityServic",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1604203334]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(13)MegaAnti-CheatSecurityServi",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1604525900]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(10)MegaAnti-CheatSecurityServi",
+				"time": 1698226088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: megascatterbomb impersonation bot related"
+			],
+			"steamid": "[U:1:1604640402]"
+		}
+	]
+}

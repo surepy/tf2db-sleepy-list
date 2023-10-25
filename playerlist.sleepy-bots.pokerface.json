@@ -4,10 +4,75 @@
 		"authors": [
 			"surepy"
 		],
-		"description": "sleepy's bot list // 'pokerface' bots aka 'tf2 destroyers' group // KR bots // ripped from: https://steamcommunity.com/gid/103582791473328100/memberslistxml/?xml=1&page=1",
+		"description": "'pokerface' bots aka 'tf2 destroyers' group // KR bots // 4 groupban entries merged (associates banned too)",
 		"title": "sleepylist-bots.pokerface"
 	},
 	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Double",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:335243048]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The creator",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:384467527]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Leo\u00b3",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:838709207]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[ BFHMSC ] CHILL",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1011390872]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Umbyfox",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1056033835]"
+		},
 		{
 			"attributes": [
 				"cheater"
@@ -26,13 +91,157 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Notadev 2",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1149048795]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "saul badman",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1211434815]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "b",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1224753274]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gilbert",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1243259205]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lmowags",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1256421340]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud559\uc2dd \uc788\ub294",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1259817619]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Blitz\u00f8",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1261327753]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Doug",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1261931808]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nothing",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1270841770]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "0x0000001a",
 				"time": 1681031687
 			},
 			"proof": [
-				"main bot host, see sleepylist for more info"
+				"main bot host, see sleepylist for more info",
+				"aka LUCY/pokerface/pokerfake"
 			],
 			"steamid": "[U:1:1273939688]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "123m4D123",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1298037717]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Neco-Arc",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1305791390]"
 		},
 		{
 			"attributes": [
@@ -59,10 +268,26 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1507372227]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Amazing of Digital Circus",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1507396715]"
 		},
 		{
 			"attributes": [
@@ -79,9 +304,14 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
 			"steamid": "[U:1:1508218087]"
 		},
 		{
@@ -89,9 +319,14 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
 			"steamid": "[U:1:1511434860]"
 		},
 		{
@@ -99,9 +334,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1512492280]"
 		},
 		{
@@ -179,9 +417,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1526600536]"
 		},
 		{
@@ -189,9 +430,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1526607813]"
 		},
 		{
@@ -199,9 +443,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1526624686]"
 		},
 		{
@@ -209,9 +456,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1526675741]"
 		},
 		{
@@ -219,9 +469,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1526767809]"
 		},
 		{
@@ -229,9 +482,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1526833794]"
 		},
 		{
@@ -239,9 +495,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1526939084]"
 		},
 		{
@@ -249,9 +508,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1527024945]"
 		},
 		{
@@ -259,9 +521,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1527068631]"
 		},
 		{
@@ -269,9 +534,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1527117618]"
 		},
 		{
@@ -329,9 +597,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1527657761]"
 		},
 		{
@@ -339,9 +610,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1527740372]"
 		},
 		{
@@ -349,9 +623,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1527822193]"
 		},
 		{
@@ -389,9 +666,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1528301886]"
 		},
 		{
@@ -489,9 +769,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c.exe",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
 			"steamid": "[U:1:1529452732]"
 		},
 		{
@@ -859,9 +1143,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "PokerFace",
-				"time": 1681031687
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
 			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
 			"steamid": "[U:1:1534985927]"
 		},
 		{
@@ -873,6 +1160,19 @@
 				"time": 1681031687
 			},
 			"steamid": "[U:1:1534990424]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1535220890]"
 		},
 		{
 			"attributes": [
@@ -893,6 +1193,1172 @@
 				"time": 1681031687
 			},
 			"steamid": "[U:1:1535314848]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1535859920]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1536011900]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1536076583]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1538790350]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1538982605]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1539095644]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1542091900]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1542912848]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1544270965]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1544732888]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "unlike",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1544756292]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Doo Doo",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1544893711]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1544896533]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Staliman",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1544946633]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1545250210]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1545291274]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1545474945]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1545634081]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ryder",
+				"time": 1698229395
+			},
+			"proof": [
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1548516746]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1550380637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1550762160]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1557163279]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1558479892]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1558591565]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1567870465]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)"
+			],
+			"steamid": "[U:1:1567908286]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1567921715]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1568303037]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1568527793]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1568551115]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1584100096]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1584669666]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1588614533]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1593341255]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)",
+				"[GROUP BAN] I don't even know who I am anymore (103582791474228158)",
+				"[GROUP BAN] LazyHank destroyer (103582791472167740)"
+			],
+			"steamid": "[U:1:1595313413]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595415638]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595416983]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595424242]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595547637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595600960]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595701541]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595771655]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595792859]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595812788]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595881344]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595926502]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595934236]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1595939472]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596073252]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596146301]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596151382]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596188836]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596216898]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596371543]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596425621]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596531654]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596615759]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596620477]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596628716]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596668525]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596774535]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596782878]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1596844615]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1597020443]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1597242626]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199557688239",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1597422511]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1597572513]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1597842399]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598071253]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598193520]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598372279]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598410072]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598449550]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598565292]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598589646]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598885157]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598923414]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1598994792]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1599134469]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1599216744]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1599272082]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1599303172]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1599412903]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\uc758\uc0ac\uc591\ubc18",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1599737797]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[deleted]",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1599764088]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1600362090]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1600738984]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud3ec\ucee4 \ud398\uc774\ud06c",
+				"time": 1698229072
+			},
+			"proof": [
+				"[GROUP BAN] PSYC\uff28O CRUISE (103582791474179503)"
+			],
+			"steamid": "[U:1:1603703841]"
 		}
 	]
 }
