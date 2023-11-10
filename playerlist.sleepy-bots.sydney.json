@@ -583,11 +583,11 @@
 			],
 			"last_seen": {
 				"player_name": "\u0e4aS\u0e4ay\u0e4ad\u0e4ane\u0e4ay\u0e4a",
-				"time": 1685270883
+				"time": 1699588496
 			},
 			"proof": [
-				"[GROUP BAN] SydneyTF2 (103582791473488935)",
-				"generated from group_bans.py"
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+				"[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
 			],
 			"steamid": "[U:1:1547244701]"
 		},
@@ -707,7 +707,7 @@
 			],
 			"last_seen": {
 				"player_name": "\u0e4aS\u0e4a\u0e4a\u0e4ayd\u0e4an\u0e4ae\u0e4ay\u0e4a",
-				"time": 1697624167
+				"time": 1699606301
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -735,7 +735,7 @@
 			],
 			"last_seen": {
 				"player_name": "\u0e4a\u0e4aS\u0e4a\u0e4ay\u0e4adn\u0e4ae\u0e4ay\u0e4a",
-				"time": 1697624167
+				"time": 1699582440
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -749,7 +749,7 @@
 			],
 			"last_seen": {
 				"player_name": "\u0e4a\u0e4aS\u0e4ay\u0e4a\u0e4adne\u0e4a\u0e4ay",
-				"time": 1697963770
+				"time": 1699606740
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -804,7 +804,7 @@
 			],
 			"last_seen": {
 				"player_name": "\u0e4a\u0e4aS\u0e4ay\u0e4a\u0e4adn\u0e4ae\u0e4ay",
-				"time": 1697624167
+				"time": 1699608171
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -825,6 +825,20 @@
 				"[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
 			],
 			"steamid": "[U:1:1562338389]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e4aS\u0e4a\u0e4a\u0e4ay\u0e4a\u0e4a\u0e4ad\u0e4aney",
+				"time": 1699586014
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+				"[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+			],
+			"steamid": "[U:1:1562364673]"
 		},
 		{
 			"attributes": [
@@ -859,8 +873,22 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u0e4a\u0e4aS\u0e4ayd\u0e4an\u0e4ae\u0e4ay\u0e4a\u0e4a",
+				"time": 1699586614
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+				"[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+			],
+			"steamid": "[U:1:1562476810]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "\u0e4a\u0e4aS\u0e4aydn\u0e4ae\u0e4ay\u0e4a\u0e4a\u0e4a",
-				"time": 1697624167
+				"time": 1699606626
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -874,7 +902,7 @@
 			],
 			"last_seen": {
 				"player_name": "\u0e3a\u0e3a\u0e3a\u0e3aSy\u0e3a\u0e3adn\u0e3ae\u0e3ay",
-				"time": 1697624167
+				"time": 1699603724
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -894,6 +922,20 @@
 				"sydney"
 			],
 			"steamid": "[U:1:1562641214]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sy\u0e4ad\u0e4an\u0e4a\u0e4a\u0e4ae\u0e4ay\u0e4a",
+				"time": 1699585749
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+				"[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+			],
+			"steamid": "[U:1:1562655880]"
 		},
 		{
 			"attributes": [

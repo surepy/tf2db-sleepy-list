@@ -26,6 +26,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DihoGOAT",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1219975]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Twitch.tv/PasteWare {LIVE!}",
 				"time": 1670326929
 			},
@@ -66,10 +80,64 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "dnd",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:46519035]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S1",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:56850276]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bigger weapons",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:67307304]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Fatgineer",
 				"time": 1683708316
 			},
 			"steamid": "[U:1:77699411]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Glitch The Protogen",
+				"time": 1698432957
+			},
+			"proof": [
+				"[association] queued with tempest"
+			],
+			"steamid": "[U:1:79857470]"
 		},
 		{
 			"attributes": [
@@ -205,9 +273,22 @@
 			},
 			"proof": [
 				"[GROUP BAN] deer_dance (103582791473056449)",
-				"generated from group_bans.py"
+				"confirmed entry, do not remove"
 			],
 			"steamid": "[U:1:122798250]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OG.PikminBlueLover225 #GAMECUBE",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:122823546]"
 		},
 		{
 			"attributes": [
@@ -222,6 +303,20 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:123274903]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "CrnOnDaC0B",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:133286865]"
 		},
 		{
 			"attributes": [
@@ -259,7 +354,7 @@
 				"time": 1673694873
 			},
 			"proof": [
-				"[Association Mark] possibly queued with Syn (U:1:1273939688)"
+				"[association] possibly queued with Syn (U:1:1273939688)"
 			],
 			"steamid": "[U:1:144413961]"
 		},
@@ -281,6 +376,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "lester",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:163108387]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Favored One",
 				"time": 1696469787
 			},
@@ -288,6 +397,20 @@
 				"backtrack"
 			],
 			"steamid": "[U:1:164295139]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "legacy",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:164901552]"
 		},
 		{
 			"attributes": [
@@ -308,7 +431,7 @@
 			},
 			"proof": [
 				"aimbot",
-				"[Association Mark] possibly queued with Syn (U:1:1273939688)"
+				"[association] possibly queued with Syn (U:1:1273939688)"
 			],
 			"steamid": "[U:1:166571801]"
 		},
@@ -321,7 +444,7 @@
 				"time": 1667569759
 			},
 			"proof": [
-				"[Association mark] queued with Timing ([U:1:184360469])",
+				"[association] queued with Timing ([U:1:184360469])",
 				"https://cdn.discordapp.com/attachments/716525494861824042/1073162918604066836/cheter.mov"
 			],
 			"steamid": "[U:1:169791438]"
@@ -513,6 +636,33 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:222077667]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dungeon",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:230216351]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "morale",
+				"time": 1699200112
+			},
+			"proof": [
+				"[copy] entry copied from antye ([U:1:122798250])"
+			],
+			"steamid": "[U:1:232791099]"
 		},
 		{
 			"attributes": [
@@ -738,6 +888,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "feddi favela",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:311523967]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "\\-RAZIER-/",
 				"time": 1681290255
 			},
@@ -783,6 +947,20 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:316685826]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Double",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:335243048]"
 		},
 		{
 			"attributes": [
@@ -893,6 +1071,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "gypsynarancs",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:373283950]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "H\u00f6llenfeuer",
 				"time": 1690545193
 			},
@@ -972,6 +1164,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "B-Hop",
+				"time": 1698239402
+			},
+			"proof": [
+				"prefiring no intel players on wide swing at around 1~2 ticks"
+			],
+			"steamid": "[U:1:395622908]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "nuclearcornonthecob365",
 				"time": 1687828820
 			},
@@ -1002,7 +1207,7 @@
 				"time": 1674978499
 			},
 			"proof": [
-				"[Association mark] no evidence of cheating, but queued with Furrita insana ([U:1:1131890005])"
+				"[association] no evidence of cheating, but queued with Furrita insana ([U:1:1131890005])"
 			],
 			"steamid": "[U:1:418573583]"
 		},
@@ -1118,6 +1323,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "inhuman",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:456722467]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "SmellBourp",
 				"time": 1678607468
 			},
@@ -1226,6 +1445,20 @@
 				"extra note: very low-key if true, I dismissed as a lot as 'eh, could happen' but apparently cheating?"
 			],
 			"steamid": "[U:1:851494952]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lester",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:853532497]"
 		},
 		{
 			"attributes": [
@@ -1354,6 +1587,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Martin White",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:918987989]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Mao Tse-Tung",
 				"time": 1667569759
 			},
@@ -1375,6 +1622,20 @@
 				"stack with [U:1:1261315039]"
 			],
 			"steamid": "[U:1:920440198]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eeyore",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:920548549]"
 		},
 		{
 			"attributes": [
@@ -1451,6 +1712,34 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "adam",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:947132758]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tuomis",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:960968098]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "StuffedCrust",
 				"time": 1667285808
 			},
@@ -1458,6 +1747,48 @@
 				"seen antiaiming beginning of the match on join, jittered spin."
 			],
 			"steamid": "[U:1:1000586700]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u2665TOOLI\u2665WRLD\u2665 B>QS",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1005327706]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TNE's Code Garbage Can",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1007835058]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Collectorius",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1008146695]"
 		},
 		{
 			"attributes": [
@@ -1503,6 +1834,20 @@
 				"apparently crithacking, called out from like the entire enemy team."
 			],
 			"steamid": "[U:1:1011906129]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Satoshy \ud80c\udc80",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1012900456]"
 		},
 		{
 			"attributes": [
@@ -1567,7 +1912,7 @@
 				"time": 1690545193
 			},
 			"proof": [
-				"[Association Mark] queued with nova ([U:1:921831212]), likely cheating.",
+				"[association] queued with nova ([U:1:921831212]), likely cheating.",
 				"autovaccinator?",
 				"[GROUP BAN] Protogens Of 2Fort (103582791473512066)"
 			],
@@ -1604,6 +1949,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Cannibal",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1048864467]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Shotgun Symphony",
 				"time": 1669906068
 			},
@@ -1611,6 +1970,20 @@
 				"180fov aimbot and noisemaker feature."
 			],
 			"steamid": "[U:1:1052030458]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vanilla Sl4yer",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1052074861]"
 		},
 		{
 			"attributes": [
@@ -1638,6 +2011,34 @@
 				"fakelag"
 			],
 			"steamid": "[U:1:1055878664]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Saless  \ud80c\udc80",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1055967399]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud835\udcdb\ud835\udcea\ud835\udcff\ud835\udcee\ud835\udcf7\ud835\udced\ud835\udcee",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1070409019]"
 		},
 		{
 			"attributes": [
@@ -1673,6 +2074,20 @@
 				"\"legit\"hacking, low fov"
 			],
 			"steamid": "[U:1:1080344200]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fuzza",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1087548218]"
 		},
 		{
 			"attributes": [
@@ -1823,7 +2238,7 @@
 			},
 			"proof": [
 				"autobhop and aim it seems, not too sure.",
-				"[Association mark] possibly queued with Syn (U:1:1273939688)"
+				"[association] possibly queued with Syn (U:1:1273939688)"
 			],
 			"steamid": "[U:1:1114501056]"
 		},
@@ -1911,6 +2326,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "katana man",
+				"time": 1698292548
+			},
+			"proof": [
+				"crithacks"
+			],
+			"steamid": "[U:1:1131056417]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Furrita insana",
 				"time": 1674978465
 			},
@@ -1918,6 +2346,34 @@
 				"aimbot, queued with Furrito insano ([U:1:418573583])"
 			],
 			"steamid": "[U:1:1131890005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pat0",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1134343239]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Johnathan Jamal Porter",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1144367847]"
 		},
 		{
 			"attributes": [
@@ -2008,6 +2464,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "sven",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1176296804]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "azzy",
 				"time": 1674379179
 			},
@@ -2028,6 +2498,20 @@
 				"autobhop + proj aim"
 			],
 			"steamid": "[U:1:1182041127]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Today we are",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1183809195]"
 		},
 		{
 			"attributes": [
@@ -2087,6 +2571,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "cool",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1212381454]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "MacbookPro2015WithSsd",
 				"time": 1674379655
 			},
@@ -2094,6 +2592,20 @@
 				"fakelag + fake latency"
 			],
 			"steamid": "[U:1:1213070897]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "el profesor de biologia",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1213501370]"
 		},
 		{
 			"attributes": [
@@ -2119,6 +2631,34 @@
 				"aim"
 			],
 			"steamid": "[U:1:1219221495]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Flipper Zero",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1220513752]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud835\ude62\ud835\ude56\ud835\ude60\ud835\ude5a \ud835\ude68\ud835\ude60\ud835\ude5a",
+				"time": 1695438817
+			},
+			"proof": [
+				"owning noobs in hvh - profile description",
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:1223072490]"
 		},
 		{
 			"attributes": [
@@ -2169,6 +2709,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "yes",
+				"time": 1695438817
+			},
+			"proof": [
+				"vanity url is 'seowned'",
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:1232215085]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "hopar!c56",
 				"time": 1682749931
 			},
@@ -2177,6 +2731,19 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1232583575]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kane",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:1232624829]"
 		},
 		{
 			"attributes": [
@@ -2329,6 +2896,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Kal",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1260807241]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "blaq",
 				"time": 1695980353
 			},
@@ -2356,6 +2937,34 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "S_U_G_A",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1264806348]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "monolith",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1265252477]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "PUTOSIsgay",
 				"time": 1683037027
 			},
@@ -2363,6 +2972,20 @@
 				"ragehacking"
 			],
 			"steamid": "[U:1:1266530014]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kronix",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1268835372]"
 		},
 		{
 			"attributes": [
@@ -2378,6 +3001,19 @@
 				"[auto] automatically marked: Racist | reason: \"kick that nigger\""
 			],
 			"steamid": "[U:1:1270230767]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mac",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:1272369526]"
 		},
 		{
 			"attributes": [
@@ -2462,6 +3098,20 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "1mN0t?",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1284085342]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -2491,10 +3141,52 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\uff4c\uff49\uff4b\uff45\uff53\uff55\uff50\uff52\uff45\uff4d",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1299439863]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Sad\u2067\u2067ness",
 				"time": 1670838243
 			},
 			"steamid": "[U:1:1302671890]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gamer (Titan TV Man)",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1306367512]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ".dll",
+				"time": 1695438817
+			},
+			"proof": [
+				"found on sourcehvh.net",
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:1306401920]"
 		},
 		{
 			"attributes": [
@@ -2512,6 +3204,34 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Eminem",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1313606200]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dylan",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1326521079]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -2524,6 +3244,34 @@
 				"[auto] automatically marked: Racist | reason: \"dumb fucking nigger\""
 			],
 			"steamid": "[U:1:1350058873]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "anabunkum taker",
+				"time": 1695438817
+			},
+			"proof": [
+				"found on Swag HvH US, obvious rage cheating",
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:1360074599]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MUqa",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1363071598]"
 		},
 		{
 			"attributes": [
@@ -2615,6 +3363,20 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NiceTry",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1404958342]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -2625,6 +3387,20 @@
 				"likely cheating, low fov"
 			],
 			"steamid": "[U:1:1409744894]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "abandoned ******* SAY F",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1421656165]"
 		},
 		{
 			"attributes": [
@@ -2670,6 +3446,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "ice",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)"
+			],
+			"steamid": "[U:1:1442604024]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "ValkyrienessShit",
 				"time": 1692681403
 			},
@@ -2700,6 +3489,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u00dclmerhaken",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1444497645]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "\u04c1\u04c3\u04c5\u049c\u04da\u046c\u0466\u046e\u0470\u047c\u04fe\u0476\u04a8",
 				"time": 1674532686
 			},
@@ -2707,6 +3510,20 @@
 				"aimbotting + rage stack with ceryel ([U:1:95556303]), SunnyD-Pad ([U:1:207152741]), st4rb0y^* ([U:1:377221535])"
 			],
 			"steamid": "[U:1:1450323428]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u1d37\u214e\u0297",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1470274091]"
 		},
 		{
 			"attributes": [
@@ -2830,6 +3647,34 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Near",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1521096620]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "srt",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1521473660]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "LynxFaded",
 				"time": 1696411118
 			},
@@ -2851,6 +3696,20 @@
 				"generated from group_bans.py"
 			],
 			"steamid": "[U:1:1526605262]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lester",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1528828114]"
 		},
 		{
 			"attributes": [
@@ -2926,6 +3785,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "*DEAD ACC*",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1543334143]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Goth",
 				"time": 1686652721
 			},
@@ -2933,6 +3806,20 @@
 				"blatant aim"
 			],
 			"steamid": "[U:1:1543431386]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "smurfcat lover",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1545587506]"
 		},
 		{
 			"attributes": [
@@ -2958,6 +3845,20 @@
 				"nullc0re's alt, see nullc0re list."
 			],
 			"steamid": "[U:1:1547051873]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "source",
+				"time": 1695438817
+			},
+			"proof": [
+				"[GROUP BAN] RIJIN USER (103582791473349160)",
+				"generated from group_bans.py"
+			],
+			"steamid": "[U:1:1547602994]"
 		},
 		{
 			"attributes": [
@@ -3059,6 +3960,21 @@
 				"aim"
 			],
 			"steamid": "[U:1:1584864748]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOM Head shot (JFK reference)",
+				"time": 1698737771
+			},
+			"proof": [
+				"3-hour old account",
+				"freebox",
+				"banned (2 day(s) since last ban), remove?"
+			],
+			"steamid": "[U:1:1606764036]"
 		}
 	]
 }
