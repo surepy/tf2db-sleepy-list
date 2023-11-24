@@ -4,7 +4,7 @@
         "authors": [
             "surepy"
         ],
-        "description": "sleepy's merged bot list, 11 files and 920 bots marked.",
+        "description": "sleepy's merged bot list, 13 files and 997 bots marked.",
         "title": "sleepy-bots.merged"
     },
     "players": [
@@ -2365,6 +2365,103 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "Fluttershy",
+                "time": 1700693944
+            },
+            "proof": [
+                "bot host",
+                "pinkiewashere1556 (youtube) seems to be lost, probably identity theft."
+            ],
+            "steamid": "[U:1:1282513632]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1700659670
+            },
+            "steamid": "[U:1:1610427084]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1700659668
+            },
+            "steamid": "[U:1:1610642392]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Chocolate Harmony",
+                "time": 1700819716
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: pinkie (general)"
+            ],
+            "steamid": "[U:1:1609260637]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Lunar Love",
+                "time": 1700811724
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: pinkie (general)"
+            ],
+            "steamid": "[U:1:1609381144]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Amethyst Rose",
+                "time": 1700698215
+            },
+            "proof": [
+                "bot"
+            ],
+            "steamid": "[U:1:1610302805]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Starry Cupcake",
+                "time": 1700693944
+            },
+            "proof": [
+                "bot"
+            ],
+            "steamid": "[U:1:1609211470]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Chocolate Harmony",
+                "time": 1700698149
+            },
+            "proof": [
+                "bot"
+            ],
+            "steamid": "[U:1:1609260637]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "(5)MegaAnti-CheatSecurityServic",
                 "time": 1698226088
             },
@@ -4627,6 +4724,58 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "DELT4TRONIC",
+                "time": 1699792526
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1570705742]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DELTATRONIC\u0e34",
+                "time": 1699792140
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1570970445]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DELTATR0NIC",
+                "time": 1699792273
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1571641911]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DE\u0e34LTATRONIC",
+                "time": 1699791955
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1571643614]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "(4)HEXATRONIC",
                 "time": 1697198903
             },
@@ -4640,8 +4789,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "HEXATRONIC",
-                "time": 1699584586
+                "player_name": "(1)HEXATRONIC",
+                "time": 1699612607
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -4736,7 +4885,7 @@
             ],
             "last_seen": {
                 "player_name": "HEXATRONIC",
-                "time": 1699582685
+                "time": 1699610999
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -4774,8 +4923,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(2)HEXATRONIC",
-                "time": 1699583335
+                "player_name": "HEXATRONIC",
+                "time": 1699612588
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -4814,6 +4963,19 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "(6)HEXATRONIC",
+                "time": 1699620400
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: hexatronic (general)"
+            ],
+            "steamid": "[U:1:1583392484]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "(7)HEXATRONIC",
                 "time": 1699602040
             },
@@ -4840,13 +5002,26 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(1)HEXATRONIC",
-                "time": 1699602040
+                "player_name": "HEXATRONIC",
+                "time": 1699609659
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
             ],
             "steamid": "[U:1:1583465190]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "HEXATRONIC",
+                "time": 1699612461
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: hexatronic (general)"
+            ],
+            "steamid": "[U:1:1583471621]"
         },
         {
             "attributes": [
@@ -4866,8 +5041,21 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "HEXATRONIC",
-                "time": 1699608171
+                "player_name": "(21)HEXATRONIC",
+                "time": 1699609595
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: hexatronic (general)"
+            ],
+            "steamid": "[U:1:1583523525]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(3)HEXATRONIC",
+                "time": 1699609595
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5011,6 +5199,32 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "DELTATR0NIC =}",
+                "time": 1699792749
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1584804485]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0394 DELTATRONIC \u0394",
+                "time": 1699792501
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1585082436]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "HEXATRONIC",
                 "time": 1699581901
             },
@@ -5018,6 +5232,19 @@
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
             ],
             "steamid": "[U:1:1591022633]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "HEXATRONIC",
+                "time": 1699609595
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: hexatronic (general)"
+            ],
+            "steamid": "[U:1:1591341069]"
         },
         {
             "attributes": [
@@ -5036,8 +5263,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(1)HEXATRONIC",
-                "time": 1699603369
+                "player_name": "(2)HEXATRONIC",
+                "time": 1699609595
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5049,8 +5276,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(2)HEXATRONIC",
-                "time": 1699602868
+                "player_name": "(1)HEXATRONIC",
+                "time": 1699609639
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5102,7 +5329,7 @@
             ],
             "last_seen": {
                 "player_name": "(1)HEXATRONIC",
-                "time": 1697191946
+                "time": 1699612133
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5114,8 +5341,21 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(1)HEXATRONIC",
-                "time": 1699603853
+                "player_name": "HEXATRONIC",
+                "time": 1699611146
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: hexatronic (general)"
+            ],
+            "steamid": "[U:1:1597131640]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(2)HEXATRONIC",
+                "time": 1699609639
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5166,8 +5406,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(19)HEXATRONIC",
-                "time": 1697195054
+                "player_name": "HEXATRONIC",
+                "time": 1699612835
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5231,8 +5471,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(2)HEXATRONIC",
-                "time": 1699606841
+                "player_name": "(18)HEXATRONIC",
+                "time": 1699609595
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5296,8 +5536,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(1)HEXATRONIC",
-                "time": 1699604286
+                "player_name": "(13)HEXATRONIC",
+                "time": 1699609589
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5310,7 +5550,7 @@
             ],
             "last_seen": {
                 "player_name": "HEXATRONIC",
-                "time": 1699588586
+                "time": 1699612708
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5348,8 +5588,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(1)HEXATRONIC",
-                "time": 1699588496
+                "player_name": "(16)HEXATRONIC",
+                "time": 1699609579
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5400,8 +5640,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(2)HEXATRONIC",
-                "time": 1699587694
+                "player_name": "(4)HEXATRONIC",
+                "time": 1699609595
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5439,8 +5679,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(14)HEXATRONIC",
-                "time": 1697195054
+                "player_name": "(6)HEXATRONIC",
+                "time": 1699609595
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5504,8 +5744,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "HEXATRONIC",
-                "time": 1699602885
+                "player_name": "(22)HEXATRONIC",
+                "time": 1699609598
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5543,8 +5783,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "HEXATRONIC",
-                "time": 1699581350
+                "player_name": "(5)HEXATRONIC",
+                "time": 1699609595
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5568,13 +5808,26 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "HEXATRONIC",
-                "time": 1699607987
+                "player_name": "(17)HEXATRONIC",
+                "time": 1699609579
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
             ],
             "steamid": "[U:1:1601032325]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "HEXATRONIC",
+                "time": 1699612339
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: hexatronic (general)"
+            ],
+            "steamid": "[U:1:1601040403]"
         },
         {
             "attributes": [
@@ -5620,8 +5873,8 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(2)HEXATRONIC",
-                "time": 1699608038
+                "player_name": "HEXATRONIC",
+                "time": 1699620400
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5685,8 +5938,21 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "HEXATRONIC",
-                "time": 1699602040
+                "player_name": "DELTAT\u0e4eR\u0e4eO\u0e4eNIC",
+                "time": 1699792660
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1601502801]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(19)HEXATRONIC",
+                "time": 1699609595
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
@@ -5711,13 +5977,39 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(3)HEXATRONIC",
-                "time": 1697195004
+                "player_name": "(1)HEXATRONIC",
+                "time": 1699609595
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: hexatronic (general)"
             ],
             "steamid": "[U:1:1601602799]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "D\u0e34ELT\u0e34A\u0e34TR\u0e34ONIC",
+                "time": 1699792242
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1602084418]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DELTATRONIC =/",
+                "time": 1699792331
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: deltatronic (general) // alphatronic when"
+            ],
+            "steamid": "[U:1:1602217018]"
         },
         {
             "attributes": [
@@ -9058,6 +9350,460 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700697267
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1603668852]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700662092
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1603982160]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)www.myg0t.win",
+                "time": 1700392485
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1604046541]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700653626
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1604101002]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700662558
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609329007]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(4)www.myg0t.win",
+                "time": 1700392485
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609329945]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700693206
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609526070]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700659853
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609623477]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700661842
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609634906]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700654320
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609656823]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700699182
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609680724]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "UNINSTALL TF2",
+                "time": 1699791234
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: uninstall tf2 bot"
+            ],
+            "steamid": "[U:1:1609681462]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700692996
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609702636]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700658436
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609708327]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700696917
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609780234]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700695230
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609854001]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)www.myg0t.win",
+                "time": 1700693119
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609901624]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700694868
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609907189]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)www.myg0t.win",
+                "time": 1700661012
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609931820]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)www.myg0t.win",
+                "time": 1700659791
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609934198]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700698573
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1609965271]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(3)www.myg0t.win",
+                "time": 1700392485
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610012443]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)www.myg0t.win",
+                "time": 1700659966
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610031314]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700697890
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610097807]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700693339
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610116054]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700697696
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610127775]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700660936
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610154480]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(8)www.myg0t.win",
+                "time": 1700392485
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610187320]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)UNLIMITED TF2",
+                "time": 1699790081
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: uninstall tf2 bot"
+            ],
+            "steamid": "[U:1:1610203692]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(5)www.myg0t.win",
+                "time": 1700392485
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610226115]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(7)www.myg0t.win",
+                "time": 1700392485
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610443341]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "UNINSTALL TF2",
+                "time": 1699795682
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: uninstall tf2 bot"
+            ],
+            "steamid": "[U:1:1610493378]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "www.myg0t.win",
+                "time": 1700656929
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: (catbot) mygot"
+            ],
+            "steamid": "[U:1:1610507295]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Jesus Enjoyer",
+                "time": 1700659705
+            },
+            "proof": [
+                "bot"
+            ],
+            "steamid": "[U:1:1610757494]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "time": 1700656665
+            },
+            "proof": [
+                "bot"
+            ],
+            "steamid": "[U:1:1610867310]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "Siec #freetayk",
                 "time": 1687911473
             },
@@ -9753,7 +10499,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4aS\u0e4ay\u0e4ad\u0e4ane\u0e4ay\u0e4a",
-                "time": 1699588496
+                "time": 1700697076
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -9863,7 +10609,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4a\u0e4a\u0e4aSy\u0e4a\u0e4a\u0e4ad\u0e4ane\u0e4ay",
-                "time": 1697624167
+                "time": 1700392485
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -9877,7 +10623,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4aS\u0e4a\u0e4a\u0e4ayd\u0e4an\u0e4ae\u0e4ay\u0e4a",
-                "time": 1699606301
+                "time": 1700118763
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -9891,7 +10637,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4aS\u0e4ay\u0e4adn\u0e4ae\u0e4ay",
-                "time": 1697624167
+                "time": 1699609760
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -9905,7 +10651,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4a\u0e4aS\u0e4a\u0e4ay\u0e4adn\u0e4ae\u0e4ay\u0e4a",
-                "time": 1699582440
+                "time": 1700692900
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -9919,7 +10665,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4a\u0e4aS\u0e4ay\u0e4a\u0e4adne\u0e4a\u0e4ay",
-                "time": 1699606740
+                "time": 1700392430
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -9933,7 +10679,7 @@
             ],
             "last_seen": {
                 "player_name": "S\u0e4a\u0e4ay\u0e4adn\u0e4a\u0e4aey\u0e4a",
-                "time": 1697624167
+                "time": 1700697076
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -9959,6 +10705,20 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "\u0e4a\u0e4a\u0e4aS\u0e4a\u0e4ay\u0e4adn\u0e4aey",
+                "time": 1700698183
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1562146321]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "\u0e4a\u0e4aS\u0e4a\u0e4ayd\u0e4an\u0e4ae\u0e4a\u0e4ay",
                 "time": 1697621410
             },
@@ -9974,7 +10734,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4a\u0e4aS\u0e4ay\u0e4a\u0e4adn\u0e4ae\u0e4ay",
-                "time": 1699608171
+                "time": 1700656826
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -9988,7 +10748,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4aS\u0e4ay\u0e4ad\u0e4an\u0e4a\u0e4aey\u0e4a",
-                "time": 1697963770
+                "time": 1700698062
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -10016,7 +10776,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4aS\u0e4a\u0e4a\u0e4ay\u0e4ad\u0e4an\u0e4aey\u0e4a",
-                "time": 1697963771
+                "time": 1700660066
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -10030,13 +10790,27 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4aS\u0e4ay\u0e4ad\u0e4a\u0e4ane\u0e4a\u0e4ay",
-                "time": 1697621410
+                "time": 1700656929
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
                 "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
             ],
             "steamid": "[U:1:1562444402]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4aS\u0e4ay\u0e4a\u0e4ad\u0e4an\u0e4aey\u0e4a",
+                "time": 1699620356
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1562454740]"
         },
         {
             "attributes": [
@@ -10058,7 +10832,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e4a\u0e4aS\u0e4aydn\u0e4ae\u0e4ay\u0e4a\u0e4a\u0e4a",
-                "time": 1699606626
+                "time": 1700659810
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -10072,7 +10846,7 @@
             ],
             "last_seen": {
                 "player_name": "\u0e3a\u0e3a\u0e3a\u0e3aSy\u0e3a\u0e3adn\u0e3ae\u0e3ay",
-                "time": 1699603724
+                "time": 1700392485
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -10099,7 +10873,7 @@
             ],
             "last_seen": {
                 "player_name": "Sy\u0e4ad\u0e4an\u0e4a\u0e4a\u0e4ae\u0e4ay\u0e4a",
-                "time": 1699585749
+                "time": 1699620394
             },
             "proof": [
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
@@ -10134,6 +10908,58 @@
                 "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
             ],
             "steamid": "[U:1:1562999416]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4a\u0e4aS\u0e4aydn\u0e4ae\u0e4a\u0e4a\u0e4ay\u0e4a",
+                "time": 1700694868
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1598026027]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney\u0e4a\u0e4a\u0e4a",
+                "time": 1700697203
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1598346825]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "S\u0e4ay\u0e4ad\u0e4an\u0e4a\u0e4a\u0e4ae\u0e4a\u0e4ay",
+                "time": 1700695230
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1598865966]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "S\u0e4ay\u0e4a\u0e4ad\u0e4a\u0e4an\u0e4a\u0e4aey",
+                "time": 1700697033
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1598912966]"
         },
         {
             "attributes": [
@@ -10927,6 +11753,179 @@
                 "time": 1669385610
             },
             "steamid": "[U:1:1467846861]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/@RosneGaming",
+                "time": 1700392485
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1581768912]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)youtube.com/@RosneGaming",
+                "time": 1699791234
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1581783621]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)youtube.com/@RosneGaming",
+                "time": 1700656929
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1581904013]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/@RosneGaming",
+                "time": 1700697139
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1582150611]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)youtube.com/@RosneGaming",
+                "time": 1699791209
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: rosne",
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1582159557]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/@RosneGaming",
+                "time": 1700656775
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1582195408]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/@RosneGaming",
+                "time": 1700699840
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1582350011]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/@RosneGaming",
+                "time": 1700698478
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1582368425]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/@RosneGaming",
+                "time": 1699791234
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: rosne",
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1582454975]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/@RosneGaming",
+                "time": 1699791209
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1583502072]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(2)youtube.com/@RosneGaming",
+                "time": 1699791210
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: rosne",
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1583959738]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "youtube.com/@RosneGaming",
+                "time": 1700399350
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1584122039]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(3)youtube.com/@RosneGaming",
+                "time": 1699790084
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: rosne",
+                "[auto] automatically marked: Cheater | reason: Rosne (general)"
+            ],
+            "steamid": "[U:1:1584377142]"
         },
         {
             "attributes": [
