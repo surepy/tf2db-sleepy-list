@@ -1,0 +1,110 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "another day and another pony series, these acounts seem to be all premium, lmao.",
+		"title": "sleepylist-bots.pinkie"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fluttershy",
+				"time": 1700693944
+			},
+			"proof": [
+				"bot host",
+				"pinkiewashere1556 (youtube) seems to be lost, probably identity theft."
+			],
+			"steamid": "[U:1:1282513632]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1700659670
+			},
+			"steamid": "[U:1:1610427084]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1700659668
+			},
+			"steamid": "[U:1:1610642392]"
+		},
+		
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Chocolate Harmony",
+				"time": 1700819716
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: pinkie (general)"
+			],
+			"steamid": "[U:1:1609260637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lunar Love",
+				"time": 1700811724
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: pinkie (general)"
+			],
+			"steamid": "[U:1:1609381144]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Amethyst Rose",
+				"time": 1700698215
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1610302805]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Starry Cupcake",
+				"time": 1700693944
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1609211470]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Chocolate Harmony",
+				"time": 1700698149
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1609260637]"
+		}
+	]
+}

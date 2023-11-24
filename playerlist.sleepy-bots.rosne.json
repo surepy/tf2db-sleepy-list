@@ -1,0 +1,185 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"surepy"
+		],
+		"description": "rosne or whatever that guy name is",
+		"title": "sleepylist-bots.rosne"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1700392485
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1581768912]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)youtube.com/@RosneGaming",
+				"time": 1699791234
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1581783621]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)youtube.com/@RosneGaming",
+				"time": 1700656929
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1581904013]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1700697139
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1582150611]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)youtube.com/@RosneGaming",
+				"time": 1699791209
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: rosne",
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1582159557]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1700656775
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1582195408]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1700699840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1582350011]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1700698478
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1582368425]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1699791234
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: rosne",
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1582454975]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1699791209
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1583502072]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)youtube.com/@RosneGaming",
+				"time": 1699791210
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: rosne",
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1583959738]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1700399350
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1584122039]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)youtube.com/@RosneGaming",
+				"time": 1699790084
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: rosne",
+				"[auto] automatically marked: Cheater | reason: Rosne (general)"
+			],
+			"steamid": "[U:1:1584377142]"
+		}
+	]
+}

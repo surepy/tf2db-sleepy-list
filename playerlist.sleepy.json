@@ -2774,6 +2774,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Sean O'pry",
+				"time": 1700396036
+			},
+			"proof": [
+				"weird playstyle, weird response"
+			],
+			"steamid": "[U:1:1240272807]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2797,6 +2810,19 @@
 				"possibly crithacking"
 			],
 			"steamid": "[U:1:1249012149]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Heavy Main",
+				"time": 1699790727
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:1252166815]"
 		},
 		{
 			"attributes": [
