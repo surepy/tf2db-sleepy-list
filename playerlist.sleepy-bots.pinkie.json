@@ -27,20 +27,14 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1700659670
+				"player_name": "Starry Cupcake",
+				"time": 1700693944
 			},
-			"steamid": "[U:1:1610427084]"
-		},
-		{
-			"attributes": [
-				"cheater"
+			"proof": [
+				"bot"
 			],
-			"last_seen": {
-				"time": 1700659668
-			},
-			"steamid": "[U:1:1610642392]"
+			"steamid": "[U:1:1609211470]"
 		},
-		
 		{
 			"attributes": [
 				"cheater"
@@ -85,26 +79,18 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Starry Cupcake",
-				"time": 1700693944
+				"time": 1700659670
 			},
-			"proof": [
-				"bot"
-			],
-			"steamid": "[U:1:1609211470]"
+			"steamid": "[U:1:1610427084]"
 		},
 		{
 			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Chocolate Harmony",
-				"time": 1700698149
+				"time": 1700659668
 			},
-			"proof": [
-				"bot"
-			],
-			"steamid": "[U:1:1609260637]"
+			"steamid": "[U:1:1610642392]"
 		}
 	]
 }
