@@ -875,6 +875,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "MF DOOM",
+				"time": 1703130840
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"NIGGERS\""
+			],
+			"steamid": "[U:1:878473198]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Meowdy",
 				"time": 1683703925
 			},
@@ -1223,6 +1236,23 @@
 				"[auto] automatically marked: Racist | reason: \"use your medigun nigger\""
 			],
 			"steamid": "[U:1:1486302252]"
+		},
+		{
+			"attributes": [
+				"exploiter",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Mr. Dick Jones",
+				"time": 1703130441
+			},
+			"proof": [
+				"annoying personality. do not interact",
+				"[auto] automatically marked: Racist | reason: \"Blu, pay no attention to our chink.  He's angry\"",
+				"[auto] automatically marked: Racist | reason: \"GG EVEYRONE EXCEPT THE CHINK!  \"",
+				"[auto] automatically marked: Racist | reason: \"WHAT DO YOU CALL A FAT CHINK?  A CHUNK!\""
+			],
+			"steamid": "[U:1:1564378215]"
 		},
 		{
 			"attributes": [

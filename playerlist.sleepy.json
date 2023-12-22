@@ -254,7 +254,7 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(Futa Feferi) \ufe3b\u30c7   ",
+				"player_name": "(Futa Feferi) \ufe3b\u30c7",
 				"time": 1700814647
 			},
 			"proof": [
@@ -927,6 +927,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Magistricide",
+				"time": 1703128675
+			},
+			"proof": [
+				"general aim and esp"
+			],
+			"steamid": "[U:1:311463055]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "feddi favela",
 				"time": 1695438817
 			},
@@ -1343,6 +1356,20 @@
 				"*DEAD* ZubZub :  [Other team vote]Fist Man voted No."
 			],
 			"steamid": "[U:1:436771655]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Magistricide",
+				"time": 1703128675
+			},
+			"proof": [
+				"[assoication] queued with Magistricide ([U:1:311463055])",
+				"possible autovaccinator"
+			],
+			"steamid": "[U:1:439784262]"
 		},
 		{
 			"attributes": [

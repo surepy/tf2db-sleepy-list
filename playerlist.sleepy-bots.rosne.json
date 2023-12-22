@@ -13,6 +13,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "az1ge",
+				"time": 1702190987
+			},
+			"proof": [
+				"rosne (rule broke)"
+			],
+			"steamid": "[U:1:1383476370]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "youtube.com/@RosneGaming",
 				"time": 1700392485
 			},
@@ -93,7 +106,7 @@
 			],
 			"last_seen": {
 				"player_name": "youtube.com/@RosneGaming",
-				"time": 1700699840
+				"time": 1702191030
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Rosne (general)"
