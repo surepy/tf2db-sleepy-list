@@ -298,6 +298,7 @@
 				"time": 1682749931
 			},
 			"proof": [
+				"https://www.youtube.com/watch?v=SkiLwWypoKg",
 				"[GROUP BAN] deer_dance (103582791473056449)",
 				"confirmed entry, do not remove"
 			],
@@ -542,6 +543,21 @@
 				"https://cdn.discordapp.com/attachments/716525494861824042/1073162918604066836/cheter.mov"
 			],
 			"steamid": "[U:1:184360469]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Max Payne",
+				"time": 1703478319
+			},
+			"proof": [
+				"180fov 'closet'",
+				"lbox/ncc user, https://www.youtube.com/@Wheatiesss",
+				"https://clipchamp.com/watch/tqTSqqYy03j"
+			],
+			"steamid": "[U:1:188949814]"
 		},
 		{
 			"attributes": [
@@ -931,7 +947,8 @@
 				"time": 1703128675
 			},
 			"proof": [
-				"general aim and esp"
+				"general aim and esp",
+				"was seen doing hvh"
 			],
 			"steamid": "[U:1:311463055]"
 		},
@@ -2159,6 +2176,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Sweet Baby Rays",
+				"time": 1703926268
+			},
+			"proof": [
+				"aim"
+			],
+			"steamid": "[U:1:1081533266]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "fuzza",
 				"time": 1695438817
 			},
@@ -2590,6 +2620,19 @@
 				"autobhop + proj aim"
 			],
 			"steamid": "[U:1:1182041127]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "jazz headcrab",
+				"time": 1704202155
+			},
+			"proof": [
+				"probably cheating, aim (nospread)"
+			],
+			"steamid": "[U:1:1183667929]"
 		},
 		{
 			"attributes": [
@@ -3068,6 +3111,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Sowlyz",
+				"time": 1704784426
+			},
+			"proof": [
+				"scout antiaim + crit key"
+			],
+			"steamid": "[U:1:1263813616]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "S_U_G_A",
 				"time": 1695438817
 			},
@@ -3371,7 +3427,8 @@
 				"time": 1685356741
 			},
 			"proof": [
-				"party vouch, dh aim",
+				"dh / aim",
+				"extra: party vouch",
 				"[auto] automatically marked: Racist | reason: \"dumb fucking nigger\""
 			],
 			"steamid": "[U:1:1350058873]"
@@ -3413,7 +3470,7 @@
 				"time": 1692530869
 			},
 			"proof": [
-				"aim esp fakelag force crit"
+				"aim / esp / fakelag / force crit"
 			],
 			"steamid": "[U:1:1378057990]"
 		},
@@ -3451,9 +3508,6 @@
 				"player_name": "Coke > Pepsi",
 				"time": 1670057326
 			},
-			"proof": [
-				"unknown"
-			],
 			"steamid": "[U:1:1395702744]"
 		},
 		{
@@ -3851,7 +3905,7 @@
 				"time": 1685274505
 			},
 			"proof": [
-				"server crasher "
+				"possible private server crasher"
 			],
 			"steamid": "[U:1:1529887343]"
 		},
@@ -3970,6 +4024,7 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "nullc0re",
 				"time": 1691834540
 			},
 			"proof": [
@@ -4035,8 +4090,8 @@
 				"time": 1694000215
 			},
 			"proof": [
-				"[04:36:26] <76561199521890985> Sent to hell : https://www.youtube.com/@gothic-cc",
-				"rare nitro user"
+				"rare nitro user",
+				"[04:36:26] <76561199521890985> Sent to hell : https://www.youtube.com/@gothic-cc"
 			],
 			"steamid": "[U:1:1561625257]"
 		},

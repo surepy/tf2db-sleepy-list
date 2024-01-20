@@ -2824,12 +2824,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(4)[VAC] OneTrick",
-				"time": 1693479348
+				"player_name": "(2)joe2005",
+				"time": 1704796298
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
-				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+				"[auto] automatically marked: Cheater | reason: 'joe2005'",
+				"[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
 			],
 			"steamid": "[U:1:1584688446]"
 		},
@@ -2838,12 +2838,11 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)[VAC] OneTrick",
-				"time": 1693479348
+				"player_name": "(12)joe2005",
+				"time": 1704796298
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
-				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
 			],
 			"steamid": "[U:1:1584774400]"
 		},
@@ -2906,12 +2905,25 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(6)[VAC] OneTrick",
-				"time": 1693479348
+				"player_name": "(3)joe2005",
+				"time": 1704796298
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
-				"[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+				"[auto] automatically marked: Cheater | reason: 'joe2005'",
+				"[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+			],
+			"steamid": "[U:1:1585052389]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(16)joe2005",
+				"time": 1704795193
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
 			],
 			"steamid": "[U:1:1585124760]"
 		},
@@ -3426,6 +3438,112 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(9)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1608730344]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(10)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1608783412]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)joe2005",
+				"time": 1704796300
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'",
+				"[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+			],
+			"steamid": "[U:1:1608827536]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(8)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'",
+				"[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+			],
+			"steamid": "[U:1:1608914954]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(7)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1609211470]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)joe2005",
+				"time": 1704795193
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1609224506]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(11)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1609260637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(5)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1609277890]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)www.myg0t.win",
 				"time": 1701255888
 			},
@@ -3446,6 +3564,19 @@
 				"[auto] automatically marked: Cheater | reason: (catbot) mygot"
 			],
 			"steamid": "[U:1:1609329945]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(19)joe2005",
+				"time": 1704795193
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1609381144]"
 		},
 		{
 			"attributes": [
@@ -3725,6 +3856,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "RoyalAbiya",
+				"time": 1705746598
+			},
+			"proof": [
+				"geeneric engi bot"
+			],
+			"steamid": "[U:1:1609981425]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(2)www.myg0t.win",
 				"time": 1701252766
 			},
@@ -3842,6 +3986,46 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(6)joe2005",
+				"time": 1704796299
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'",
+				"[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+			],
+			"steamid": "[U:1:1610302805]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(13)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1610333663]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(18)joe2005",
+				"time": 1704795193
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1610427084]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "www.myg0t.win",
 				"time": 1701259307
 			},
@@ -3881,6 +4065,46 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(17)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1610531135]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "joe2005",
+				"time": 1704796299
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'",
+				"[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+			],
+			"steamid": "[U:1:1610556758]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(14)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1610642392]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Jesus Enjoyer",
 				"time": 1700659705
 			},
@@ -3912,6 +4136,136 @@
 				"bot"
 			],
 			"steamid": "[U:1:1610867310]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(18)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1610905816]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)joe2005",
+				"time": 1704783767
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1611022047]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(16)joe2005",
+				"time": 1704796299
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1611106973]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(14)joe2005",
+				"time": 1704795193
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1611445060]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1613962122]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(17)joe2005",
+				"time": 1704795193
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1614346599]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(20)joe2005",
+				"time": 1704795193
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1614893569]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(15)joe2005",
+				"time": 1704795193
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1614951817]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(15)joe2005",
+				"time": 1704796298
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: 'joe2005'"
+			],
+			"steamid": "[U:1:1615019806]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "646-284-1787 richard juardo",
+				"time": 1705432341
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1617701044]"
 		}
 	]
 }
