@@ -4,7 +4,7 @@
         "authors": [
             "surepy"
         ],
-        "description": "sleepy's merged bot list, 13 files and 1018 bots marked.",
+        "description": "sleepy's merged bot list, 14 files and 1082 bots marked.",
         "title": "sleepy-bots.merged"
     },
     "players": [
@@ -3653,6 +3653,175 @@
                 "[auto] automatically marked: Cheater | reason: 'tf2easy' bots"
             ],
             "steamid": "[U:1:1549911196]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dsc.gg/thep\u0e4alaty\u0e4apus",
+                "time": 1707711723
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1609356779]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "th\u0e4ae platypus",
+                "time": 1707710402
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1613875699]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "when perry is sus?",
+                "time": 1707466017
+            },
+            "proof": [
+                "bot"
+            ],
+            "steamid": "[U:1:1614207564]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4at\u0e4ahe platypus",
+                "time": 1707710065
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1614251193]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4adsc.g\u0e4ag/theplatypus",
+                "time": 1707710058
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1614346207]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dsc.g\u0e4ag/theplatypus",
+                "time": 1707711794
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1614811351]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "d\u0e4as\u0e4ac.gg/\u0e4atheplatypu\u0e4as",
+                "time": 1707711123
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1626842199]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dsc.gg/thepla\u0e4at\u0e4ay\u0e4apus\u0e4a",
+                "time": 1707465876
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1627676481]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ds\u0e4ac.gg\u0e4a/\u0e4atheplat\u0e4aypus",
+                "time": 1707714154
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1627757504]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u0e4ad\u0e4as\u0e4ac\u0e4a.gg/theplatypus",
+                "time": 1707713935
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1628301183]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "d\u0e4asc.\u0e4agg/theplat\u0e4a\u0e4aypus",
+                "time": 1707710447
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1628383824]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dsc.gg/pe\u0e4arryslair",
+                "time": 1707710236
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1635014373]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dsc.gg/perryslair\u0e4a",
+                "time": 1707712117
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+            ],
+            "steamid": "[U:1:1635439754]"
         },
         {
             "attributes": [
@@ -8814,12 +8983,12 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(4)[VAC] OneTrick",
-                "time": 1693479348
+                "player_name": "(2)joe2005",
+                "time": 1704796298
             },
             "proof": [
-                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
-                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+                "[auto] automatically marked: Cheater | reason: 'joe2005'",
+                "[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
             ],
             "steamid": "[U:1:1584688446]"
         },
@@ -8828,12 +8997,11 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(2)[VAC] OneTrick",
-                "time": 1693479348
+                "player_name": "(12)joe2005",
+                "time": 1704796298
             },
             "proof": [
-                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
-                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
             ],
             "steamid": "[U:1:1584774400]"
         },
@@ -8896,12 +9064,25 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "(6)[VAC] OneTrick",
-                "time": 1693479348
+                "player_name": "(3)joe2005",
+                "time": 1704796298
             },
             "proof": [
-                "[auto] automatically marked: Cheater | reason: [VAC] OneTrick",
-                "[auto] automatically marked: Suspicious | reason: a good 98% of people with this tag are cheating, verify and unmark otherwise."
+                "[auto] automatically marked: Cheater | reason: 'joe2005'",
+                "[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+            ],
+            "steamid": "[U:1:1585052389]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(16)joe2005",
+                "time": 1704795193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
             ],
             "steamid": "[U:1:1585124760]"
         },
@@ -9416,6 +9597,112 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "(9)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1608730344]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(10)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1608783412]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(4)joe2005",
+                "time": 1704796300
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'",
+                "[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+            ],
+            "steamid": "[U:1:1608827536]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(8)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'",
+                "[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+            ],
+            "steamid": "[U:1:1608914954]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(7)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1609211470]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(4)joe2005",
+                "time": 1704795193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1609224506]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(11)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1609260637]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(5)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1609277890]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "(1)www.myg0t.win",
                 "time": 1701255888
             },
@@ -9436,6 +9723,19 @@
                 "[auto] automatically marked: Cheater | reason: (catbot) mygot"
             ],
             "steamid": "[U:1:1609329945]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(19)joe2005",
+                "time": 1704795193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1609381144]"
         },
         {
             "attributes": [
@@ -9715,6 +10015,19 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "RoyalAbiya",
+                "time": 1705746598
+            },
+            "proof": [
+                "geeneric engi bot"
+            ],
+            "steamid": "[U:1:1609981425]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "(2)www.myg0t.win",
                 "time": 1701252766
             },
@@ -9832,6 +10145,46 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "(6)joe2005",
+                "time": 1704796299
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'",
+                "[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+            ],
+            "steamid": "[U:1:1610302805]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(13)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1610333663]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(18)joe2005",
+                "time": 1704795193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1610427084]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "www.myg0t.win",
                 "time": 1701259307
             },
@@ -9871,6 +10224,46 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "(17)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1610531135]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "joe2005",
+                "time": 1704796299
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'",
+                "[auto] automatically marked: Cheater | reason: \"The joe2005 invasion has begun!\""
+            ],
+            "steamid": "[U:1:1610556758]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(14)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1610642392]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "Jesus Enjoyer",
                 "time": 1700659705
             },
@@ -9902,6 +10295,136 @@
                 "bot"
             ],
             "steamid": "[U:1:1610867310]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(18)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1610905816]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(3)joe2005",
+                "time": 1704783767
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1611022047]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(16)joe2005",
+                "time": 1704796299
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1611106973]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(14)joe2005",
+                "time": 1704795193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1611445060]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(1)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1613962122]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(17)joe2005",
+                "time": 1704795193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1614346599]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(20)joe2005",
+                "time": 1704795193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1614893569]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(15)joe2005",
+                "time": 1704795193
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1614951817]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "(15)joe2005",
+                "time": 1704796298
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: 'joe2005'"
+            ],
+            "steamid": "[U:1:1615019806]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "646-284-1787 richard juardo",
+                "time": 1705432341
+            },
+            "proof": [
+                "bot"
+            ],
+            "steamid": "[U:1:1617701044]"
         },
         {
             "attributes": [
@@ -11036,6 +11559,20 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "Sydn\u0e4aey #Floydski\u0e4ans.shop",
+                "time": 1706135443
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1563019942]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "S\u0e4ay\u0e4ad\u0e4an\u0e4ae\u0e4ay\u0e4a",
                 "time": 1702680850
             },
@@ -11072,6 +11609,20 @@
                 "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
             ],
             "steamid": "[U:1:1563698708]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sy\u0e4adne\u0e4ay #Floydskins.shop",
+                "time": 1706136843
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1597346633]"
         },
         {
             "attributes": [
@@ -11160,6 +11711,45 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "Sydney #Floy\u0e3adskins.shop",
+                "time": 1705744835
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1598370215]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Flo\u0e3aydskins.shop",
+                "time": 1705744554
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1598380807]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "S\u0e4aydney #Floydskins.shop",
+                "time": 1705748590
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1598468846]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "Ratney",
                 "time": 1700816414
             },
@@ -11212,6 +11802,19 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "Sydney #Floyd\u0e3askins.shop",
+                "time": 1705744573
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1598886349]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "S\u0e4ay\u0e4a\u0e4ad\u0e4a\u0e4an\u0e4a\u0e4aey",
                 "time": 1701259919
             },
@@ -11232,6 +11835,246 @@
                 "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
             ],
             "steamid": "[U:1:1598961373]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney\u0e3a #Floydskins.shop",
+                "time": 1705966352
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1599046297]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydski\u0e3a\u0e3ans.shop",
+                "time": 1705966371
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1599084029]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydsk\u0e3ains.shop",
+                "time": 1706135592
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1599122111]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydskins\u0e3a.shop",
+                "time": 1705964872
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1599357989]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydskins.shop",
+                "time": 1705969572
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1599445337]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydskin\u0e3as.shop",
+                "time": 1705748338
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1599798460]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydskins.\u0e3ashop",
+                "time": 1705963284
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1599989250]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydskins.\u0e4bshop",
+                "time": 1705966437
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1600273514]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydskins\u0e4b.shop",
+                "time": 1706136818
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1600406895]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydskins.sho\u0e4bp\u0e4b",
+                "time": 1705963219
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1600487817]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #F\u0e4bloydskins.shop",
+                "time": 1705965247
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1601022978]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydsk\u0e4bins.shop",
+                "time": 1706136843
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1601285307]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydn\u0e4bey #Floydskins.shop",
+                "time": 1705966377
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1601471554]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Fl\u0e4boydskins.shop",
+                "time": 1705965907
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1601488774]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floy\u0e4bdskins.shop",
+                "time": 1706136801
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1601754042]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floydskins.s\u0e4aho\u0e4ap",
+                "time": 1705748525
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1602284581]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydney #Floy\u0e3adsk\u0e3ains.shop",
+                "time": 1705743231
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1602445455]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sydn\u0e4aey #Floydskins.sh\u0e4aop",
+                "time": 1706134582
+            },
+            "proof": [
+                "[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)",
+                "[auto] automatically marked: Cheater | reason: sydney/sydneious (general)"
+            ],
+            "steamid": "[U:1:1602558063]"
         },
         {
             "attributes": [
